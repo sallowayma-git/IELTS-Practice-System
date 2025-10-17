@@ -1,0 +1,103 @@
+{
+  "id": "e020",
+  "passage": {
+    "title": "The Importance of Business Cards",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The exchange of business cards is as close to a universal ritual as you can find in the business world."
+      },
+      {
+        "label": null,
+        "content": "The ritual may be universal, but the details of business cards and how they are swapped vary across countries. Americans throw their cards casually across a table; the Japanese make the exchange of cards a formal ceremony. While there are cards that are discreet and understated, others are crammed full of details and titles. Some businesspeople hand out 24-carat gold cards, and there are kindergarten children who have cards with not only their own contact details, but also with the job descriptions of their parents and even grandparents. This practice has become so common in parts of New York, for example, that the use of such cards is now prohibited by some of these institutions."
+      },
+      {
+        "label": null,
+        "content": "Cards have been around a long time in one form or another. The Chinese invented calling cards in the 15th century to give people notice that they intended to pay them a visit, but these were for social purposes only. Then, in the 17th century, European businesspeople invented a new type of card to act as miniature advertisements, signalling the advent of the business card. In today's world, business cards can cause people to have strong emotional reactions. According to one experienced company director, very few things can provoke more heated discussion at a board meeting than the composition of the company's business cards."
+      },
+      {
+        "label": null,
+        "content": "Lots of companies try to promote themselves by altering the form of the card. Employees at one famous toy company give out little plastic figures with their contact details stamped on them. One fast-food company has business cards which are shaped like a portion of French fries. A Canadian divorce lawyer once gave out cards that could be torn in two one half for each of the spouses. For many business commentators, such gimmicky business cards prove that the use of a physical business card is nearly at an end. After all, why bother exchanging bits of thick paper at all when you can simply swap electronic versions by smartphone?"
+      },
+      {
+        "label": null,
+        "content": "However, one can just as well argue the opposite: that business cards are here to stay, and, in a business world full of meetings and correspondence, it is more important than ever that your card is unique. Attempts to reinvent business cards for the digital age have not been successful. Even at the latest technology conferences, people still greet each other by handing out little rectangles made from paper rather than using a digital alternative."
+      },
+      {
+        "label": null,
+        "content": "To understand business cards, it is necessary to understand how business works. That business cards are thriving in a digital age is a forceful reminder that there is much about business that is timeless. According to Kate Jones, a business lecturer, there is one eternal and inescapable issue. Her 2006 study of more than 200 business executives in North America found that trust was the key element for running a successful business. It is vital to be able to look someone in the eye and decide what sort of person they are. In this way, you can transform acquaintanceships into relationships. A good proportion of business life will always be about building social connections – having dinner or playing sport with clients and colleagues – and while computers can deal with administrative tasks, it is still human beings that have to focus on the emotional."
+      },
+      {
+        "label": null,
+        "content": "The rapid advance of globalisation means that this relationship-building process is becoming ever more demanding. Managers have to put more effort in when dealing with international counterparts, especially when there is not a common language, which is so often the case these days. A recent UK survey showed that chief executives of global organisations now routinely spend three out of every four weeks on international travel. It is in these situations that business cards are doubly useful, as they are a quick way of establishing connections. Cards can also remind you that you have actually met someone in a face-to-face meeting rather than just searched for them on the Internet. Looking through piles of different cards can enhance your memory in ways that simply looking through uniform electronic lists would never do."
+      },
+      {
+        "label": null,
+        "content": "Janet McIntyre is a leading expert on business cards in today's world. She maintains that as companies become more complex, cards are essential in determining the exact status of every contact you meet in multinational corporations. Janet also explains how exchanging business cards can be an effective way of initiating a conversation, because it gives people a ritual to follow when they first meet a new business contact."
+      },
+      {
+        "label": null,
+        "content": "The business world is obsessed with the idea of creating and inventing new things that will change the way we do everything, and this does lead to progress. But there are lots of things that do not need to be changed and, in Janet McIntyre's view, tradition also has an equally valuable role to play. Therefore the practice of exchanging business cards is likely to continue in the business world."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Children's business cards have been banned in some kindergartens.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 2,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "It was the Chinese who first began the practice of using business cards.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 3,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Designing business cards can be a controversial process for some companies.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 4,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "A famous toy company has boosted its sales by using one type of unusual business card.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Some business commentators predict a decline in the use of paper business cards.",
+        "options": []
+      },
+      "answer": "TRUE"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

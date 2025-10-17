@@ -1,0 +1,181 @@
+{
+  "id": "e085",
+  "passage": {
+    "title": "The Art of Deception",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Forty years ago, the research psychologist Dr Paul Ekman was addressing a group of young psychiatrists in training when he was asked a question, the answer to which has kept him busy ever since. Suppose the group wanted to know whether a particular patient who swears they are telling the truth really is. They look and sound sincere. So here is the question: is there any way you can be sure they are telling the truth? Ekman did not know the answer then, but he wanted to find out."
+      },
+      {
+        "label": null,
+        "content": "As part of his research, he had already filmed a series of 12-minute interviews with psychiatric patients. In a subsequent conversation, one of the patients told him that she had lied to him. So Ekman sat and looked at the film but saw nothing noteworthy. Then he slowed it down and looked again. Then he slowed it down even further. And suddenly, there, across just two frames of the film, he saw it: an intense expression of extreme anguish. It lasted less than a fifteenth of a second, but once he had spotted the first expression, he soon found three more examples in that same interview. He termed his discovery \"micro-expressions”: very rapid, intense demonstrations of emotion that the subject intended to conceal."
+      },
+      {
+        "label": null,
+        "content": "Over the course of the next four decades, Ekman successfully demonstrated a proposition first suggested by Charles Darwin: that the ways in which we express rage, disgust, contempt, fear, surprise, happiness and sadness are universal. The facial muscles triggered by those seven basic emotions are, he has shown, essentially standard, regardless of language and culture, from the US to Japan and Brazil to Papua New Guinea. What is more, expressions of emotion are impossible to suppress and, particularly when we are lying, micro-expressions of powerfully felt emotions will inevitably flit across our face before we get the chance to stop them."
+      },
+      {
+        "label": null,
+        "content": "Fortunately for liars, most people will fail to spot these fleeting signals of inner torment. Of the 15,000 Ekman has tested, only 50 people, whom he calls “naturals”, have been able to do it. But given a little more training, Ekman says, almost anyone can develop the skill. He should know: since these tests were completed in the mid-1980s and the first publication of his research, he has been called in by the FBI and CIA (among countless more law-enforcement and other agencies around the world), not just to solve cases, but to teach them how to use his technique for themselves. He has held workshops for defence and prosecution lawyers, health professionals, even jealous spouses, all of them wanting to know exactly when someone is not being 100 percent candid."
+      },
+      {
+        "label": null,
+        "content": "Most recently, Ekman's research has resulted in a new television series about the exploits of the fictional Dr Cal Lightman, a scientist who studies involuntary body language to discover not only if you are lying, but why you might have been motivated to do so. According to the publicity blurb, Lightman is a human lie detector, even more accurate than a polygraph test. Ekman concedes he was sceptical when the producer first approached him with the idea of turning his life's work into a TV series, and initially would have stopped the project if he could. In particular, he was fearful that the show would exaggerate the effectiveness of his techniques and create the quite inaccurate impression among audiences that criminals could no longer hope to get away with lying. In the worst-case scenario, he was concerned about unfair convictions—that one day someone not properly trained in his techniques might be sitting on a jury and wrongly find someone guilty of a crime simply on the basis of a television programme."
+      },
+      {
+        "label": null,
+        "content": "In the end, though, he was won over because the series is unusual in several respects. It is the first time, as far as Ekman is aware, that a commercial TV drama has been based on the work of just one scientist. That scientist is also deeply involved in the project, talking through plot ideas and checking five successive drafts of each script to ensure details are correct. He was also impressed with the producer's manifestly serious and well-intentioned reasons for making the programme. Now that the first series has been completed, he believes probably 80–90 per cent of the show is based on fact and that's good enough for what it is. After all, it is a drama, not a documentary."
+      },
+      {
+        "label": null,
+        "content": "Ekman, incidentally, professes to have been a terrible liar ever since he was a small boy and observes that the ability to detect a lie and the ability to lie successfully are completely unrelated. He has been asked by people running for high office if he could teach them to become more credible with the public but has always refused to use his skills in that way on ethical grounds. He also insists that there are various kinds of lies. A “true” lie can be identified by having two essential characteristics: there must be a deliberate intent to mislead and there must be no notification that this is what is occurring. This means that an actor or a poker player isn't a true liar. They are supposed to deceive you—it's part of the game-and the same is true of flattery. He prefers to focus on the kinds of lies where the liar would be in grave trouble if they were found out, and where the target would feel properly aggrieved if they knew."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 27,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "According to the writer, Ekman became interested in lying after a question from his",
+        "options": []
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 28,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "The writer refers to the 12-minute interviews in order to",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 29,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "What is the writer's point in the third paragraph?",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 30,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "What are we told about Ekman's conclusions from his tests?",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 31,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "What point does the writer make about Ekman's techniques in the fourth paragraph?",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 32,
+      "type": "summary-completion",
+      "instruction": "Complete the summary using the list of words, A–I, below.",
+      "content": {
+        "sentence": "A new TV series based on Ekman's work features a hero named Lightman, who detects lies. Initially, Ekman was unenthusiastic about the TV project because he feared the possibility of encouraging viewers' _____ . For example, he was worried that one day the programme could result in"
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 33,
+      "type": "summary-completion",
+      "instruction": "Complete the summary using the list of words, A–I, below.",
+      "content": {
+        "sentence": "For example, he was worried that one day the programme could result in _____ not being carried out. Ultimately, though, he has given the show his blessing because he is not aware of any other comparable programme based on a single person's"
+      },
+      "answer": "E"
+    },
+    {
+      "questionNumber": 34,
+      "type": "summary-completion",
+      "instruction": "Complete the summary using the list of words, A–I, below.",
+      "content": {
+        "sentence": "Ultimately, though, he has given the show his blessing because he is not aware of any other comparable programme based on a single person's _____ . The"
+      },
+      "answer": "H"
+    },
+    {
+      "questionNumber": 35,
+      "type": "summary-completion",
+      "instruction": "Complete the summary using the list of words, A–I, below.",
+      "content": {
+        "sentence": "The _____ of the show's producer have been another pleasant surprise considering the genre of the programme. Ekman is happy with the show's overall"
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 36,
+      "type": "summary-completion",
+      "instruction": "Complete the summary using the list of words, A–I, below.",
+      "content": {
+        "sentence": "Ekman is happy with the show's overall _____ ."
+      },
+      "answer": "F"
+    },
+    {
+      "questionNumber": 37,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 37–40 on your answer sheet, write",
+      "content": {
+        "questionText": "Ekman regrets the lies he told as a child.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 38,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 37–40 on your answer sheet, write",
+      "content": {
+        "questionText": "People who are good at lying tend to be good at detecting lies.",
+        "options": []
+      },
+      "answer": "NO"
+    },
+    {
+      "questionNumber": 39,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 37–40 on your answer sheet, write",
+      "content": {
+        "questionText": "Ekman has worked with poker players to help them lie more convincingly.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 40,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 37–40 on your answer sheet, write",
+      "content": {
+        "questionText": "Ekman is more interested in the types of lies with serious consequences.",
+        "options": []
+      },
+      "answer": "YES"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 14,
+    "questionTypes": [
+      "multiple-choice-single",
+      "summary-completion"
+    ]
+  }
+}

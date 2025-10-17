@@ -1,0 +1,153 @@
+{
+  "id": "e100",
+  "passage": {
+    "title": "What makes a musical expert?",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Does that class of people acknowledged to be musical experts just have more of the same basic skills we are all endowed with, or do they have a set of abilities — or neural structures — that are totally different from those of the rest of us? Are high levels of musical achievement simply the result of training and practice, or are they based on innate brain structure — what we refer to as talent? Talent can be defined as something that originates in genetic structures and that is identifiable by trained people who can recognize its existence before a person has achieved exceptional levels of performance. The emphasis on early identification means that to investigate it, we study the development of skills in children."
+      },
+      {
+        "label": null,
+        "content": "It is evident that some children acquire skills more rapidly than others: the age of onset for walking and talking varies widely, even between children in the same household. There may be genetic factors at work, but these are closely linked with other factors — with a presumably environmental component — such as motivation and family dynamics. Similar factors can influence musical development and can mask the contribution of genetics to musical ability."
+      },
+      {
+        "label": null,
+        "content": "Brain studies, so far, haven't been of much use in sorting out the issues. Gottfried Schlaug at Harvard collected brain scans of individuals with absolute pitch* (AP) and showed that a region in the brain called the planum temporale is larger in these people than in others. This suggests that the planum is involved in AP, but it's not clear if it starts out larger in people who eventually acquire AP, or if the acquisition of AP makes the planum increase in size."
+      },
+      {
+        "label": null,
+        "content": "Results of research into the areas of the brain involved in skilled motor movement are more conclusive. Studies of violin players have shown that the region of the brain responsible for controlling the movement of the left hand (the hand that requires greater precision in violin playing) increases in size as a result of practice. We do not know yet if the propensity for increase pre-exists in some people and not others."
+      },
+      {
+        "label": null,
+        "content": "The evidence against talent comes from research on how much training the experts do. Like experts in mathematics, chess, or sports, experts in music require lengthy periods of instruction and practice. In several studies, the very best music students were found to have practised more than twice as much as the others. In another study, students were secretly divided into two groups based on teachers' perceptions of their talent. Several years later, it was found that the students who achieved the highest performance ratings had practised the most, irrespective of which talent group they had been assigned to, suggesting that practice does not merely correlate with achievement, but causes it."
+      },
+      {
+        "label": null,
+        "content": "Anders Ericsson, at Florida State University, approaches the topic of musical expertise as a general problem in cognitive psychology. He takes as a starting point the assumption that there are certain issues involved in becoming an expert at anything; that we can learn about musical expertise by studying expert chess players, athletes, artists, mathematicians, as well as the musicians themselves. The emerging picture from such studies is that ten thousand hours of practice is required to achieve the level of mastery associated with being a world-class expert — in anything. In study after study, of composers, ice-skaters, concert pianists, chess players and master criminals, this number comes up again and again. Someone would do this amount of practice if they practised, for example, roughly 20 hours a week for ten years. Of course, this does not address why some people do not seem to get anywhere when they practise, and why some people get more out of their practice sessions than others. But no-one has yet found a case in which true world-class expertise was accomplished in less time. It seems that it takes the brain this long to assimilate all that it needs to know to achieve true mastery."
+      },
+      {
+        "label": null,
+        "content": "The ten-thousand-hour theory is consistent with what we know about how the brain learns. Learning requires the assimilation and consolidation of information in neural tissue. The more experiences we have with something, the stronger the memory/learning trace for that experience becomes. Although people differ in how long it takes them to consolidate information neurally, it remains true that increased practice leads to a greater number of neural traces, which create stronger memory representation."
+      },
+      {
+        "label": null,
+        "content": "The classic rebuttal to this theory goes something like this: What about Mozart? I hear that he composed his first symphony at the age of four! First, there is a factual error here: Mozart did not write it until he was eight. Still, this is unusual, to say the least. However, this early work received little acclaim and was not performed very often. In fact, the only reason we know about it is because the child who wrote it grew up to become Mozart. And Mozart had an expert teacher in his father, who was renowned as a teacher of musicians all over Europe. We do not know how much Mozart practised, but if he started at age two and worked thirty-two hours a week (quite possible, given that his father was a stern task-master) he would have made his ten thousand hours by the time he composed his first symphony. This does not mean that there are no genetic factors involved in Mozart's greatness, but that inborn traits may not be the only cause."
+      },
+      {
+        "label": null,
+        "content": "*individuals with absolute pitch: people who can identify or sing any musical note correctly without help"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 27,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "In the first paragraph, the writer suggests that a talented musician is someone",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 28,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "According to the writer, what is unclear about the findings of Gottfried Schlaug?",
+        "options": []
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 29,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "According to the writer, what has been established by studies of violin players?",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 30,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "According to the writer, findings on the amount of practice done by expert musicians suggest that",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 31,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "Anders Ericsson's work with cognitive psychology has influenced other researchers.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 32,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "Different areas of expertise seem to have one specific thing in common.",
+        "options": []
+      },
+      "answer": "YES"
+    },
+    {
+      "questionNumber": 33,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "In order to be useful, practice must be carried out regularly every day.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 34,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "Anyone who practises for long enough can reach the level of a world-class expert.",
+        "options": []
+      },
+      "answer": "NO"
+    },
+    {
+      "questionNumber": 35,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "Occasionally, someone can become an expert at a global level with fewer than 10,000 hours' practice.",
+        "options": []
+      },
+      "answer": "NO"
+    },
+    {
+      "questionNumber": 36,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 31-36 on your answer sheet, write:",
+      "content": {
+        "questionText": "Existing knowledge of learning and cognitive skills supports the importance of practice.",
+        "options": []
+      },
+      "answer": "YES"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 10,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

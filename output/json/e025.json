@@ -1,0 +1,129 @@
+{
+  "id": "e025",
+  "passage": {
+    "title": "The Rise and Fall of Detective Stories",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The detective story is normally said to have begun in the fertile brain of the great American writer Edgar Allan Poe (1809–49), especially in his stories featuring the detective C. Auguste Dupin. From 1859, Dupin had a counterpart in Monsieur Lecoq, created by the French author Emile Gaboriau. Despite these American and French origins, it was to Britain that detective fiction migrated, where it took root and flourished, becoming a characteristically British genre."
+      },
+      {
+        "label": null,
+        "content": "This transition occurred because of one author and his great detective. The most famous of all fictional detectives, Sherlock Holmes, was introduced by Sir Arthur Conan Doyle in A Study in Scarlet, first published in 1887, and later became the subject of four novels and 56 short stories. Nearly all of the Holmes stories are narrated by his friend Dr Watson. Watson is constantly amazed and stupefied by Holmes's genius, but despite years of working with him, Watson is never able to produce these brilliant insights himself. Holmes is memorably eccentric, with a range of endearing and less endearing habits. He is a brilliant private detective, categorically better than the plodding and mediocre officials of Scotland Yard, who constantly turn to him when they are baffled. This in itself is pure fiction: in real life there were never any brilliant private detectives to whom Scotland Yard turned when they failed, and the Yard's Criminal Investigation Department (CID) had a remarkable clear-up rate and was highly competent."
+      },
+      {
+        "label": null,
+        "content": "Most of the Holmes stories are set among the higher levels of 19th-century British society, a world inhabited by professional men, retired army officers and country gentlemen, as well as members of royalty and cabinet ministers. Few take place among the working classes or the very poor, whereas in fact much crime was a product of the poverty and gangs in London's underworld."
+      },
+      {
+        "label": null,
+        "content": "In the 20th century detective stories became increasingly popular. Reading these stories was one of the characteristic aspects of the British middle classes in the 'golden age' of British detective fiction—the 1920s and 30s. Their emphasis on rationality, the inevitable triumph of justice, and the existence of an unofficial super-detective tells us much about the society of the time. So, too, do the stock characters and unstated prejudices in these works: country folk and domestic servants were almost always depicted as unintelligent, and women were often depicted in a simplistic, two-dimensional way, although a few female detective writers would present female characters in a more realistic manner."
+      },
+      {
+        "label": null,
+        "content": "Most of the well-known British authors of ‘golden age' detective stories were drawn from the middle classes, like their audience. Conan Doyle was a doctor who turned to writing fiction while he awaited his patients; Freeman Wills Crofts was a railway engineer in Northern Ireland; Gilbert Keith Chesterton and Anthony Berkeley were journalists; Cecil Street a career army officer. Apart from a few superstars such as Agatha Christie, financial rewards for these interwar authors were rather meagre; a few hundred pounds per book—a useful income, but nothing princely."
+      },
+      {
+        "label": null,
+        "content": "US writers such as Rex Stout and Ellery Queen attempted to recreate the 'golden age' of British detective fiction. For the most part their books were mere imitations of the British models, although they were seldom wholly successful. But in the 1920s and 1930s, America also saw the rise of the 'hard-boiled' genre and its detective type: the tough private cop who appeared in the works of Dashiell Hammett and Raymond Chandler. Apart from the violence that appeared throughout their works, Hammett's and Chandler's novels were often marked by a political agenda that sought to expose the inequality they saw at the heart of American life. Britain had no real parallel either to their outlook on the world or (until much later) to their violence, but upheld the belief that the authorities should punish criminals regardless of their circumstances."
+      },
+      {
+        "label": null,
+        "content": "By around 1960, the classic British detective story was in serious decline. It seemed that writers had simply run out of ingenious plots and puzzles for their detectives to solve. The best-known crime fiction writers, such as P. D. James, eschewed private detectives for police inspectors, and straightforward puzzles for stories that were full of unexpected twists."
+      },
+      {
+        "label": null,
+        "content": "Today the detective story no longer exists in Britain, at least in its old form. Arguably this mirrors the transformation of that society as a whole. The belief that scientific developments were invariably beneficial possibly reached its height during the period when the classic detective story flourished, as did the belief in putting rationality at the heart of Britain's education system. And finally, the central belief that evil-doers would inevitably get their just deserts through the incorruptibility of the judicial system was replaced by a questioning of some of the procedures and decisions associated with that system."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "C. Auguste Dupin and Émile Gaboriau were both writers of detective stories.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 2,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "It was Conan Doyle's creation of Sherlock Holmes that made the detective story a typically British genre.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 3,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "The positive qualities of the character of Sherlock Holmes outweigh the negative qualities.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 4,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "Officials at Scotland Yard were unhappy at the way they were portrayed in the Sherlock Holmes stories.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "Sherlock Holmes is based on a real private detective who was consulted by Scotland Yard.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 6,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "Conan Doyle's work fails to reflect the reality of crime in 19th-century Britain.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 7,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "In the 1920s and 1930s, most writers of detective stories started to include interesting female characters in their work.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 8,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "content": {
+        "questionText": "Agatha Christie only earned a few hundred pounds for her books.",
+        "options": []
+      },
+      "answer": "FALSE"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 8,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

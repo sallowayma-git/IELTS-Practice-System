@@ -1,0 +1,99 @@
+{
+  "id": "e057",
+  "passage": {
+    "title": "The Tasmanian Tiger",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The Tasmanian tiger, or thylacine, was a carnivorous marsupial (a meat-eating mammal which carries its young in a pouch). It was given the name ‘tiger' because it had striped fur, and because it was ferocious. Between 24 million and 15 million years ago, many types of thylacine roamed across Australia, their powerful jaws playing a role in maintaining a balance in the ecosystems of their day. Some species were fox-sized, while others were barely the size of kittens."
+      },
+      {
+        "label": null,
+        "content": "But when a period of climate change cooled Australia about 12 million years ago, the numbers of these ancient thylacines began to decline. By about 3 million years ago, only one species was left. About 4,000 years ago, these vanished completely from the Australian mainland, so that Tasmania, a large island to the south of Australia, became the last remaining place where thylacines existed. They ruled the island's animal life unchallenged until Europeans—with sheep, dogs and a great indifference to native flora and fauna—seem to have brought about their extinction. In 1936, the last captive Tasmanian tiger died in Hobart Zoo. Since then, many expeditions have searched for tigers in the Tasmanian bush, but no definitive evidence has been found. Despite this, there are many who keep searching."
+      },
+      {
+        "label": null,
+        "content": "In 1981, Dutch-born zoologist Hans Naarding was in Tasmania conducting a survey of Latham's snipe, a species of endangered bird. One night, he saw an animal in the light from the searchlight mounted on his vehicle. He described it as about the size of a large dog, but with slightly sloping hindquarters and a fairly thick tail continuing straight on from its backbone. He said that it had 12 distinct stripes on its back, running down to the point where the tail began. He reported the sighting to the Director of Tasmania's National Parks. “When the news broke,” said Naarding, “I was besieged by television crews, including four or five from Japan, and others from the United Kingdom, Germany, New Zealand and South America.\""
+      },
+      {
+        "label": null,
+        "content": "Government and private search parties combed the region, but no further sightings were made. The tiger, as always, had escaped to its lair—a place that many insist exists only in the imagination. Others disagree: there have been more than 4,000 claimed sightings of the animal since it supposedly died out, and the average number of claims reported to the authorities each year is now 150. So is it out there? Even experts differ in opinion."
+      },
+      {
+        "label": null,
+        "content": "Randolph Rose, Associate Professor of Zoology at the University of Tasmania, says that he once dreamed of seeing a thylacine, but is now convinced that his dream will go unfulfilled. The consensus among conservationists is that any animal with a population base of less than 1,000 is headed for extinction within 60 years. “Sixty years ago,” he says, “there was only one thylacine that we know of, and that was in Hobart Zoo. Take it from me, the tiger is gone.\" But Dr David Pemberton, curator of zoology at the Tasmanian Museum, states that, despite scientific thinking that a relatively large population is required to sustain a species, \"the Florida panther is down to a dozen or so animals, and, while it does have some inbreeding problems, it's still ticking along! After all, animals can be notoriously elusive. The strange fish known as the coelacanth, with its 'proto legs,' was thought to have died out with the dinosaurs 700 million years ago, until a specimen was dragged to the surface in a shark net off the coast of South Africa in 1938.\""
+      },
+      {
+        "label": null,
+        "content": "Wildlife biologist Nick Mooney has the unenviable task of investigating all so-called sightings of the tiger. It was Mooney who was first consulted in late February 2005 about the authenticity of new digital photographic images of a thylacine allegedly taken by a tourist. \"On face value,” Mooney says, “this particular account of a sighting and the photographs submitted as proof amount to one of the most convincing cases for the species' survival that I have seen.” Many other ‘sightings' have been hoaxes, and many sincere seekers are victims of obsession. “It is a blind optimism that something is, rather than cynicism that something isn't,” Mooney says. “If something crosses the road, it's not a case of 'I wonder what that was?' Rather, it is a case of ‘That's a thylacine!\""
+      },
+      {
+        "label": null,
+        "content": "However, Mooney treats all sightings at face value. “I never try to embarrass people,” he says, \"but the fact that I don't pack the car immediately after they telephone can often be taken as ridicule. Obsessive characters get angry that someone in my position is not out there when they think the thylacine is there.”"
+      },
+      {
+        "label": null,
+        "content": "Hans Naarding, whose sighting of a striped animal two decades ago was the highlight of a lifetime of animal spotting, remains puzzled by the time and money people waste on tiger searches. He says resources would be better applied to saving another endangered animal, the Tasmanian devil, and helping declining migratory bird populations. Could the thylacine still be out there? “Sure,” Naarding says. “I know the vast south-west wilderness of Tasmania well. They could survive ... [But] if this is the case, it will not be long before they do disappear completely.” Naarding believes that any discovery of surviving thylacines would be \"rather pointless.” “How do you bring a species back from extinction?” he asks. \"What could you do with it? If there are thylacines out there, they are better off right where they are.\""
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 14,
+      "type": "summary-completion",
+      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "content": {
+        "sentence": "The thylacine was a dog-like animal which had a _____ coat and was carnivorous. It was originally spread widely throughout the mainland of",
+        "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
+      },
+      "answer": "striped"
+    },
+    {
+      "questionNumber": 15,
+      "type": "summary-completion",
+      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "content": {
+        "sentence": "It was originally spread widely throughout the mainland of _____ . However, the number of thylacine decreased in that area around",
+        "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
+      },
+      "answer": "australia"
+    },
+    {
+      "questionNumber": 16,
+      "type": "summary-completion",
+      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "content": {
+        "sentence": "However, the number of thylacine decreased in that area around _____ ago because of climate change.",
+        "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
+      },
+      "answer": "12 million years"
+    },
+    {
+      "questionNumber": 17,
+      "type": "summary-completion",
+      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "content": {
+        "sentence": "In the end, thylacines were found only on the island of _____ , until the arrival of",
+        "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
+      },
+      "answer": "tasmania"
+    },
+    {
+      "questionNumber": 18,
+      "type": "summary-completion",
+      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "content": {
+        "sentence": ", until the arrival of _____ with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
+        "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
+      },
+      "answer": "europeans"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "summary-completion"
+    ]
+  }
+}

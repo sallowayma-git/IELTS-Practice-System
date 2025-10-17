@@ -1,0 +1,145 @@
+{
+  "id": "e127",
+  "passage": {
+    "title": "Science and Filmmaking",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Every year the film academy in the USA celebrates the outstanding achievements of the year in a ceremony known as the Oscars. An increasingly important component of the ceremony is the presentation of the Scientific and Technical awards. In 2004 a notable event took place: the academic world met the cinematographic world when researchers from Stanford University in the USA were awarded an Oscar. These researchers, led by Steve Marschner, were from the field of Computer Graphics at Stanford. They were part of a growing cohort of computer scientists that has become fundamental to moviemaking."
+      },
+      {
+        "label": null,
+        "content": "Films have shown that it is possible to use CGI to make actors look younger, older, weaker or stronger than they actually are in a surprisingly realistic manner. At least, it is possible if the altered actors are not filmed too closely. This is because the difficulty of recreating the textures of both skin and fabric means that the effect is less convincing when seen close up. The work of Marschner and his colleagues has greatly improved the accurate and realistic modeling of both skin and fabric. They recognized that one of the difficulties of creating lifelike characters in the computer world is that, in CGI, the characters' skin is opaque (two-dimensional) whereas real skin is in fact translucent (three-dimensional), that is to say, it is semi-transparent."
+      },
+      {
+        "label": null,
+        "content": "Marschner and his colleagues received the Oscar for their work in successfully producing a CGI model that simulates translucency; this is when light penetrates skin and then scatters below the skin's surface before re-emerging. This is called subsurface scattering, and the mathematics for the model goes back many decades to the time when it was used in astrophysics. Because human skin is naturally translucent, it was necessary to be able to create this artificially in order to simulate the soft appearance of real skin. Previous CGI models, which assumed that skin was entirely opaque, resulted in characters with a plastic appearance. The scientists' new model of CGI was so important in bringing digital characters to life that, within two years of their original research paper, all the major special-effects studios had incorporated it into their digital rendering systems."
+      },
+      {
+        "label": null,
+        "content": "However, despite their award, the scientists, with admirable tenacity, continued their search for perfection, as they still did not feel that they had yet satisfactorily recreated the subtle ways light is reflected. To do this, they began to look in detail at the way skins and fabrics reflect light differently according to their make-up: the exact arrangement of fibers in fabric and the network of fibers in skin. Marschner and his team tried to do this by using computerized tomography, which is most familiar as a medical technique for examining people's internal organs. Like classical radiology, it uses X-rays, but because the image is constructed inside a computer using exposures taken from many different positions, rather than a single exposure on photographic film, it can capture fine details that are invisible in classical radiography."
+      },
+      {
+        "label": null,
+        "content": "Unfortunately, the scientists understood that at this point in time they could not use computerized tomography on skin, because a very high-intensity X-ray is needed to show the kind of detail they wanted and this would be very dangerous for human skin. They have, however, had some success with fabric. Using this new method of imaging, they are able to accurately record the three-dimensional structure of all the fibers in a number of small pieces of fabric. These same pieces of fabric, through the use of CGI, can then be patched together to form an entire garment inside a computer, in the same way that a small group of actors can be made to look like hundreds of people gathered together. A garment created through CGI is therefore made up of pieces of fabric whose internal structure has been pre-recorded. This means that the way light is reflected by the garment can be calculated far more realistically than if the scientists just made a computer model of what they thought the interior of the fabric looked like. Cinematography will benefit from this because, although it may take some years to be able to use computerized tomographic imaging of skin, for the moment the movement of a virtual cloak or the lifting of a computerized hat should look far more realistic."
+      },
+      {
+        "label": null,
+        "content": "In the meantime, according to Marschner's colleague Kavita Bala, the technology might have an application in online retailing. At the moment, people buying clothes over the internet have only a standard photograph to help them choose their purchases. It is hoped that if online shoppers can view items which have been presented through the use of computerized tomography graphics, they will have a much better understanding of what the material the item is made of is really like."
+      },
+      {
+        "label": null,
+        "content": "Marschner is now working on the way light is scattered from individual hairs. He says, 'I feel lucky to be working in this niche. I'm a visual person and to be able to spend my time scrutinizing the world around me, trying to understand why it looks the way it does, is very rewarding'."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 27,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "What is the writer's main point in the first paragraph?",
+        "options": []
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 28,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "When describing the way computer-generated imagery changes actors' appearance, what does the writer suggest?",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 29,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "What does the writer suggest about the scientists' attitude to their work in the fourth paragraph?",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 30,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "What are we told about computerised tomography?",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 31,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "Which of these advantages does the writer attribute to the current use of computerised tomography?",
+        "options": []
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 32,
+      "type": "multiple-choice-single",
+      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "content": {
+        "questionText": "The writer mentions Kavita Bala in order to",
+        "options": []
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 33,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "content": {
+        "questionText": "It used to be unusual for university researchers to receive a cinematography award.",
+        "options": []
+      },
+      "answer": "YES"
+    },
+    {
+      "questionNumber": 34,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "content": {
+        "questionText": "CGI is popular among ageing actors.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 35,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "content": {
+        "questionText": "The scientists' success in generating images of complete CGI garments has won them many awards.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 36,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "content": {
+        "questionText": "It will be a long time before computerised tomographic imaging of fabric is used by filmmakers.",
+        "options": []
+      },
+      "answer": "NO"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 10,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}
