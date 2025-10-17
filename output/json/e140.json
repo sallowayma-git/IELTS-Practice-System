@@ -1,0 +1,103 @@
+{
+  "id": "e140",
+  "passage": {
+    "title": "The Burgess Shale fossils",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Some discoveries are so unusual it takes decades and sometimes even centuries to understand their full significance. One such discovery is the fossil bed known as the Burgess Shale, which contains a record of bizarre creatures that lived 505 million years ago. It was discovered in the Canadian Rockies over a century ago, and was popularized in 1989 in a book, Wonderful Life, by Stephen Jay Gould, an American paleontologist."
+      },
+      {
+        "label": null,
+        "content": "The Burgess Shale fossils were created at a time when the future Canadian land mass was situated near the Earth's equator. The creatures were preserved when an entire marine ecosystem was buried in mud that eventually hardened and became exposed hundreds of millions of years later in an outcrop of the Rocky Mountains. American paleontologist Charles Walcott, following reports of fabulous fossil finds by construction workers on a Canadian railway who were digging in the mountains in the late 19th century, is said to have tripped over a block of shale in 1909 that revealed the area's remarkable supply of specimens. It has long been believed that the curious fauna that lived there vanished in a series of extinctions because the fossil record ends abruptly. But that no longer appears to be the case."
+      },
+      {
+        "label": null,
+        "content": "The Burgess Shale began to form soon after a period known as the Cambrian explosion, when most major groups of complex animals arose over a surprisingly short period. Before 560 million years ago, most living things were either individual cells or simple colonies of cells. Then, and for reasons that remain a mystery, life massively diversified and became ever more complex as the rate of evolution increased. An unusual feature of the Burgess Shale is that it is one of the earliest fossil beds to contain impressions of soft body parts alongside the remains of bones and shells, which is highly unusual."
+      },
+      {
+        "label": null,
+        "content": "Although the fossil bed was discovered on a mountain, these animals originally existed below an ocean, the bed of which was later pushed up to create the Rockies. Nobody knows exactly why they were so well preserved. One possibility is that the creatures were buried quickly and in conditions that were hostile to the bacteria that cause decomposition of soft body parts."
+      },
+      {
+        "label": null,
+        "content": "Those who first worked on the Burgess Shale, unearthing 65,000 specimens over a 14-year period up to 1924, assumed that the fossils came from extinct members of groups of animals in existence today. This turned out to be misleading because many of the creatures are so unusual that they are still difficult to classify."
+      },
+      {
+        "label": null,
+        "content": "One such example is Opabinia, a creature that grew to about 8 cm (3 inches), had five eyes, a body that was a series of lobes, a tail in the shape of a fan, and that ate using a proboscis."
+      },
+      {
+        "label": null,
+        "content": "The proboscis had a set of grasping claws on the end, with which it grabbed food and stuffed it into its mouth. Nectocaris, meanwhile, could be mistaken for a leech, but with fins and tentacles. Weirdest of all was Hallucigenia, described by paleontologist Simon Conway Morris, when he re-examined Walcott's specimens in 1979. With its multiplicity of spines and tentacles, little about Hallucigenia made sense, but scientists hypothesized that the spines were legs that helped it move and the tentacles were for feeding. Like an abstract painting, its orientation is a mystery at first, making it difficult to work out which way up it went, which hole food went into, and which hole food came out of."
+      },
+      {
+        "label": null,
+        "content": "Paleontologists had long thought that many of the Burgess Shale animals were examples of experiments in evolution. In other words, entirely new forms of life that did not survive or lead to other groups or species. Hallucigenia, ironically, turned out to be the exception that proved the rule. It is now thought to be an ancestor of the modern group of arthropods, which includes everything from flies and butterflies to centipedes and crabs."
+      },
+      {
+        "label": null,
+        "content": "Now another misconception has been quashed. Writing in Nature recently, Peter Van Roy of Yale University in the United States and his colleagues suggest that the sudden absence of such crazy soft-bodied fossils does not indicate a mass extinction, but merely an end to the unusual local circumstances that caused the creatures to be preserved. In an area of the Atlas Mountains of Morocco, Van Roy's team of researchers has found another diverse (and sometimes bizarre) assemblage of soft-bodied organisms from a period after the Burgess Shale was formed. One discovery includes something that may be a stalked barnacle. This suggests that the evolution of such complex life went on uninterrupted. For its part, the Burgess Shale continues to produce an astonishing array of indefinable creatures faster than paleontologists can examine them. The world still has plenty to learn about this wonderful life."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "content": {
+        "questionText": "The Burgess Shale became widely known to the public because of Gould's book.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 2,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "content": {
+        "questionText": "Charles Walcott had to get permission from Canadian authorities to gain access to the fossil site.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 3,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "content": {
+        "questionText": "The Burgess Shale includes impressions of soft and hard body parts.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 4,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "content": {
+        "questionText": "The Burgess Shale creatures were land animals.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "content": {
+        "questionText": "Researchers now believe that Hallucigenia is unrelated to any modern creature.",
+        "options": []
+      },
+      "answer": "FALSE"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

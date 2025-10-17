@@ -1,0 +1,267 @@
+{
+  "id": "e094",
+  "passage": {
+    "title": "The Science of Sleep",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Sleep is not an optional activity and is more essential to our survival than food. By the time they die, most people will have spent more than 25 years asleep. As Paul Martin, author of Counting Sheep: The Science and Pleasures of Sleep and Dreams, puts it: “When you die, a bigger slice of your existence will have passed in this state than in raising children, playing games, listening to music, or any other activity that humanity values highly.” Why is it necessary to spend quite so long in this unconscious state? Unlike breathing or eating, the biological benefits of sleep are not immediately obvious."
+      },
+      {
+        "label": null,
+        "content": "It is a behaviour that can be found remarkably far back down the evolutionary ladder. In all creatures, sleep generally involves a cessation of physical activity and a reduction of sensory awareness for regular periods. Like us, other animals are kept awake by stimulants such as caffeine and sleep more as babies."
+      },
+      {
+        "label": null,
+        "content": "Sleep is therefore a mainstay of animal existence and has been honed by millions of years of evolution. Yet until 1952, scientists assumed it was a passive state in which brain activity ceased. But then an extraordinary discovery was made. Sleep-research pioneer Nathaniel Kleitman of the University of Chicago noticed it was marked by periods of rapid eye movement, now known as REM sleep, and that REM sleep was accompanied by a frenzy of brain activity akin to that seen during periods of consciousness."
+      },
+      {
+        "label": null,
+        "content": "We now know that brain activity is far from uniform while we sleep. Over a 60-minute period it goes through four distinct stages of non-REM (NREM) sleep and one episode of REM sleep. It has been discovered that most dreaming occurs during REM sleep, and that deep sleep occurs during the NREM stages. In fact, the two types of sleep are as different as sleeping is from wakefulness. Interestingly, while mammals, birds and more recent reptiles have both types of sleep, primitive reptiles experience only NREM sleep. This implies that REM sleep evolved more recently, possibly around the time of the reptilian ancestors of all mammals, 250 million years ago."
+      },
+      {
+        "label": null,
+        "content": "For centuries it was assumed that sleep served simply as a mechanism for allowing the body to recuperate. Recently, it has been shown that NREM sleep does indeed increase after vigorous exercise. However, people who lie in bed all day also enter NREM sleep, so it can't only be due to this. Professor Meir Siegel of the University of California believes that NREM sleep provides an opportunity to repair the body cells damaged during wakefulness. As he explains, “The decrease both in metabolic rate and in brain temperature occurring during NREM sleep seems to provide an opportunity to repair this damage.”"
+      },
+      {
+        "label": null,
+        "content": "However, Professor Jim Horne of the University of Loughborough disagrees: “There is little evidence that any organ apart from the brain goes through repair during sleep. All the evidence shows that these other organs recover just as well during restful wakefulness.” The brain, Horne points out, never shuts down during wakefulness. Even if we are resting, it remains in a state of readiness. Scans have shown that it is only during NREM sleep that the brain gets any rest. Recognising that when NREM sleep evolved millions of years ago animals didn't have highly developed brains, he concludes, “The functions of NREM sleep have probably changed with evolution, maybe beginning as an energy conserver and culminating, in humans, as a facilitator for the recovery of high-level brain function.”"
+      },
+      {
+        "label": null,
+        "content": "While NREM most probably involves rest and recovery, REM sleep and dreaming are a much more contentious area of research. According to Dr Claudio, when we are deprived of REM sleep, memory consolidation is compromised: “We need it to reprocess what has happened during the previous period of wakefulness in order to store information that is useful.\""
+      },
+      {
+        "label": null,
+        "content": "Certainly there are studies that suggest a strong link between REM sleep and memory. After being taught a new skill, people exhibit a rise in REM sleep. If they are deprived of REM sleep, they are less able to remember the skill. Experiments have shown that REM sleep must occur within 24 hours of an experience if it is to be remembered."
+      },
+      {
+        "label": null,
+        "content": "There are other views about the function of REM sleep. The pioneering sleep researcher Michel Jouvet believes that the intense activity seen in the brain during REM sleep is essential to neural development before birth. There is little to activate the developing brain during the long, dark months in the uterus, so Jouvet hypothesises that the brain generates its own stimuli in the form of REM sleep and dreams to aid its own development."
+      },
+      {
+        "label": null,
+        "content": "In short, the function of REM sleep and dreaming is still something of a mystery. The hope is that, as scanning techniques become more refined, the brain regions underlying the two types of sleep will be better understood. However, we're not likely to get a straightforward answer. As Horne says, “Already over 100 neurochemicals and brain regions connected with sleep have been found, and more and more are being discovered. So clearly there's no single sleep centre.” One thing is certain: we'll never be without sleep. It's highly improbable that any new drug could enable us to avoid it and remain healthy for any length of time."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 27,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "All of the body is able to recover during one type of sleep.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 28,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "The brain benefits from one type of sleep during an early stage of life.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "F"
+    },
+    {
+      "questionNumber": 29,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "Humans spend more time asleep than engaged in any other activity.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 30,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "It is likely that the purpose of one type of sleep has altered over time.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 31,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "Brain activity during one type of sleep is similar to that when people are awake.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 32,
+      "type": "feature-matching",
+      "instruction": "Look at the following statements (Questions 27–32) and the list of people below.\nMatch each statement with the correct person, A–F.",
+      "content": {
+        "statement": "One type of sleep enables an individual to learn from past experience.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Paul Martin"
+          },
+          {
+            "label": "B",
+            "text": "Nathaniel Kleitman"
+          },
+          {
+            "label": "C",
+            "text": "Jerome M. Siegel"
+          },
+          {
+            "label": "D",
+            "text": "Jim Horne"
+          },
+          {
+            "label": "E",
+            "text": "Claudio Stampi"
+          },
+          {
+            "label": "F",
+            "text": "Michel Jouvet"
+          }
+        ]
+      },
+      "answer": "E"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 6,
+    "questionTypes": [
+      "feature-matching"
+    ]
+  }
+}
