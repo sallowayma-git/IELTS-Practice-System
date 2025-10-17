@@ -45,109 +45,300 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What is the writer's main point in the first paragraph?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Criticism of architects by different groups is unfair."
+          },
+          {
+            "label": "B",
+            "text": "The architectural profession is generally well respected."
+          },
+          {
+            "label": "C",
+            "text": "The most difficult projects for architects are public buildings."
+          },
+          {
+            "label": "D",
+            "text": "Failure to deliver buildings is a result of poor communication."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "The Auckland Gallery project was particularly difficult because",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "the existing building was old and parts of it had fallen down."
+          },
+          {
+            "label": "B",
+            "text": "there was a high number of floors in the building."
+          },
+          {
+            "label": "C",
+            "text": "it needed to satisfy the requirements of the existing patrons."
+          },
+          {
+            "label": "D",
+            "text": "it involved renovating the existing building and adding a new one."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What disturbing information did the architects find out from the survey of young people?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "They did not visit the gallery because of the way it made them feel."
+          },
+          {
+            "label": "B",
+            "text": "They thought that the gallery buildings were not in use."
+          },
+          {
+            "label": "C",
+            "text": "The gallery had the reputation of being dirty."
+          },
+          {
+            "label": "D",
+            "text": "They did not like the entrance."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What point is the writer making when he says that 16 % of the sample group did not know where the museum was?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Young people are not interested in galleries."
+          },
+          {
+            "label": "B",
+            "text": "The gallery was not reaching out to involve young people."
+          },
+          {
+            "label": "C",
+            "text": "The entrance to the gallery was not well signposted."
+          },
+          {
+            "label": "D",
+            "text": "The location of the gallery was difficult to access."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Māori artists were used on this project to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "satisfy the concerns of conservationists."
+          },
+          {
+            "label": "B",
+            "text": "protect sacred materials in the Albert Park site."
+          },
+          {
+            "label": "C",
+            "text": "make sure the gallery respects Māori culture."
+          },
+          {
+            "label": "D",
+            "text": "ensure that certain sources of kauri were not used."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Before the renovation, the Auckland Art Gallery was regarded as an elitist institution.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 33,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Stephen King's intervention in the project shows his understanding of the architects' use of kauri.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 34,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The way the building interacts with its surroundings is a triumph.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 35,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The glass screen along the east wall was one of the most costly items in the rebuild.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 36,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The design of the extension to the Auckland Art Gallery is similar to the design of 'white cube' galleries in other parts of the world.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
+    },
+    {
+      "questionNumber": 37,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nresulted in work being done in the opposite direction to that usually followed. is more than cosmetic and has improved the circulation. was the clue to rebuilding the Mackelvie Gallery successfully. has resulted in the building itself becoming a work of art. means that you should be able to tell whether you are in the old wing or the new one. was the result of earlier attempts to modernise the building.\nresulted in work being done in the opposite direction to that usually followed.\nis more than cosmetic and has improved the circulation.\nwas the clue to rebuilding the Mackelvie Gallery successfully.\nhas resulted in the building itself becoming a work of art.\nmeans that you should be able to tell whether you are in the old wing or the new one.\nwas the result of earlier attempts to modernise the building.",
+      "content": {
+        "questionText": "The destruction of Edwardian ornamentation",
+        "options": []
+      },
+      "answer": "F"
+    },
+    {
+      "questionNumber": 38,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nresulted in work being done in the opposite direction to that usually followed. is more than cosmetic and has improved the circulation. was the clue to rebuilding the Mackelvie Gallery successfully. has resulted in the building itself becoming a work of art. means that you should be able to tell whether you are in the old wing or the new one. was the result of earlier attempts to modernise the building.\nresulted in work being done in the opposite direction to that usually followed.\nis more than cosmetic and has improved the circulation.\nwas the clue to rebuilding the Mackelvie Gallery successfully.\nhas resulted in the building itself becoming a work of art.\nmeans that you should be able to tell whether you are in the old wing or the new one.\nwas the result of earlier attempts to modernise the building.",
+      "content": {
+        "questionText": "It is extraordinary that a limited number of photographs",
+        "options": []
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 39,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nresulted in work being done in the opposite direction to that usually followed. is more than cosmetic and has improved the circulation. was the clue to rebuilding the Mackelvie Gallery successfully. has resulted in the building itself becoming a work of art. means that you should be able to tell whether you are in the old wing or the new one. was the result of earlier attempts to modernise the building.\nresulted in work being done in the opposite direction to that usually followed.\nis more than cosmetic and has improved the circulation.\nwas the clue to rebuilding the Mackelvie Gallery successfully.\nhas resulted in the building itself becoming a work of art.\nmeans that you should be able to tell whether you are in the old wing or the new one.\nwas the result of earlier attempts to modernise the building.",
+      "content": {
+        "questionText": "The problem of having so many floor levels to deal with",
+        "options": []
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 40,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nresulted in work being done in the opposite direction to that usually followed. is more than cosmetic and has improved the circulation. was the clue to rebuilding the Mackelvie Gallery successfully. has resulted in the building itself becoming a work of art. means that you should be able to tell whether you are in the old wing or the new one. was the result of earlier attempts to modernise the building.\nresulted in work being done in the opposite direction to that usually followed.\nis more than cosmetic and has improved the circulation.\nwas the clue to rebuilding the Mackelvie Gallery successfully.\nhas resulted in the building itself becoming a work of art.\nmeans that you should be able to tell whether you are in the old wing or the new one.\nwas the result of earlier attempts to modernise the building.",
+      "content": {
+        "questionText": "The glass flooring in the Mackelvie Gallery which reveals old features",
+        "options": []
+      },
+      "answer": "D"
     }
   ],
   "metadata": {
     "difficulty": 3,
-    "totalQuestions": 10,
+    "totalQuestions": 14,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "yes-no-ng"
     ]
   }
 }

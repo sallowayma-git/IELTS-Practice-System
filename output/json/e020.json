@@ -44,51 +44,116 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Children's business cards have been banned in some kindergartens.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "It was the Chinese who first began the practice of using business cards.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Designing business cards can be a controversial process for some companies.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "A famous toy company has boosted its sales by using one type of unusual business card.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Some business commentators predict a decline in the use of paper business cards.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     }
@@ -97,7 +162,7 @@
     "difficulty": 1,
     "totalQuestions": 5,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

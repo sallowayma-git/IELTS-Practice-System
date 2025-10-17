@@ -33,140 +33,402 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter A, B, C or D.",
       "content": {
         "questionText": "What does the writer suggest about game-theory software in the first paragraph?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Traditional negotiating practices should be used to supplement the software."
+          },
+          {
+            "label": "B",
+            "text": "Success of the software depends on the accuracy of the assigned values."
+          },
+          {
+            "label": "C",
+            "text": "This software anticipates the outcome of future events."
+          },
+          {
+            "label": "D",
+            "text": "Future business negotiations will be dominated by this software."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter A, B, C or D.",
       "content": {
         "questionText": "Reinier van Oosten says predicting what people will do works best if",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "participants are honest about how they feel."
+          },
+          {
+            "label": "B",
+            "text": "there is a good understanding of the client's culture."
+          },
+          {
+            "label": "C",
+            "text": "people strongly dislike the other party."
+          },
+          {
+            "label": "D",
+            "text": "profit is the primary motivator."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter A, B, C or D.",
       "content": {
         "questionText": "After using game-theory software in 2006, Dr Milgrom instructed his clients to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "buy big licences."
+          },
+          {
+            "label": "B",
+            "text": "negotiate with the other parties directly."
+          },
+          {
+            "label": "C",
+            "text": "make one big offer at the end of the auction."
+          },
+          {
+            "label": "D",
+            "text": "purchase a mix of licences."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter A, B, C or D.",
       "content": {
         "questionText": "The writer refers to Stephen Black's ice-cream-seller example in order to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "show the impact new competitors have on business."
+          },
+          {
+            "label": "B",
+            "text": "highlight the importance of location on business success."
+          },
+          {
+            "label": "C",
+            "text": "demonstrate that businesses must follow a strategy."
+          },
+          {
+            "label": "D",
+            "text": "clarify how pricing affects sales."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter A, B, C or D.",
       "content": {
         "questionText": "Ponsatí believes business negotiations are more likely to progress if",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "a solution is proposed by one of the interested parties."
+          },
+          {
+            "label": "B",
+            "text": "mediators or computers take over the bargaining process."
+          },
+          {
+            "label": "C",
+            "text": "both parties follow the rules of negotiating."
+          },
+          {
+            "label": "D",
+            "text": "sufficient time is allowed for the bargaining process."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Game-theory software may be unhelpful when dealing with political issues.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 33,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Dr Milgrom was confident about applying his software to an auction in 2006.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 34,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Dr Ponsatí believes ‘mediation machines' are an inappropriate method of negotiation in areas other than business.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 35,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nWrite:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Military organisations refuse to accept that software based on game theory could prevent wars.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 36,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-F, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-F, below.",
       "content": {
         "questionText": "According to Reinier van Oosten, game-theory software fails when",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          }
+        ]
       },
       "answer": "E"
     },
     {
       "questionNumber": 37,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-F, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-F, below.",
       "content": {
         "questionText": "Dr Milgrom's software is successful in detecting if",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 38,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-F, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-F, below.",
       "content": {
         "questionText": "Dr Black's game-theory software is a helpful tool when",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 39,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-F, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-F, below.",
       "content": {
         "questionText": "According to Dr Ponsatí, negotiators fall behind if",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 40,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-F, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-F, below.",
       "content": {
         "questionText": "Dr Ponsatí's mediation machine is useful when",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          }
+        ]
       },
       "answer": "B"
     }
@@ -175,7 +437,8 @@
     "difficulty": 3,
     "totalQuestions": 14,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "yes-no-ng"
     ]
   }
 }

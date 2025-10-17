@@ -33,90 +33,223 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–30\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In the first paragraph, the writer points out that",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "fear and stress are different feelings."
+          },
+          {
+            "label": "B",
+            "text": "most humans develop strategies for dealing with fear."
+          },
+          {
+            "label": "C",
+            "text": "business situations cause more fear than others."
+          },
+          {
+            "label": "D",
+            "text": "some people never experience fear."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–30\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "When discussing the use of rhesus monkeys as experimental subjects, the writer notes that",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "they react more quickly to fear than humans."
+          },
+          {
+            "label": "B",
+            "text": "they are more influenced by fear than humans."
+          },
+          {
+            "label": "C",
+            "text": "their mental growth resembles that of humans."
+          },
+          {
+            "label": "D",
+            "text": "their brains work more slowly than those of humans."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–30\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Which of the following did Kalin and Shelton outline as the second stage in their research project?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "the identification of expressions of anxiety in monkeys"
+          },
+          {
+            "label": "B",
+            "text": "the identification of situations that arouse stress in monkeys"
+          },
+          {
+            "label": "C",
+            "text": "an analysis of brain development in monkeys"
+          },
+          {
+            "label": "D",
+            "text": "the study of reactions to fear in monkeys of different ages"
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–30\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In the fourth paragraph, the writer notes that the three related situations",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "reflect common experiences for infant humans and monkeys."
+          },
+          {
+            "label": "B",
+            "text": "highlight the similarities between monkey and human infant care."
+          },
+          {
+            "label": "C",
+            "text": "were predicted to cause monkeys more distress than human infants."
+          },
+          {
+            "label": "D",
+            "text": "were graded in terms of their potential effect on young monkeys."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Look at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.",
+      "instruction": "Questions 31–35\nLook at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.\nList of Conditions A the alone condition B the no-eye-contact condition C the stare condition",
       "content": {
         "questionText": "aggressive facial expressions",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 32,
       "type": "multiple-choice-single",
-      "instruction": "Look at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.",
+      "instruction": "Questions 31–35\nLook at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.\nList of Conditions A the alone condition B the no-eye-contact condition C the stare condition",
       "content": {
         "questionText": "prolonged stillness",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 33,
       "type": "multiple-choice-single",
-      "instruction": "Look at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.",
+      "instruction": "Questions 31–35\nLook at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.\nList of Conditions A the alone condition B the no-eye-contact condition C the stare condition",
       "content": {
         "questionText": "a combination of contradictory signals",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 34,
       "type": "multiple-choice-single",
-      "instruction": "Look at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.",
+      "instruction": "Questions 31–35\nLook at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.\nList of Conditions A the alone condition B the no-eye-contact condition C the stare condition",
       "content": {
         "questionText": "appeals for maternal protection",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 35,
       "type": "multiple-choice-single",
-      "instruction": "Look at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.",
+      "instruction": "Questions 31–35\nLook at the following responses of monkeys and the list of conditions below.\nMatch each response with the correct condition, A, B or C.\nNB You may use any letter more than once.\nList of Conditions A the alone condition B the no-eye-contact condition C the stare condition",
       "content": {
         "questionText": "the production of soft sounds",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          }
+        ]
       },
       "answer": "A"
     }

@@ -48,69 +48,158 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The instrument found in Queen Shub-Ad's tomb is the world's oldest known version of a harp.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Today's Afghan panchtar is very similar to an ancient Mesopotamian instrument.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Egyptian singer Har-Mose was an excellent tanbur player.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Cairo Archaeological Museum contains many historic musical instruments.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The instrument carved in stone at Alaca Huyuk is consistent with Dr Michael Kasha's definition of a guitar.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The different instruments that appeared in medieval literature had the same number of strings.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
+    },
+    {
+      "questionNumber": 7,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 7–13\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.\nThe development of the guitar Date Type of instrument Notes 13th–19th century Chitarra was a development of an earlier instrument called the 7 extra strings added in the 16th century in Italy from around the 1850s Classical guitar its shape a result of modifications, including a larger 8 introduced by Antonio Torres changes produced better tone and greater 9 — X-braced top guitar first made in 10 in the mid-19th century strings made of 11 became available around 1900 1920s onwards Electric guitar in the 1920s, 12 were added to guitars a well-known version was brought out by 13",
+      "content": {
+        "questionText": "The development of the guitar Date Type of instrument Notes 13th–19th century Chitarra was a development of an earlier instrument called the 7 extra strings added in the 16th century in Italy from around the 1850s Classical guitar its shape a result of modifications, including a larger 8 introduced by Antonio Torres changes produced better tone and greater 9 — X-braced top guitar first made in 10 in the mid-19th century strings made of 11 became available around 1900 1920s onwards Electric guitar in the 1920s, 12 were added to guitars a well-known version was brought out by 13",
+        "options": []
+      },
+      "answer": "chartar"
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "totalQuestions": 6,
+    "totalQuestions": 7,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

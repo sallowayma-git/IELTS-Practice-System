@@ -36,78 +36,169 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Jane Raymond states that Chillz mineral water is packaged in a way that is unattractive to consumers.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Consumers are still exposed to more advertising through television commercials than through the medium of the Internet.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Jamie Rayner says that people are no longer influenced by traditional advertisements.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "According to Jamie Rayner, the reason that most products are discontinued is that advertising fails to attract consumers.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Jane Raymond believes that commercials should be simpler in their content.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Advertisements showing unfamiliar brands affect a person's concentration more than ones with familiar brands.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Jane Raymond suggests that a product should be advertised in as many ways as possible.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 8,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "What group of consumers were specifically targeted in Jamie Rayner's research?",
         "options": []
@@ -117,7 +208,7 @@
     {
       "questionNumber": 9,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "What subject did Jane Raymond study before focusing on the behaviour of consumers?",
         "options": []
@@ -127,7 +218,7 @@
     {
       "questionNumber": 10,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "According to the writer, what important aspect of an advertisement in print do many people fail to notice?",
         "options": []
@@ -137,7 +228,7 @@
     {
       "questionNumber": 11,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "According to the writer, what do companies today want their products to have in order to make consumers feel positive about themselves?",
         "options": []
@@ -147,7 +238,7 @@
     {
       "questionNumber": 12,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "What does Jane Raymond say will annoy someone watching a movie?",
         "options": []
@@ -157,7 +248,7 @@
     {
       "questionNumber": 13,
       "type": "multiple-choice-single",
-      "instruction": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "instruction": "Questions 8–13\nChoose NO MORE THAN THREE WORDS from the passage for each answer.",
       "content": {
         "questionText": "According to Jane Raymond, when do advertisers promote their products most fiercely?",
         "options": []
@@ -169,6 +260,7 @@
     "difficulty": 1,
     "totalQuestions": 13,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

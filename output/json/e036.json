@@ -1,0 +1,56 @@
+{
+  "id": "e036",
+  "passage": {
+    "title": "Bird Migration",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 23,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "It is a great mystery that young birds like cuckoos can find their wintering grounds without .",
+        "options": []
+      },
+      "answer": "parental guidance"
+    },
+    {
+      "questionNumber": 24,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "Evidence shows birds can tell directions like a by observing the sun and the stars.",
+        "options": []
+      },
+      "answer": "compass"
+    },
+    {
+      "questionNumber": 25,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "One advantage for birds flying at night is that they can avoid contact with .",
+        "options": []
+      },
+      "answer": "daytime predators"
+    },
+    {
+      "questionNumber": 26,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "Laboratory tests show that birds can detect weather without signs.",
+        "options": []
+      },
+      "answer": "visible"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 4,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

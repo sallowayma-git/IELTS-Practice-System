@@ -44,81 +44,185 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Harvard and Yale were the first universities to benefit from philanthropy.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Merchants liked to donate to the same universities they attended themselves.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The first gift to the University of Auckland came in 1884.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The University of Otago often received larger gifts than Gillies' gift to Auckland.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "In the 1930s the government wanted to close Auckland's engineering school.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "After raising $6,500, Crookes returned to academic life.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "In the 1950s the best lecturers chose to work in Britain or Australia rather than Auckland.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 8,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "A single philanthropist was responsible for the new Medical School.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     }
@@ -127,7 +231,7 @@
     "difficulty": 1,
     "totalQuestions": 8,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

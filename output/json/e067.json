@@ -1,0 +1,108 @@
+{
+  "id": "e067",
+  "passage": {
+    "title": "Flower Power",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 34,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 34–37\nLook at the following statements (Questions 34–37) and the list of studies below.\nMatch each statement with the correct studies, A-C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "The study focused on participants' short-term reaction to receiving flowers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "the first study"
+          },
+          {
+            "label": "B",
+            "text": "the second study"
+          },
+          {
+            "label": "C",
+            "text": "the third study"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 35,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 34–37\nLook at the following statements (Questions 34–37) and the list of studies below.\nMatch each statement with the correct studies, A-C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Participants were deliberately misled as to the aim of the study.",
+        "options": [
+          {
+            "label": "A",
+            "text": "the first study"
+          },
+          {
+            "label": "B",
+            "text": "the second study"
+          },
+          {
+            "label": "C",
+            "text": "the third study"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 36,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 34–37\nLook at the following statements (Questions 34–37) and the list of studies below.\nMatch each statement with the correct studies, A-C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Receiving flowers had a notable effect on participants' mental capacities.",
+        "options": [
+          {
+            "label": "A",
+            "text": "the first study"
+          },
+          {
+            "label": "B",
+            "text": "the second study"
+          },
+          {
+            "label": "C",
+            "text": "the third study"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 37,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 34–37\nLook at the following statements (Questions 34–37) and the list of studies below.\nMatch each statement with the correct studies, A-C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Male and female responses were more uniform than expected.",
+        "options": [
+          {
+            "label": "A",
+            "text": "the first study"
+          },
+          {
+            "label": "B",
+            "text": "the second study"
+          },
+          {
+            "label": "C",
+            "text": "the third study"
+          }
+        ]
+      },
+      "answer": "B"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 4,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

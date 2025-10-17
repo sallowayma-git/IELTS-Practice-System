@@ -44,61 +44,139 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Bocherens' findings on cave bears involve measuring the length of complete bones.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Bocherens was the first person to conduct analytical research on cave bears in a laboratory.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Cave bears have been extinct for 25,000 years.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "At one time, people thought the excavated remains of bears were those of dragons.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Modern grizzly bears are similar in size to cave bears.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Neanderthals understood cave bear behaviour better than modern humans did.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     }
@@ -107,7 +185,7 @@
     "difficulty": 1,
     "totalQuestions": 6,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

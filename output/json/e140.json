@@ -44,59 +44,135 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Burgess Shale became widely known to the public because of Gould's book.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Charles Walcott had to get permission from Canadian authorities to gain access to the fossil site.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Burgess Shale includes impressions of soft and hard body parts.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Burgess Shale creatures were land animals.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Researchers now believe that Hallucigenia is unrelated to any modern creature.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
+    },
+    {
+      "questionNumber": 6,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 6–9\nComplete the notes below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nBurgess Shale Formation • Burgess Shale was formed following a time called the 6 Discovery and investigation in the twentieth century • Discovered in 1909 • Charles Walcott learnt of the fossil finds from people building a 7 • The first work on Burgess Shale was undertaken at the start of the century • A researcher looked at Burgess Shale findings again in 8 Recent theories • Peter Van Roy – Believes that discoveries in Morocco show that the 9 of complex life forms continued",
+      "content": {
+        "questionText": "• Burgess Shale was formed following a time called the 6",
+        "options": []
+      },
+      "answer": "Cambrian explosion"
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "totalQuestions": 5,
+    "totalQuestions": 6,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

@@ -1,0 +1,108 @@
+{
+  "id": "e037",
+  "passage": {
+    "title": "Corporate Social Responsibility",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 23,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following opinions or deeds (Questions 23–26) and the list of companies below.\nMatch each opinion or deed with the correct company, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Disposable waste",
+        "options": [
+          {
+            "label": "A",
+            "text": "General Electric"
+          },
+          {
+            "label": "B",
+            "text": "Microsoft"
+          },
+          {
+            "label": "C",
+            "text": "Whole Foods Market"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 24,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following opinions or deeds (Questions 23–26) and the list of companies below.\nMatch each opinion or deed with the correct company, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "The way the company purchases its goods",
+        "options": [
+          {
+            "label": "A",
+            "text": "General Electric"
+          },
+          {
+            "label": "B",
+            "text": "Microsoft"
+          },
+          {
+            "label": "C",
+            "text": "Whole Foods Market"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 25,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following opinions or deeds (Questions 23–26) and the list of companies below.\nMatch each opinion or deed with the correct company, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Helping the under-developed",
+        "options": [
+          {
+            "label": "A",
+            "text": "General Electric"
+          },
+          {
+            "label": "B",
+            "text": "Microsoft"
+          },
+          {
+            "label": "C",
+            "text": "Whole Foods Market"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 26,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following opinions or deeds (Questions 23–26) and the list of companies below.\nMatch each opinion or deed with the correct company, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Ensuring that people have the latest information",
+        "options": [
+          {
+            "label": "A",
+            "text": "General Electric"
+          },
+          {
+            "label": "B",
+            "text": "Microsoft"
+          },
+          {
+            "label": "C",
+            "text": "Whole Foods Market"
+          }
+        ]
+      },
+      "answer": "B"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 4,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

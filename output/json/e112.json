@@ -1,0 +1,26 @@
+{
+  "id": "e112",
+  "passage": {
+    "title": "The Importance of Law",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 22,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 22–26\nComplete the summary below. Choose ONE WORD ONLY from the passage for each answer.\nLawyers as professionals People sometimes say that 22 is of little interest to lawyers, who are more concerned with making money. This may well be the case with some individuals, in the same way that some 23 or scientific experts may also be driven purely by financial greed. However, criticising lawyers because their work is concerned with people's problems would be similar to attacking IT staff or 24 for the same reason. In fact, many lawyers focus on questions relating, for example, to housing or civil liberties, which requires them to have 25 to their work. What's more, a lot of lawyers' time is spent writing 26 rather than dealing with people's misfortunes.",
+      "content": {
+        "questionText": "People sometimes say that 22 is of little interest to lawyers, who are more concerned with making money. This may well be the case with some individuals, in the same way that some 23 or scientific experts may also be driven purely by financial greed. However, criticising lawyers because their work is concerned with people's problems would be similar to attacking IT staff or 24 for the same reason. In fact, many lawyers focus on questions relating, for example, to housing or civil liberties, which requires them to have 25 to their work. What's more, a lot of lawyers' time is spent writing 26 rather than dealing with people's misfortunes.",
+        "options": []
+      },
+      "answer": "truth"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 1,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

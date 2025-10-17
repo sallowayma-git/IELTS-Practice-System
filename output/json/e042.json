@@ -1,0 +1,415 @@
+{
+  "id": "e042",
+  "passage": {
+    "title": "Investment in Shares vs. Investment in Other Assets",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "How one university collected the data to try and answer this question"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 14,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "A",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "iii"
+    },
+    {
+      "questionNumber": 15,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "B",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "iv"
+    },
+    {
+      "questionNumber": 16,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "C",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "ii"
+    },
+    {
+      "questionNumber": 17,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "D",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "i"
+    },
+    {
+      "questionNumber": 18,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "E",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "viii"
+    },
+    {
+      "questionNumber": 19,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "F",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "vi"
+    },
+    {
+      "questionNumber": 20,
+      "type": "heading-matching",
+      "instruction": "Questions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nList of Headings i. Technological developments improve CRSP data ii. Initial findings of the CRSP project iii. A request and a far-reaching result iv. Difficulties in collecting CRSP data v. What the future holds vi. Too much data for people to have an overall understanding vii. Other university departments which depend on CRSP viii. CRSP data not always being a useful basis for investment",
+      "content": {
+        "paragraphLabel": "G",
+        "options": [
+          {
+            "label": "i",
+            "text": "Technological developments improve CRSP data"
+          },
+          {
+            "label": "ii",
+            "text": "Initial findings of the CRSP project"
+          },
+          {
+            "label": "iii",
+            "text": "A request and a far-reaching result"
+          },
+          {
+            "label": "iv",
+            "text": "Difficulties in collecting CRSP data"
+          },
+          {
+            "label": "v",
+            "text": "What the future holds"
+          },
+          {
+            "label": "vi",
+            "text": "Too much data for people to have an overall understanding"
+          },
+          {
+            "label": "vii",
+            "text": "Other university departments which depend on CRSP"
+          },
+          {
+            "label": "viii",
+            "text": "CRSP data not always being a useful basis for investment"
+          }
+        ]
+      },
+      "answer": "v"
+    },
+    {
+      "questionNumber": 21,
+      "type": "feature-matching",
+      "instruction": "Questions 21–23\nLook at the following statements (21–23) and the list of economists below.\nMatch each statement with the correct economist A, B, C or D.\n21 A traditional approach may have helped predict a financial downturn.\n22 Some people invest conservatively and as a result make less money.\n23 It may be possible to forecast share prices but not over the long term.",
+      "content": {
+        "statement": "A traditional approach may have helped predict a financial downturn.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fisher and Lorie"
+          },
+          {
+            "label": "B",
+            "text": "Myron Scholes"
+          },
+          {
+            "label": "C",
+            "text": "Eugene Fama"
+          },
+          {
+            "label": "D",
+            "text": "Robert Shiller"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 21–23\nLook at the following statements (21–23) and the list of economists below.\nMatch each statement with the correct economist A, B, C or D.\n21 A traditional approach may have helped predict a financial downturn.\n22 Some people invest conservatively and as a result make less money.\n23 It may be possible to forecast share prices but not over the long term.",
+      "content": {
+        "statement": "Some people invest conservatively and as a result make less money.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fisher and Lorie"
+          },
+          {
+            "label": "B",
+            "text": "Myron Scholes"
+          },
+          {
+            "label": "C",
+            "text": "Eugene Fama"
+          },
+          {
+            "label": "D",
+            "text": "Robert Shiller"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 21–23\nLook at the following statements (21–23) and the list of economists below.\nMatch each statement with the correct economist A, B, C or D.\n21 A traditional approach may have helped predict a financial downturn.\n22 Some people invest conservatively and as a result make less money.\n23 It may be possible to forecast share prices but not over the long term.",
+      "content": {
+        "statement": "It may be possible to forecast share prices but not over the long term.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fisher and Lorie"
+          },
+          {
+            "label": "B",
+            "text": "Myron Scholes"
+          },
+          {
+            "label": "C",
+            "text": "Eugene Fama"
+          },
+          {
+            "label": "D",
+            "text": "Robert Shiller"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 24,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nThe beginnings of CRSP In 1958 a 24 working for a financial management company telephoned Jim Lorie to ask how well investments in shares performed in comparison to investments in low-risk assets. Lorie offered to find out and as a result the University of Chicago's Center for Research in Security Prices (CRSP) was launched. Compiling the CRSP data was difficult because 25 were still being developed and information that had previously been on 26 needed to be put onto magnetic tape.",
+      "content": {
+        "questionText": "In 1958 a 24 working for a financial management company telephoned Jim Lorie to ask how well investments in shares performed in comparison to investments in low-risk assets. Lorie offered to find out and as a result the University of Chicago's Center for Research in Security Prices (CRSP) was launched. Compiling the CRSP data was difficult because 25 were still being developed and information that had previously been on 26 needed to be put onto magnetic tape.",
+        "options": []
+      },
+      "answer": "banker"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 11,
+    "questionTypes": [
+      "heading-matching",
+      "feature-matching",
+      "multiple-choice-single"
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "id": "e001",
+  "passage": {
+    "title": "A Brief History of Tea",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "A",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "viii"
+    },
+    {
+      "questionNumber": 2,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "B",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "iv"
+    },
+    {
+      "questionNumber": 3,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "C",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "ix"
+    },
+    {
+      "questionNumber": 4,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "D",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "vi"
+    },
+    {
+      "questionNumber": 5,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "E",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "v"
+    },
+    {
+      "questionNumber": 6,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "F",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "vii"
+    },
+    {
+      "questionNumber": 7,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "G",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "iii"
+    },
+    {
+      "questionNumber": 8,
+      "type": "heading-matching",
+      "instruction": "Questions 1–8\nReading Passage 1 has eight paragraphs A–H.\nChoose the correct heading for each paragraph from the list of headings below.\nDrag a heading from the list and drop it onto the correct paragraph's answer box on the left.\nList of Headings i. Not enough tea to meet demand ii. Religious objections iii. In - and sometimes out – of fashion iv. A connection between tea and religion v. A luxury item vi. News of tea reaches another continent vii. Is tea a good or a bad thing? viii. A chance discovery ix. Tea-making as a ritual x. Difficulties in importing tea",
+      "content": {
+        "paragraphLabel": "H",
+        "options": [
+          {
+            "label": "i",
+            "text": "Not enough tea to meet demand"
+          },
+          {
+            "label": "ii",
+            "text": "Religious objections"
+          },
+          {
+            "label": "iii",
+            "text": "In - and sometimes out – of fashion"
+          },
+          {
+            "label": "iv",
+            "text": "A connection between tea and religion"
+          },
+          {
+            "label": "v",
+            "text": "A luxury item"
+          },
+          {
+            "label": "vi",
+            "text": "News of tea reaches another continent"
+          },
+          {
+            "label": "vii",
+            "text": "Is tea a good or a bad thing?"
+          },
+          {
+            "label": "viii",
+            "text": "A chance discovery"
+          },
+          {
+            "label": "ix",
+            "text": "Tea-making as a ritual"
+          },
+          {
+            "label": "x",
+            "text": "Difficulties in importing tea"
+          }
+        ]
+      },
+      "answer": "x"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 8,
+    "questionTypes": [
+      "heading-matching"
+    ]
+  }
+}

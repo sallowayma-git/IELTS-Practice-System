@@ -1,0 +1,240 @@
+{
+  "id": "e118",
+  "passage": {
+    "title": "Neanderthal Technology",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 32,
+      "type": "feature-matching",
+      "instruction": "Questions 32–36\nLook at the following findings (Questions 32–36) and the list of places below.\nMatch each finding with the correct place, A–E.\nNB You may use any letter more than once.\n32 a burnt piece of wood\n33 evidence of efforts to prevent pools of water forming\n34 the remains of sea creatures\n35 a circular arrangement of animal bones\n36 evidence suggesting the use of animal fur for warmth",
+      "content": {
+        "statement": "a burnt piece of wood",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Périgord region"
+          },
+          {
+            "label": "B",
+            "text": "Moldova"
+          },
+          {
+            "label": "C",
+            "text": "The Grotte du Lazaret"
+          },
+          {
+            "label": "D",
+            "text": "The cave of Baume-Bonne"
+          },
+          {
+            "label": "E",
+            "text": "Krapina"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "E",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 33,
+      "type": "feature-matching",
+      "instruction": "Questions 32–36\nLook at the following findings (Questions 32–36) and the list of places below.\nMatch each finding with the correct place, A–E.\nNB You may use any letter more than once.\n32 a burnt piece of wood\n33 evidence of efforts to prevent pools of water forming\n34 the remains of sea creatures\n35 a circular arrangement of animal bones\n36 evidence suggesting the use of animal fur for warmth",
+      "content": {
+        "statement": "evidence of efforts to prevent pools of water forming",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Périgord region"
+          },
+          {
+            "label": "B",
+            "text": "Moldova"
+          },
+          {
+            "label": "C",
+            "text": "The Grotte du Lazaret"
+          },
+          {
+            "label": "D",
+            "text": "The cave of Baume-Bonne"
+          },
+          {
+            "label": "E",
+            "text": "Krapina"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 34,
+      "type": "feature-matching",
+      "instruction": "Questions 32–36\nLook at the following findings (Questions 32–36) and the list of places below.\nMatch each finding with the correct place, A–E.\nNB You may use any letter more than once.\n32 a burnt piece of wood\n33 evidence of efforts to prevent pools of water forming\n34 the remains of sea creatures\n35 a circular arrangement of animal bones\n36 evidence suggesting the use of animal fur for warmth",
+      "content": {
+        "statement": "the remains of sea creatures",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Périgord region"
+          },
+          {
+            "label": "B",
+            "text": "Moldova"
+          },
+          {
+            "label": "C",
+            "text": "The Grotte du Lazaret"
+          },
+          {
+            "label": "D",
+            "text": "The cave of Baume-Bonne"
+          },
+          {
+            "label": "E",
+            "text": "Krapina"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 35,
+      "type": "feature-matching",
+      "instruction": "Questions 32–36\nLook at the following findings (Questions 32–36) and the list of places below.\nMatch each finding with the correct place, A–E.\nNB You may use any letter more than once.\n32 a burnt piece of wood\n33 evidence of efforts to prevent pools of water forming\n34 the remains of sea creatures\n35 a circular arrangement of animal bones\n36 evidence suggesting the use of animal fur for warmth",
+      "content": {
+        "statement": "a circular arrangement of animal bones",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Périgord region"
+          },
+          {
+            "label": "B",
+            "text": "Moldova"
+          },
+          {
+            "label": "C",
+            "text": "The Grotte du Lazaret"
+          },
+          {
+            "label": "D",
+            "text": "The cave of Baume-Bonne"
+          },
+          {
+            "label": "E",
+            "text": "Krapina"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 36,
+      "type": "feature-matching",
+      "instruction": "Questions 32–36\nLook at the following findings (Questions 32–36) and the list of places below.\nMatch each finding with the correct place, A–E.\nNB You may use any letter more than once.\n32 a burnt piece of wood\n33 evidence of efforts to prevent pools of water forming\n34 the remains of sea creatures\n35 a circular arrangement of animal bones\n36 evidence suggesting the use of animal fur for warmth",
+      "content": {
+        "statement": "evidence suggesting the use of animal fur for warmth",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Périgord region"
+          },
+          {
+            "label": "B",
+            "text": "Moldova"
+          },
+          {
+            "label": "C",
+            "text": "The Grotte du Lazaret"
+          },
+          {
+            "label": "D",
+            "text": "The cave of Baume-Bonne"
+          },
+          {
+            "label": "E",
+            "text": "Krapina"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 37,
+      "type": "summary-completion",
+      "instruction": "Questions 37–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nThe use of fire Neanderthalers could not have survived without fire because the conditions they lived in were 37 . Most evidence of purpose-built fires takes the form of ash piles, features of which suggest that the fires lasted a 38 time. It is hard to be certain about the size and structure of the fires, though they were certainly needed to protect the occupants from dangerous 39 , among other things.",
+      "content": {
+        "sentence": "Neanderthalers could not have survived without fire because the conditions they lived in were _____ . Most evidence of purpose-built fires takes the form of ash piles, features of which suggest that the fires lasted a",
+        "wordLimit": "NO MORE THAN TWO WORDS"
+      },
+      "answer": "sub-arctic"
+    },
+    {
+      "questionNumber": 38,
+      "type": "summary-completion",
+      "instruction": "Questions 37–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nThe use of fire Neanderthalers could not have survived without fire because the conditions they lived in were 37 . Most evidence of purpose-built fires takes the form of ash piles, features of which suggest that the fires lasted a 38 time. It is hard to be certain about the size and structure of the fires, though they were certainly needed to protect the occupants from dangerous 39 , among other things.",
+      "content": {
+        "sentence": "Most evidence of purpose-built fires takes the form of ash piles, features of which suggest that the fires lasted a _____ time. It is hard to be certain about the size and structure of the fires, though they were certainly needed to protect the occupants from dangerous",
+        "wordLimit": "NO MORE THAN TWO WORDS"
+      },
+      "answer": "short"
+    },
+    {
+      "questionNumber": 39,
+      "type": "summary-completion",
+      "instruction": "Questions 37–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nThe use of fire Neanderthalers could not have survived without fire because the conditions they lived in were 37 . Most evidence of purpose-built fires takes the form of ash piles, features of which suggest that the fires lasted a 38 time. It is hard to be certain about the size and structure of the fires, though they were certainly needed to protect the occupants from dangerous 39 , among other things.",
+      "content": {
+        "sentence": "It is hard to be certain about the size and structure of the fires, though they were certainly needed to protect the occupants from dangerous _____ , among other things.",
+        "wordLimit": "NO MORE THAN TWO WORDS"
+      },
+      "answer": "predatory animals"
+    },
+    {
+      "questionNumber": 40,
+      "type": "multiple-choice-single",
+      "instruction": "Question 40\nChoose the correct letter, A, B, C or D.\n40 The purpose of the writer of this article is to Aargue that Neanderthal homes were bigger than originally thought. Bexplain why Neanderthal people migrated to Western Europe. Cdiscuss what is known about Neanderthal settlements. Dtrack the progress of early Neanderthal development.",
+      "content": {
+        "questionText": "The purpose of the writer of this article is to",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aargue that Neanderthal homes were bigger than originally thought."
+          },
+          {
+            "label": "B",
+            "text": "Bexplain why Neanderthal people migrated to Western Europe."
+          },
+          {
+            "label": "C",
+            "text": "Cdiscuss what is known about Neanderthal settlements."
+          },
+          {
+            "label": "D",
+            "text": "Dtrack the progress of early Neanderthal development."
+          }
+        ]
+      },
+      "answer": "C"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 9,
+    "questionTypes": [
+      "feature-matching",
+      "summary-completion",
+      "multiple-choice-single"
+    ]
+  }
+}

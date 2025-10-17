@@ -39,119 +39,154 @@
   },
   "questions": [
     {
-      "questionNumber": 27,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". The writer changed her mind about spending time in Tasmania.",
-        "options": []
-      },
-      "answer": "YES"
-    },
-    {
-      "questionNumber": 28,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". Andrew Bain believes that the effect MONA had on Hobart was immediate.",
-        "options": []
-      },
-      "answer": "YES"
-    },
-    {
-      "questionNumber": 29,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". Other factors have contributed as much as MONA to Hobart's transformation.",
-        "options": []
-      },
-      "answer": "NO"
-    },
-    {
-      "questionNumber": 30,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". The Tourism Industry Council of Tasmania works closely with the director of MONA.",
-        "options": []
-      },
-      "answer": "NOT GIVEN"
-    },
-    {
-      "questionNumber": 31,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". Many local residents are writing to The Mercury expressing concern about the length of tourists' stays in Hobart.",
-        "options": []
-      },
-      "answer": "NOT GIVEN"
-    },
-    {
-      "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
-      "content": {
-        "questionText": ". Tourists now regard MONA as a starting point for longer trips in Tasmania.",
-        "options": []
-      },
-      "answer": "NO"
-    },
-    {
       "questionNumber": 33,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
       "content": {
         "questionText": ". Luke Martin plans to promote tourism in Tasmania by",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "focusing more on MONA as the leading attraction."
+          },
+          {
+            "label": "B",
+            "text": "combining trips to MONA with visits to other galleries."
+          },
+          {
+            "label": "C",
+            "text": "encouraging visitors to do activities that are not connected with art galleries."
+          },
+          {
+            "label": "D",
+            "text": "improving the quality of promotional information about Tasmania's galleries."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 34,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
       "content": {
         "questionText": ". According to the writer, what is especially interesting about MONA?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "the man who founded the gallery"
+          },
+          {
+            "label": "B",
+            "text": "its location close to a river"
+          },
+          {
+            "label": "C",
+            "text": "visitors' responses to the gallery spaces"
+          },
+          {
+            "label": "D",
+            "text": "the striking architecture of the building"
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 35,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
       "content": {
         "questionText": ". Why do visitors spend a long time at the gallery?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "There is a great number of exhibits."
+          },
+          {
+            "label": "B",
+            "text": "Visitors tend to come in family groups."
+          },
+          {
+            "label": "C",
+            "text": "Many of the works are difficult to understand."
+          },
+          {
+            "label": "D",
+            "text": "The gallery has a physical effect on visitors."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 36,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
       "content": {
         "questionText": ". What does the writer say about the visitors to MONA?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Older people spend longer there than younger people do."
+          },
+          {
+            "label": "B",
+            "text": "A wide variety of people are interested in MONA."
+          },
+          {
+            "label": "C",
+            "text": "The majority of visitors are young people."
+          },
+          {
+            "label": "D",
+            "text": "The visitors are representative of gallery enthusiasts generally."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 37,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–37 on your answer sheet.",
       "content": {
         "questionText": ". Why does the writer mention the coins at MONA?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "to illustrate how interesting they are to visitors to modern galleries"
+          },
+          {
+            "label": "B",
+            "text": "to explain why they are displayed in a separate section of the gallery"
+          },
+          {
+            "label": "C",
+            "text": "to argue that Walsh's collection is among the best in the world"
+          },
+          {
+            "label": "D",
+            "text": "to express admiration for the way that the exhibits are presented"
+          }
+        ]
       },
       "answer": "D"
+    },
+    {
+      "questionNumber": 38,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 38–40\nComplete the summary using the list of words, A–H, below.\nWrite the correct letter, A–H, in boxes 38–40 on your answer sheet.\nThe Bilbao Effect MONA has huge appeal for visitors to Hobart, just as Gehry's Guggenheim Museum has for Bilbao. While MONA may lack the 38 effect of the Guggenheim, David Walsh explains that MONA's architect had a different objective when designing MONA: unlike the architectural showcasing of the Guggenheim, with MONA there was a major 39 that needed to be dealt with; the gallery was set beneath the ground. In any case, both galleries have transformed their cities, just as successful public buildings have for thousands of years. It remains to be seen how the 40 of David Walsh will be expanded upon in Tasmania.\nA challenge B pipe C visual D contribution E lasting F essential G ambition H attraction",
+      "content": {
+        "questionText": "MONA has huge appeal for visitors to Hobart, just as Gehry's Guggenheim Museum has for Bilbao. While MONA may lack the 38 effect of the Guggenheim, David Walsh explains that MONA's architect had a different objective when designing MONA: unlike the architectural showcasing of the Guggenheim, with MONA there was a major 39 that needed to be dealt with; the gallery was set beneath the ground. In any case, both galleries have transformed their cities, just as successful public buildings have for thousands of years. It remains to be seen how the 40 of David Walsh will be expanded upon in Tasmania.",
+        "options": []
+      },
+      "answer": "C"
     }
   ],
   "metadata": {
     "difficulty": 3,
-    "totalQuestions": 11,
+    "totalQuestions": 6,
     "questionTypes": [
       "multiple-choice-single"
     ]

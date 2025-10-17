@@ -53,107 +53,257 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "According to the third paragraph, why is dismissing bad teachers a poor solution to problems in educational standards?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Problems are increasing year on year."
+          },
+          {
+            "label": "B",
+            "text": "There are not enough top graduates to replace them."
+          },
+          {
+            "label": "C",
+            "text": "It leads to a poor relationship with teachers' unions."
+          },
+          {
+            "label": "D",
+            "text": "Replacement teachers have the same training as the dismissed ones."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What does the writer say about teacher-training institutions in the fourth paragraph?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Graduating teachers are not ready for the classroom."
+          },
+          {
+            "label": "B",
+            "text": "Improving a teacher of average talent is a very difficult task."
+          },
+          {
+            "label": "C",
+            "text": "More theory in teacher-training courses is required."
+          },
+          {
+            "label": "D",
+            "text": "Primary teacher training is not taken seriously."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In their first few years of working, teachers improve in the classroom because they",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "are well equipped to build on the theory they learned in college."
+          },
+          {
+            "label": "B",
+            "text": "have to engage with the realities of the job."
+          },
+          {
+            "label": "C",
+            "text": "have opportunities to observe and learn from their peers."
+          },
+          {
+            "label": "D",
+            "text": "enjoy a high level of support from the schools that employ them."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Which of the following does the writer suggest is least effective for teachers to use?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "enforcing strict standards of behaviour"
+          },
+          {
+            "label": "B",
+            "text": "setting high goals that students are aware of"
+          },
+          {
+            "label": "C",
+            "text": "responding to pupils who raise their hands to answer questions"
+          },
+          {
+            "label": "D",
+            "text": "ensuring that lesson time is properly scheduled and used"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "The author suggests that head teachers can assist newly qualified teachers by",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "carrying out classroom observations personally."
+          },
+          {
+            "label": "B",
+            "text": "providing critical feedback."
+          },
+          {
+            "label": "C",
+            "text": "welcoming union interaction."
+          },
+          {
+            "label": "D",
+            "text": "working closely with them."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Of the many 'miracle' educational solutions that have been put forward, a few have been effective.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 33,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Understanding educational theories is an essential part of teacher training.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 34,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Courses producing unsuccessful teachers should be given grants to improve.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 35,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Education is currently underfunded, which is leading to problems in schools.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 36,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Good classroom teachers should be paid more to remain in the classroom.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 37,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nA practice will always be more important than theory. B better trainers are the only answer. C more capable graduates could be attracted into the profession. D a teacher who is not outstanding can be improved. E the assistance of teachers' unions is essential. F a better syllabus and more practical involvement will improve results.",
       "content": {
         "questionText": "Just as any athlete can be coached for better performance,",
         "options": []
@@ -163,7 +313,7 @@
     {
       "questionNumber": 38,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nA practice will always be more important than theory. B better trainers are the only answer. C more capable graduates could be attracted into the profession. D a teacher who is not outstanding can be improved. E the assistance of teachers' unions is essential. F a better syllabus and more practical involvement will improve results.",
       "content": {
         "questionText": "If teachers are to be taught the complex skills they require,",
         "options": []
@@ -173,7 +323,7 @@
     {
       "questionNumber": 39,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nA practice will always be more important than theory. B better trainers are the only answer. C more capable graduates could be attracted into the profession. D a teacher who is not outstanding can be improved. E the assistance of teachers' unions is essential. F a better syllabus and more practical involvement will improve results.",
       "content": {
         "questionText": "In teaching, as in the medical profession,",
         "options": []
@@ -183,7 +333,7 @@
     {
       "questionNumber": 40,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.",
+      "instruction": "Questions 37–40\nComplete each sentence with the correct ending, A–F, below.\nWrite the correct letter, A–F, in boxes 37–40 on your answer sheet.\nA practice will always be more important than theory. B better trainers are the only answer. C more capable graduates could be attracted into the profession. D a teacher who is not outstanding can be improved. E the assistance of teachers' unions is essential. F a better syllabus and more practical involvement will improve results.",
       "content": {
         "questionText": "If the status of teachers were improved,",
         "options": []
@@ -195,7 +345,8 @@
     "difficulty": 3,
     "totalQuestions": 14,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "yes-no-ng"
     ]
   }
 }

@@ -44,81 +44,185 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "In the early 19th century, the port of London was considered a safer destination than other ports.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "London Bridge provided quick access for cargo being sent to southern Britain.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "It was generally believed that a new river crossing would be profitable.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Building a second bridge crossing was initially considered to be the best solution.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "It was believed that coal could be found under the River Thames.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The Thames Archway Company was the first group to try tunnelling below the Thames.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Some of Trevithick's men were injured during a mudslide at his tunnel.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 8,
-      "type": "multiple-choice-single",
-      "instruction": "In boxes 1–8 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The Thames Archway Company ran out of money to finance the tunnel project.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     }
@@ -127,7 +231,7 @@
     "difficulty": 1,
     "totalQuestions": 8,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

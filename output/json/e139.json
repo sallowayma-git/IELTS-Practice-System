@@ -44,49 +44,112 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Scientists studied hunter-gatherer societies because their sleep patterns are assumed to be similar to those of humans more than 10,000 years ago.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The medical devices used in the research were specially designed for humid conditions.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Researchers found that tribespeople stayed longer in bed than inhabitants of industrialised regions.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Jerome Siegel believes that environment and culture have little effect on sleep patterns.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 5–13\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nNew Evidence on Sleep Patterns New ideas about napping scientists have recorded an afternoon drop in 5 studies of hunter-gatherer societies show that napping was rare and occurred more often during the 6 the devices may not have detected 7 naps Daily activity cycles the tribespeople went to sleep several hours after sunset even with 8 there was little light tribespeople usually woke up around 9 scientists found that 10 had almost as much influence on sleep patterns as light Differences between tribespeople and people in industrialised regions 11 is something that very few of the tribespeople suffered from the environment of tribespeople may have been more suitable for sleep tribespeople had better fitness than industrialised populations and were not 12 tribespeople also had stronger 13",
+      "content": {
+        "questionText": "New Evidence on Sleep Patterns New ideas about napping scientists have recorded an afternoon drop in 5 studies of hunter-gatherer societies show that napping was rare and occurred more often during the 6 the devices may not have detected 7 naps Daily activity cycles the tribespeople went to sleep several hours after sunset even with 8 there was little light tribespeople usually woke up around 9 scientists found that 10 had almost as much influence on sleep patterns as light Differences between tribespeople and people in industrialised regions 11 is something that very few of the tribespeople suffered from the environment of tribespeople may have been more suitable for sleep tribespeople had better fitness than industrialised populations and were not 12 tribespeople also had stronger 13",
+        "options": []
+      },
+      "answer": "energy"
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "totalQuestions": 4,
+    "totalQuestions": 5,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

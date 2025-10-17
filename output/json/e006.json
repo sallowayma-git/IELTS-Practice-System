@@ -40,78 +40,169 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "There is usually little difference in wealth between the various members of a band.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "In tribes, farmers typically grow a wide range of food plants.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "A typical tribe has one settlement which is more important than others.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "In a chiefdom, social status usually depends on the amount of land a person owns.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "A chiefdom typically contains some workers who are engaged in making goods.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "An early state may depend on military power to maintain law and order.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Bureaucratic officials in early states receive higher salaries than any other workers.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 8,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "What items do bands produce at work sites?",
         "options": []
@@ -121,7 +212,7 @@
     {
       "questionNumber": 9,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "Which way of life, apart from settled farming, may be followed by people in tribes?",
         "options": []
@@ -131,7 +222,7 @@
     {
       "questionNumber": 10,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "How were houses arranged in the village of Catalhoyuk?",
         "options": []
@@ -141,7 +232,7 @@
     {
       "questionNumber": 11,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "Which items, apart from craft goods, may be given by a chief to members of his chiefdom?",
         "options": []
@@ -151,7 +242,7 @@
     {
       "questionNumber": 12,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "What is usually the maximum number of people living in a society which has a chief?",
         "options": []
@@ -161,7 +252,7 @@
     {
       "questionNumber": 13,
       "type": "multiple-choice-single",
-      "instruction": "Answer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 8–13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.",
       "content": {
         "questionText": "Apart from less wealthy inhabitants of cities, which group forms the lowest class in an early state?",
         "options": []
@@ -173,6 +264,7 @@
     "difficulty": 1,
     "totalQuestions": 13,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

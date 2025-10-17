@@ -52,58 +52,123 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Early Spanish chroniclers called the potato by the Incan name ‘chuño’.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The purpose of the Spanish coming to Peru was to find potatoes.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The Spanish believed that the potato had the same nutrients as other vegetables.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Peasants at that time did not like to eat potatoes because they were ugly.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The popularity of potatoes in the UK was due to food shortages during the war.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 6,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "In France, people began to overcome their disgust towards potatoes because the King put a potato in his buttonhole.",
         "options": []
@@ -113,7 +178,7 @@
     {
       "questionNumber": 7,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Frederick realised the potential of the potato, but he had to handle the from ordinary people.",
         "options": []
@@ -123,7 +188,7 @@
     {
       "questionNumber": 8,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "The King of Prussia adopted a form of psychology to make people accept potatoes.",
         "options": []
@@ -133,7 +198,7 @@
     {
       "questionNumber": 9,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Before 1800, English people preferred eating with bread, butter and cheese.",
         "options": []
@@ -143,7 +208,7 @@
     {
       "questionNumber": 10,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "The obvious way to deal with England's food problems was high-yielding potato .",
         "options": []
@@ -153,7 +218,7 @@
     {
       "questionNumber": 11,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "The Irish and climate suited potatoes well.",
         "options": []
@@ -163,7 +228,7 @@
     {
       "questionNumber": 12,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Between 1780 and 1841, thanks to the of the potato, the Irish population doubled to eight million.",
         "options": []
@@ -173,7 +238,7 @@
     {
       "questionNumber": 13,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "The potato's high yields helped the poorest farmers to produce more healthy food almost without .",
         "options": []
@@ -185,6 +250,7 @@
     "difficulty": 1,
     "totalQuestions": 13,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

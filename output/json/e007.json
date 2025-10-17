@@ -36,69 +36,158 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Archaeological evidence from pots has helped determine when people first began to grow chilies for food.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Linda Perry thinks mankind began using chilies in cooking largely because they kept food from spoiling.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Christopher Columbus is said to have enjoyed the new experience of eating food spiced with chilies.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Explorers from Portugal were introduced to chilies in Africa.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The feeling of heat while eating chilies is a purely psychological effect rather than a physical one.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "A chemist called Scoville created a heat scale based on the collective judgement of a group of individuals.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
+    },
+    {
+      "questionNumber": 7,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 7–13\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nThe role of capsaicin Chili seeds and capsaicin certain birds and other animals eat chili fruit and spread the seeds some animals destroy the seeds, preventing 7 unlike many other plants, chilies contain an unpleasant chemical only in their 8 the 9 of the chili causes an increase in capsaicin Tewksbury's experiments to test the effects of capsaicin chilies offered to rodents and birds in laboratory conditions rodents avoided chilies with a high 10 of capsaicin birds do not mind eating capsaicin capsaicin slows digestion in birds this may make the 11 of the seed softer another role of capsaicin is in reducing infection caused by a 12 Tewksbury considers the role of capsaicin in chilies to be an example in nature of the beauty of 13",
+      "content": {
+        "questionText": "The role of capsaicin Chili seeds and capsaicin certain birds and other animals eat chili fruit and spread the seeds some animals destroy the seeds, preventing 7 unlike many other plants, chilies contain an unpleasant chemical only in their 8 the 9 of the chili causes an increase in capsaicin Tewksbury's experiments to test the effects of capsaicin chilies offered to rodents and birds in laboratory conditions rodents avoided chilies with a high 10 of capsaicin birds do not mind eating capsaicin capsaicin slows digestion in birds this may make the 11 of the seed softer another role of capsaicin is in reducing infection caused by a 12 Tewksbury considers the role of capsaicin in chilies to be an example in nature of the beauty of 13",
+        "options": []
+      },
+      "answer": "germination"
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "totalQuestions": 6,
+    "totalQuestions": 7,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

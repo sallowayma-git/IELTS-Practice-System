@@ -1,0 +1,26 @@
+{
+  "id": "e110",
+  "passage": {
+    "title": "Should space be explored by robots or by humans?",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 22,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nHumans in space – the Mars Outposts approach and its implications One way of exploring space would be through collaboration between humans and robots. For example, when exploring the planet Mars, robots could be used to set up 22 and do initial research before humans arrive. In other cases, humans could stay in orbiting 23 and give orders to robots working on the surface of the planet. This would increase the speed of 24 with the robots. In such ways, robots might be used to work in space in commercial enterprises or 25 . However, the final aim of humankind may be the 26 of space, and this could in turn change people's attitudes towards Earth.",
+      "content": {
+        "questionText": "One way of exploring space would be through collaboration between humans and robots. For example, when exploring the planet Mars, robots could be used to set up 22 and do initial research before humans arrive. In other cases, humans could stay in orbiting 23 and give orders to robots working on the surface of the planet. This would increase the speed of 24 with the robots.",
+        "options": []
+      },
+      "answer": "infrastructure"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 1,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

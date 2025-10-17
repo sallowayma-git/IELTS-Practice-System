@@ -41,7 +41,7 @@
     {
       "questionNumber": 14,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 14–17\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nMalaria in 19th-century Italy Up until the late nineteenth century, experts failed to make the connection between malaria and 14 . The most popular belief at the time was the 15 theory, which upheld the idea that diseases were carried by unclean air. Another common idea was that malaria was a 16 disease, and as a result people from certain parts of the country were often held responsible for the spread of epidemics. Malaria was particularly widespread in rural regions, where 17 could be extremely short.",
       "content": {
         "sentence": "Up until the late nineteenth century, experts failed to make the connection between malaria and _____ . The most popular belief at the time was the",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -51,7 +51,7 @@
     {
       "questionNumber": 15,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 14–17\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nMalaria in 19th-century Italy Up until the late nineteenth century, experts failed to make the connection between malaria and 14 . The most popular belief at the time was the 15 theory, which upheld the idea that diseases were carried by unclean air. Another common idea was that malaria was a 16 disease, and as a result people from certain parts of the country were often held responsible for the spread of epidemics. Malaria was particularly widespread in rural regions, where 17 could be extremely short.",
       "content": {
         "sentence": "The most popular belief at the time was the _____ theory, which upheld the idea that diseases were carried by unclean air. Another common idea was that malaria was a",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -61,7 +61,7 @@
     {
       "questionNumber": 16,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 14–17\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nMalaria in 19th-century Italy Up until the late nineteenth century, experts failed to make the connection between malaria and 14 . The most popular belief at the time was the 15 theory, which upheld the idea that diseases were carried by unclean air. Another common idea was that malaria was a 16 disease, and as a result people from certain parts of the country were often held responsible for the spread of epidemics. Malaria was particularly widespread in rural regions, where 17 could be extremely short.",
       "content": {
         "sentence": "Another common idea was that malaria was a _____ disease, and as a result people from certain parts of the country were often held responsible for the spread of epidemics. Malaria was particularly widespread in rural regions, where",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -71,7 +71,7 @@
     {
       "questionNumber": 17,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 14–17\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nMalaria in 19th-century Italy Up until the late nineteenth century, experts failed to make the connection between malaria and 14 . The most popular belief at the time was the 15 theory, which upheld the idea that diseases were carried by unclean air. Another common idea was that malaria was a 16 disease, and as a result people from certain parts of the country were often held responsible for the spread of epidemics. Malaria was particularly widespread in rural regions, where 17 could be extremely short.",
       "content": {
         "sentence": "Malaria was particularly widespread in rural regions, where _____ could be extremely short.",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -80,41 +80,339 @@
     },
     {
       "questionNumber": 18,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The volunteers in Giovanni Battista Grassi's research came from all parts of Italy.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 19,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Experiments in Italy proved that it was possible to remain healthy despite being in malarial zones.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 20,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "In the early twentieth century, quinine was successfully administered to all inhabitants of vulnerable regions.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
+    },
+    {
+      "questionNumber": 21,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "a figure showing the dramatic results of an anti-malarial drug programme",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "E"
+    },
+    {
+      "questionNumber": 22,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "an important discovery about how malaria is spread",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 23,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "mention of an expert's decision not to halt the spread of the disease",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "F"
+    },
+    {
+      "questionNumber": 24,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "the significance of the malaria story for today's readers",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "H"
+    },
+    {
+      "questionNumber": 25,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "examples of false assumptions which held back scientific understanding of malaria",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 26,
+      "type": "paragraph-matching",
+      "instruction": "Questions 21–26\nReading Passage 2 has eight paragraphs, A–H.\nWhich paragraph contains the following information?\nWrite the correct letter, A–H, in boxes 21–26 on your answer sheet.\nABCDEFGH 21 a figure showing the dramatic results of an anti-malarial drug programme 22 an important discovery about how malaria is spread 23 mention of an expert's decision not to halt the spread of the disease 24 the significance of the malaria story for today's readers 25 examples of false assumptions which held back scientific understanding of malaria 26 a reference to legislation to support the fight against malaria",
+      "content": {
+        "statement": "a reference to legislation to support the fight against malaria",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
+      },
+      "answer": "D"
     }
   ],
   "metadata": {
     "difficulty": 2,
-    "totalQuestions": 7,
+    "totalQuestions": 13,
     "questionTypes": [
       "summary-completion",
-      "multiple-choice-single"
+      "true-false-ng",
+      "paragraph-matching"
     ]
   }
 }

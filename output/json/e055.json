@@ -1,0 +1,188 @@
+{
+  "id": "e055",
+  "passage": {
+    "title": "The plan to bring an asteroid to Earth",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Moving in orbit around our Sun are millions of rocks known as asteroids. Now scientists have plans to capture one."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 19,
+      "type": "classification",
+      "instruction": "Questions 19–22\nLook at the following experts (Questions 19–22) and the list of statements below.\nMatch each expert with the correct statement, A–G.\nList of Statements A A mistake could have serious consequences for Earth. B It might be difficult to arouse interest in an asteroid of limited size. C The project could be an early step in space exploration. D An asteroid's weight makes the project extremely challenging. E The skill gained could save Earth from future danger. F An asteroid could be a useful landing place for a spaceship. G Capturing an asteroid would not be an efficient method of research.\nExpert A B C D E F G 19 Louis Friedman 20 Rusty Schweickart 21 Dan Mazanek 22 Joseph A. Nuth",
+      "content": {
+        "statement": "Louis Friedman",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          }
+        ]
+      },
+      "answer": "E"
+    },
+    {
+      "questionNumber": 20,
+      "type": "classification",
+      "instruction": "Questions 19–22\nLook at the following experts (Questions 19–22) and the list of statements below.\nMatch each expert with the correct statement, A–G.\nList of Statements A A mistake could have serious consequences for Earth. B It might be difficult to arouse interest in an asteroid of limited size. C The project could be an early step in space exploration. D An asteroid's weight makes the project extremely challenging. E The skill gained could save Earth from future danger. F An asteroid could be a useful landing place for a spaceship. G Capturing an asteroid would not be an efficient method of research.\nExpert A B C D E F G 19 Louis Friedman 20 Rusty Schweickart 21 Dan Mazanek 22 Joseph A. Nuth",
+      "content": {
+        "statement": "Rusty Schweickart",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 21,
+      "type": "classification",
+      "instruction": "Questions 19–22\nLook at the following experts (Questions 19–22) and the list of statements below.\nMatch each expert with the correct statement, A–G.\nList of Statements A A mistake could have serious consequences for Earth. B It might be difficult to arouse interest in an asteroid of limited size. C The project could be an early step in space exploration. D An asteroid's weight makes the project extremely challenging. E The skill gained could save Earth from future danger. F An asteroid could be a useful landing place for a spaceship. G Capturing an asteroid would not be an efficient method of research.\nExpert A B C D E F G 19 Louis Friedman 20 Rusty Schweickart 21 Dan Mazanek 22 Joseph A. Nuth",
+      "content": {
+        "statement": "Dan Mazanek",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 22,
+      "type": "classification",
+      "instruction": "Questions 19–22\nLook at the following experts (Questions 19–22) and the list of statements below.\nMatch each expert with the correct statement, A–G.\nList of Statements A A mistake could have serious consequences for Earth. B It might be difficult to arouse interest in an asteroid of limited size. C The project could be an early step in space exploration. D An asteroid's weight makes the project extremely challenging. E The skill gained could save Earth from future danger. F An asteroid could be a useful landing place for a spaceship. G Capturing an asteroid would not be an efficient method of research.\nExpert A B C D E F G 19 Louis Friedman 20 Rusty Schweickart 21 Dan Mazanek 22 Joseph A. Nuth",
+      "content": {
+        "statement": "Joseph A. Nuth",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          }
+        ]
+      },
+      "answer": "G"
+    },
+    {
+      "questionNumber": 23,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nThe merits of the US mission Capture of an asteroid would reduce the time that astronauts travelling to it needed to spend in space. An asteroid could also act as a 23 for further space travel and exploration. The fact that an asteroid would have weaker 24 would allow easier movement of resources. These resources include 25 which could be used in space or on Earth, and 26 which could be consumed or used as a source of power. The mission could provide data on the history of our Sun and planets. It could also be good practice if there was a threat to Earth from a body from space.",
+      "content": {
+        "questionText": "Capture of an asteroid would reduce the time that astronauts travelling to it needed to spend in space. An asteroid could also act as a 23 for further space travel and exploration. The fact that an asteroid would have weaker 24 would allow easier movement of resources. These resources include 25 which could be used in space or on Earth, and 26 which could be consumed or used as a source of power. The mission could provide data on the history of our Sun and planets. It could also be good practice if there was a threat to Earth from a body from space.",
+        "options": []
+      },
+      "answer": "base"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "classification",
+      "multiple-choice-single"
+    ]
+  }
+}

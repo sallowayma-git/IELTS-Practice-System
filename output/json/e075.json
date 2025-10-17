@@ -40,99 +40,243 @@
   "questions": [
     {
       "questionNumber": 27,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Pictures of Mars suggest it might make a good place for people to settle.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 28,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Modern Mars and ancient Earth looked remarkably similar.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 29,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "One method of terraforming could involve adapting technology that is already under development.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 30,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Greenhouse-gas factories would provide enough oxygen for people to breathe without special equipment.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 31,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Terraforming Mars would be an extreme test of human skill and intelligence.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 32,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 32–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Which one of these factors suggests that Mars might be a good place for people to settle?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "It is not too far from Earth."
+          },
+          {
+            "label": "B",
+            "text": "It has no other life forms living there."
+          },
+          {
+            "label": "C",
+            "text": "It has a cool, dry climate."
+          },
+          {
+            "label": "D",
+            "text": "It has some similarities with Earth."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 33,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 32–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "The first step in terraforming Mars would be to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "make the planet warmer."
+          },
+          {
+            "label": "B",
+            "text": "create a breathable atmosphere."
+          },
+          {
+            "label": "C",
+            "text": "find a suitable source of water."
+          },
+          {
+            "label": "D",
+            "text": "create a habitat for living organisms."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 34,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 32–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Special factories on Mars could be used to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "control the level of greenhouse gases."
+          },
+          {
+            "label": "B",
+            "text": "absorb excess levels of carbon dioxide."
+          },
+          {
+            "label": "C",
+            "text": "produce oxygen in a manner similar to plants."
+          },
+          {
+            "label": "D",
+            "text": "help grow essential bacteria."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 35,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 32–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What is the writer's main purpose in the passage?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "To explain why we need to terraform Mars."
+          },
+          {
+            "label": "B",
+            "text": "To illustrate the three processes required to terraform a planet like Mars."
+          },
+          {
+            "label": "C",
+            "text": "To consider how and why Mars might be terraformed."
+          },
+          {
+            "label": "D",
+            "text": "To demonstrate how straightforward it would be to terraform a planet."
+          }
+        ]
       },
       "answer": "C"
+    },
+    {
+      "questionNumber": 36,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 36–40\nComplete the summary using a word A–I from the box.\nWrite the correct letter, A-I, in boxes 36-40 on your answer sheet.\nOne method of terraforming Mars would be to 36 asteroids at the planet. Rockets attached to an enormous asteroid would propel it towards Mars, taking ten years to 37 the enormous distances required. The asteroid would 38 the planet with incredible force and 39 enough energy to 40 the planet's temperature. The result would be a temperate climate and lots of water from melting ice caps. A cover B create C hit D increase E land F drive G power H rise I shoot",
+      "content": {
+        "questionText": "One method of terraforming Mars would be to 36 asteroids at the planet. Rockets attached to an enormous asteroid would propel it towards Mars, taking ten years to 37 the enormous distances required. The asteroid would 38 the planet with incredible force and 39 enough energy to 40 the planet's temperature. The result would be a temperate climate and lots of water from melting ice caps.",
+        "options": []
+      },
+      "answer": "I"
     }
   ],
   "metadata": {
     "difficulty": 3,
-    "totalQuestions": 9,
+    "totalQuestions": 10,
     "questionTypes": [
+      "yes-no-ng",
       "multiple-choice-single"
     ]
   }

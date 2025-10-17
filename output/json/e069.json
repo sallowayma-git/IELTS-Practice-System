@@ -44,141 +44,435 @@
   "questions": [
     {
       "questionNumber": 27,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The Grimm brothers believed they would achieve international fame.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 28,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The Grimm brothers were forced to work in secret.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 29,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Some parents today still think Grimm fairy tales are not suitable for children.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 30,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The first edition of Grimm's fairy tales sold more widely in England than in Germany.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 31,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "Adults like reading Grimm's fairy tales for reasons different from those of children.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 27–32\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27–32 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The Grimm brothers based the story “Cinderella” on the life of Dorothea Viehmann.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 33,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 33–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In paragraph D, what changes happened at that time in Europe?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Literacy levels of the population increased."
+          },
+          {
+            "label": "B",
+            "text": "The development of printing technology made it easier to publish."
+          },
+          {
+            "label": "C",
+            "text": "Schools were open to children."
+          },
+          {
+            "label": "D",
+            "text": "People were fond of collecting superb picture books."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 34,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 33–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What changes did the Grimm Brothers make in later editions?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "They made the stories shorter."
+          },
+          {
+            "label": "B",
+            "text": "They used more oral language."
+          },
+          {
+            "label": "C",
+            "text": "The content of the tales became less violent."
+          },
+          {
+            "label": "D",
+            "text": "They found other origins of the tales."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 35,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 33–35\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What did Marie Hassenpflug contribute to the Grimm's Fairy tales?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "She wrote stories."
+          },
+          {
+            "label": "B",
+            "text": "She discussed the stories with them."
+          },
+          {
+            "label": "C",
+            "text": "She translated a popular book for the brothers using her talent for languages."
+          },
+          {
+            "label": "D",
+            "text": "She told the oral stories that were based on traditional Italian stories."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 36,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-H, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-H, below.",
       "content": {
         "questionText": "Heinz Rolleke said the Grimm's tales are \"German\" because some tales",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 37,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-H, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-H, below.",
       "content": {
         "questionText": "Heinz Rolleke said the abandoned children in tales",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 38,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-H, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-H, below.",
       "content": {
         "questionText": "Bernhard Lauer said the writing style of the Grimm brothers is universal because they",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
       },
       "answer": "H"
     },
     {
       "questionNumber": 39,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-H, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-H, below.",
       "content": {
         "questionText": "Jack Zipes said the pursuit of happiness in the tales means they",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
       },
       "answer": "E"
     },
     {
       "questionNumber": 40,
       "type": "multiple-choice-single",
-      "instruction": "Complete each sentence with the correct ending, A-H, below.",
+      "instruction": "Questions 36–40\nComplete each sentence with the correct ending, A-H, below.",
       "content": {
         "questionText": "Bruno Bettelheim said the therapeutic value of the tales means that the fairy tales",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          },
+          {
+            "label": "E",
+            "text": "E"
+          },
+          {
+            "label": "F",
+            "text": "F"
+          },
+          {
+            "label": "G",
+            "text": "G"
+          },
+          {
+            "label": "H",
+            "text": "H"
+          }
+        ]
       },
       "answer": "B"
     }
@@ -187,6 +481,7 @@
     "difficulty": 3,
     "totalQuestions": 14,
     "questionTypes": [
+      "yes-no-ng",
       "multiple-choice-single"
     ]
   }
