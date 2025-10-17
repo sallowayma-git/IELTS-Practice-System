@@ -1,0 +1,51 @@
+{
+  "id": "e107",
+  "passage": {
+    "title": "A study of western celebrity",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "In our celebrity-obsessed culture, TV shows, internet blogs, and even newspapers are often full of the latest news, gossip and scandals about current celebrities"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 24,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nCelebrities achieve a global status The development of the publishing industry in the 1700s signalled the beginning of international fame. A growing number of people could read, which meant they had the chance to become informed about their favourite figures by reading 24 . This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person's 25 rather than their talent can bring fame. With this type of television programme, fame may be entirely dependent on the response of the 26 .",
+      "content": {
+        "sentence": "The development of the publishing industry in the 1700s signalled the beginning of international fame. A growing number of people could read, which meant they had the chance to become informed about their favourite figures by reading _____ . This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person's",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "newspapers"
+    },
+    {
+      "questionNumber": 25,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nCelebrities achieve a global status The development of the publishing industry in the 1700s signalled the beginning of international fame. A growing number of people could read, which meant they had the chance to become informed about their favourite figures by reading 24 . This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person's 25 rather than their talent can bring fame. With this type of television programme, fame may be entirely dependent on the response of the 26 .",
+      "content": {
+        "sentence": "This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person's _____ rather than their talent can bring fame. With this type of television programme, fame may be entirely dependent on the response of the",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "appearance"
+    },
+    {
+      "questionNumber": 26,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nCelebrities achieve a global status The development of the publishing industry in the 1700s signalled the beginning of international fame. A growing number of people could read, which meant they had the chance to become informed about their favourite figures by reading 24 . This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person's 25 rather than their talent can bring fame. With this type of television programme, fame may be entirely dependent on the response of the 26 .",
+      "content": {
+        "sentence": "With this type of television programme, fame may be entirely dependent on the response of the _____ .",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "audience"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 3,
+    "questionTypes": [
+      "summary-completion"
+    ]
+  }
+}

@@ -37,100 +37,254 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "What is the writer's main point in the first paragraph?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Computer scientists are rarely represented at the Oscars."
+          },
+          {
+            "label": "B",
+            "text": "Film-industry awards hold little interest for computer scientists."
+          },
+          {
+            "label": "C",
+            "text": "The USA rewards film actors more than computer scientists."
+          },
+          {
+            "label": "D",
+            "text": "Computer scientists are becoming a vital part of the film industry."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "When describing the way computer-generated imagery changes actors' appearance, what does the writer suggest?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "CGI looks best from a distance."
+          },
+          {
+            "label": "B",
+            "text": "CGI interferes with actors' facial expressions."
+          },
+          {
+            "label": "C",
+            "text": "Audiences expect too much of CGI."
+          },
+          {
+            "label": "D",
+            "text": "The scientists had hoped for more convincing results."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "What does the writer suggest about the scientists' attitude to their work in the fourth paragraph?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "They were motivated to get as near to reality as possible."
+          },
+          {
+            "label": "B",
+            "text": "They were interested in gaining recognition for their work."
+          },
+          {
+            "label": "C",
+            "text": "They thought it could have medical applications."
+          },
+          {
+            "label": "D",
+            "text": "They hoped to receive further funding for their research."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "What are we told about computerised tomography?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "It has only recently been used by doctors."
+          },
+          {
+            "label": "B",
+            "text": "It is similar to X-rays in the way it works."
+          },
+          {
+            "label": "C",
+            "text": "Filmmakers have used it for many years for special lighting effects."
+          },
+          {
+            "label": "D",
+            "text": "It can be administered using traditional radiography machines."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "Which of these advantages does the writer attribute to the current use of computerised tomography?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "It is most effective when used to create images of skin."
+          },
+          {
+            "label": "B",
+            "text": "It can make a few people seem like a crowd."
+          },
+          {
+            "label": "C",
+            "text": "It allows clothes designers to create new designs."
+          },
+          {
+            "label": "D",
+            "text": "It is practical because of the time it takes."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 32,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C, or D.",
+      "instruction": "Questions 27–32\nChoose the correct letter, A, B, C, or D.",
       "content": {
         "questionText": "The writer mentions Kavita Bala in order to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "comment on the success of CGI in commercial contexts."
+          },
+          {
+            "label": "B",
+            "text": "highlight the link between CGI and photography."
+          },
+          {
+            "label": "C",
+            "text": "show that Marschner's team are uncertain about the future of CGI."
+          },
+          {
+            "label": "D",
+            "text": "demonstrate a use for CGI outside the film industry."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 33,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 33–36\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:\nYES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "It used to be unusual for university researchers to receive a cinematography award.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     },
     {
       "questionNumber": 34,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 33–36\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:\nYES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "CGI is popular among ageing actors.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 35,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 33–36\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:\nYES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "The scientists' success in generating images of complete CGI garments has won them many awards.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 36,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:",
+      "type": "yes-no-ng",
+      "instruction": "Questions 33–36\nDo the following statements agree with the views of the writer in Reading Passage 3?\nIn boxes 33–36 on your answer sheet, write:\nYES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
         "questionText": "It will be a long time before computerised tomographic imaging of fabric is used by filmmakers.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     }
@@ -139,7 +293,8 @@
     "difficulty": 3,
     "totalQuestions": 10,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "yes-no-ng"
     ]
   }
 }

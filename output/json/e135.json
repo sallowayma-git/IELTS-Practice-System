@@ -1,0 +1,212 @@
+{
+  "id": "e135",
+  "passage": {
+    "title": "The Myth of the Eight-hour Sleep",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 19,
+      "type": "feature-matching",
+      "instruction": "Questions 19–23\nLook at the following statements (Questions 19–23) and the list of researchers below.\nMatch each statement with the correct researcher, A–E.\nNB You may use any letter more than once.\n19 In certain historical periods, the threat of criminal danger led to segmented sleep.\n20 Physicians should learn more about treating people with sleeping difficulties.\n21 Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.\n22 Technological changes in Europe made people more likely to sleep through the night.\n23 The belief that humans should have a long continuous sleep can be psychologically harmful.",
+      "content": {
+        "statement": "In certain historical periods, the threat of criminal danger led to segmented sleep.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thomas Wehr"
+          },
+          {
+            "label": "B",
+            "text": "Roger Ekirch"
+          },
+          {
+            "label": "C",
+            "text": "Craig Koslofsky"
+          },
+          {
+            "label": "D",
+            "text": "Gregg Jacobs"
+          },
+          {
+            "label": "E",
+            "text": "Russell Foster"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 20,
+      "type": "feature-matching",
+      "instruction": "Questions 19–23\nLook at the following statements (Questions 19–23) and the list of researchers below.\nMatch each statement with the correct researcher, A–E.\nNB You may use any letter more than once.\n19 In certain historical periods, the threat of criminal danger led to segmented sleep.\n20 Physicians should learn more about treating people with sleeping difficulties.\n21 Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.\n22 Technological changes in Europe made people more likely to sleep through the night.\n23 The belief that humans should have a long continuous sleep can be psychologically harmful.",
+      "content": {
+        "statement": "Physicians should learn more about treating people with sleeping difficulties.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thomas Wehr"
+          },
+          {
+            "label": "B",
+            "text": "Roger Ekirch"
+          },
+          {
+            "label": "C",
+            "text": "Craig Koslofsky"
+          },
+          {
+            "label": "D",
+            "text": "Gregg Jacobs"
+          },
+          {
+            "label": "E",
+            "text": "Russell Foster"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "E",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 21,
+      "type": "feature-matching",
+      "instruction": "Questions 19–23\nLook at the following statements (Questions 19–23) and the list of researchers below.\nMatch each statement with the correct researcher, A–E.\nNB You may use any letter more than once.\n19 In certain historical periods, the threat of criminal danger led to segmented sleep.\n20 Physicians should learn more about treating people with sleeping difficulties.\n21 Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.\n22 Technological changes in Europe made people more likely to sleep through the night.\n23 The belief that humans should have a long continuous sleep can be psychologically harmful.",
+      "content": {
+        "statement": "Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thomas Wehr"
+          },
+          {
+            "label": "B",
+            "text": "Roger Ekirch"
+          },
+          {
+            "label": "C",
+            "text": "Craig Koslofsky"
+          },
+          {
+            "label": "D",
+            "text": "Gregg Jacobs"
+          },
+          {
+            "label": "E",
+            "text": "Russell Foster"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 19–23\nLook at the following statements (Questions 19–23) and the list of researchers below.\nMatch each statement with the correct researcher, A–E.\nNB You may use any letter more than once.\n19 In certain historical periods, the threat of criminal danger led to segmented sleep.\n20 Physicians should learn more about treating people with sleeping difficulties.\n21 Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.\n22 Technological changes in Europe made people more likely to sleep through the night.\n23 The belief that humans should have a long continuous sleep can be psychologically harmful.",
+      "content": {
+        "statement": "Technological changes in Europe made people more likely to sleep through the night.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thomas Wehr"
+          },
+          {
+            "label": "B",
+            "text": "Roger Ekirch"
+          },
+          {
+            "label": "C",
+            "text": "Craig Koslofsky"
+          },
+          {
+            "label": "D",
+            "text": "Gregg Jacobs"
+          },
+          {
+            "label": "E",
+            "text": "Russell Foster"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 19–23\nLook at the following statements (Questions 19–23) and the list of researchers below.\nMatch each statement with the correct researcher, A–E.\nNB You may use any letter more than once.\n19 In certain historical periods, the threat of criminal danger led to segmented sleep.\n20 Physicians should learn more about treating people with sleeping difficulties.\n21 Historically, when people experienced interrupted sleep, they used the waking periods at night for different activities.\n22 Technological changes in Europe made people more likely to sleep through the night.\n23 The belief that humans should have a long continuous sleep can be psychologically harmful.",
+      "content": {
+        "statement": "The belief that humans should have a long continuous sleep can be psychologically harmful.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thomas Wehr"
+          },
+          {
+            "label": "B",
+            "text": "Roger Ekirch"
+          },
+          {
+            "label": "C",
+            "text": "Craig Koslofsky"
+          },
+          {
+            "label": "D",
+            "text": "Gregg Jacobs"
+          },
+          {
+            "label": "E",
+            "text": "Russell Foster"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 24,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nHistorical patterns of interrupted sleep Historical evidence seems to show that humans had common sleep patterns which were quite unlike today's eight hours of unbroken sleep each night. People habitually went to bed early, soon after 24 , slept for a while, then woke up for a few hours of activity or perhaps to consider, for example, the meaning of their 25 . There was little else to do at home in the dark, since what little means of lighting they had, such as using candles, was costly. In 16th-century Europe, people tended to stay at home at night because they feared 26 on largely unlit city streets. Once urban street lighting improved, nightlife in cities became popular, and recreational spots like coffee houses came to be considered fashionable. Consequently, sleeping patterns also began to change.",
+      "content": {
+        "sentence": "Historical evidence seems to show that humans had common sleep patterns which were quite unlike today's eight hours of unbroken sleep each night. People habitually went to bed early, soon after _____ , slept for a while, then woke up for a few hours of activity or perhaps to consider, for example, the meaning of their",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "sunset"
+    },
+    {
+      "questionNumber": 25,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nHistorical patterns of interrupted sleep Historical evidence seems to show that humans had common sleep patterns which were quite unlike today's eight hours of unbroken sleep each night. People habitually went to bed early, soon after 24 , slept for a while, then woke up for a few hours of activity or perhaps to consider, for example, the meaning of their 25 . There was little else to do at home in the dark, since what little means of lighting they had, such as using candles, was costly. In 16th-century Europe, people tended to stay at home at night because they feared 26 on largely unlit city streets. Once urban street lighting improved, nightlife in cities became popular, and recreational spots like coffee houses came to be considered fashionable. Consequently, sleeping patterns also began to change.",
+      "content": {
+        "sentence": ", slept for a while, then woke up for a few hours of activity or perhaps to consider, for example, the meaning of their _____ .",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "dreams"
+    },
+    {
+      "questionNumber": 26,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nHistorical patterns of interrupted sleep Historical evidence seems to show that humans had common sleep patterns which were quite unlike today's eight hours of unbroken sleep each night. People habitually went to bed early, soon after 24 , slept for a while, then woke up for a few hours of activity or perhaps to consider, for example, the meaning of their 25 . There was little else to do at home in the dark, since what little means of lighting they had, such as using candles, was costly. In 16th-century Europe, people tended to stay at home at night because they feared 26 on largely unlit city streets. Once urban street lighting improved, nightlife in cities became popular, and recreational spots like coffee houses came to be considered fashionable. Consequently, sleeping patterns also began to change.",
+      "content": {
+        "sentence": "There was little else to do at home in the dark, since what little means of lighting they had, such as using candles, was costly. In 16th-century Europe, people tended to stay at home at night because they feared _____ on largely unlit city streets. Once urban street lighting improved, nightlife in cities became popular, and recreational spots like coffee houses came to be considered fashionable. Consequently, sleeping patterns also began to change.",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "thieves"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 8,
+    "questionTypes": [
+      "feature-matching",
+      "summary-completion"
+    ]
+  }
+}

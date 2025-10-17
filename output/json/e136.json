@@ -41,90 +41,227 @@
     {
       "questionNumber": 27,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In the first paragraph, what is the writer's main point about migration to Patagonia?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "It started earlier than previously thought."
+          },
+          {
+            "label": "B",
+            "text": "Historians have overlooked its importance."
+          },
+          {
+            "label": "C",
+            "text": "It impacts on research into the wider region."
+          },
+          {
+            "label": "D",
+            "text": "Researchers have calculated its effects on the environment."
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 28,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "In the second paragraph, what is the writer's purpose?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "to challenge previous research"
+          },
+          {
+            "label": "B",
+            "text": "to propose new areas to investigate"
+          },
+          {
+            "label": "C",
+            "text": "to summarise a scholarly debate"
+          },
+          {
+            "label": "D",
+            "text": "to suggest reasons for human migration"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 29,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "The writer refers to the 'late' model in order to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "compare it with another theory of migration."
+          },
+          {
+            "label": "B",
+            "text": "evaluate the success of American migration."
+          },
+          {
+            "label": "C",
+            "text": "criticise the speed of research into migration."
+          },
+          {
+            "label": "D",
+            "text": "compare migration in different parts of the world."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 30,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What is the writer's main point about the ‘early' model?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Scholars support the idea of fast migrations."
+          },
+          {
+            "label": "B",
+            "text": "It is too random to be a convincing theory."
+          },
+          {
+            "label": "C",
+            "text": "South America was more habitable at an earlier time."
+          },
+          {
+            "label": "D",
+            "text": "It is more consistent with the physical conditions of the land."
+          }
+        ]
       },
       "answer": "D"
     },
     {
       "questionNumber": 31,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 27–31\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "What does the writer suggest about the Monte Verde site?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "It is much younger than researchers once estimated."
+          },
+          {
+            "label": "B",
+            "text": "It provides supporting evidence for relatively early settlement."
+          },
+          {
+            "label": "C",
+            "text": "Archaeologists believe the site is of questionable value."
+          },
+          {
+            "label": "D",
+            "text": "Streams exposed the site, making new research possible."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 32,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
         "questionText": "The conditions encountered by the first migrants to Patagonia were unique.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 33,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
         "questionText": "In the high country the first migrants hunted wild animals for food.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 34,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
         "questionText": "Archaeologists have failed to draw conclusions from the evidence found at rock shelters in Argentina and Chile.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NO"
     },
     {
       "questionNumber": 35,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
+      "type": "yes-no-ng",
+      "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
         "questionText": "Archaeological evidence can be moved from place to place in a variety of ways.",
-        "options": []
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "YES"
     }
@@ -133,7 +270,8 @@
     "difficulty": 3,
     "totalQuestions": 9,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "yes-no-ng"
     ]
   }
 }

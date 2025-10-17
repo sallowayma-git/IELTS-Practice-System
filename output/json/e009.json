@@ -36,48 +36,100 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "In the past, it was easier for scientists to study the Moon than the oceans.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Techniques for investigating the Moon are the same as techniques for researching the ocean.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Measuring temperature changes in the ocean using sound is more time-consuming than other methods.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Hydrophones can distinguish different kinds of rain.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 5,
       "type": "multiple-choice-single",
-      "instruction": "Reading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+      "instruction": "Questions 5–8\nReading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
       "content": {
         "questionText": "examples of things that affect the distance sound can travel in water",
         "options": []
@@ -87,7 +139,7 @@
     {
       "questionNumber": 6,
       "type": "multiple-choice-single",
-      "instruction": "Reading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+      "instruction": "Questions 5–8\nReading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
       "content": {
         "questionText": "details of the connection between ocean temperatures and climate",
         "options": []
@@ -97,7 +149,7 @@
     {
       "questionNumber": 7,
       "type": "multiple-choice-single",
-      "instruction": "Reading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+      "instruction": "Questions 5–8\nReading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
       "content": {
         "questionText": "details of ways in which light and sound are similar",
         "options": []
@@ -107,7 +159,7 @@
     {
       "questionNumber": 8,
       "type": "multiple-choice-single",
-      "instruction": "Reading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
+      "instruction": "Questions 5–8\nReading Passage 1 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 5–8 on your answer sheet.\nNB You may use any letter more than once.",
       "content": {
         "questionText": "a reference to a long-term study of different types of weather",
         "options": []
@@ -117,50 +169,135 @@
     {
       "questionNumber": 9,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 9–13\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "According to the passage, who conducted research into the rate at which sound travels in water?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Leonardo da Vinci"
+          },
+          {
+            "label": "B",
+            "text": "Colladon and Sturm"
+          },
+          {
+            "label": "C",
+            "text": "Ewing and Worzel"
+          },
+          {
+            "label": "D",
+            "text": "Jeff Nystuen"
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 10,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 9–13\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "According to the passage, who conducted research into the distances certain types of sound waves travel in water?",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "Leonardo da Vinci"
+          },
+          {
+            "label": "B",
+            "text": "Colladon and Sturm"
+          },
+          {
+            "label": "C",
+            "text": "Ewing and Worzel"
+          },
+          {
+            "label": "D",
+            "text": "Christopher Clark"
+          }
+        ]
       },
       "answer": "C"
     },
     {
       "questionNumber": 11,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 9–13\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "SOSUS allows whale researchers to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "follow a number of whales at the same time."
+          },
+          {
+            "label": "B",
+            "text": "protect whales as they migrate."
+          },
+          {
+            "label": "C",
+            "text": "imitate whale calls of different species."
+          },
+          {
+            "label": "D",
+            "text": "change the whales' direction of travel."
+          }
+        ]
       },
       "answer": "A"
     },
     {
       "questionNumber": 12,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 9–13\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Finback whale calls change",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "when scientists track them."
+          },
+          {
+            "label": "B",
+            "text": "at different times of year."
+          },
+          {
+            "label": "C",
+            "text": "when whales communicate with other species."
+          },
+          {
+            "label": "D",
+            "text": "when whales come to the surface."
+          }
+        ]
       },
       "answer": "B"
     },
     {
       "questionNumber": 13,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 9–13\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "SOSUS allows scientists to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "make accurate maps of the ocean floor."
+          },
+          {
+            "label": "B",
+            "text": "measure water-level changes."
+          },
+          {
+            "label": "C",
+            "text": "investigate ocean currents."
+          },
+          {
+            "label": "D",
+            "text": "measure variations in temperature."
+          }
+        ]
       },
       "answer": "D"
     }
@@ -169,6 +306,7 @@
     "difficulty": 1,
     "totalQuestions": 13,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

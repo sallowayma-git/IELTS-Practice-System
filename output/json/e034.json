@@ -1,0 +1,147 @@
+{
+  "id": "e034",
+  "passage": {
+    "title": "A unique golden textile",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 20,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B or C.\nNB You may use any letter more than once.\n20 It takes a tremendous number of spiders to make a small amount of silk.\n21 Scientists want to use the qualities of spider silk for medical purposes.\n22 Scientists are making some progress in their efforts to manufacture spider silk.\n23 Spider silk compares favourably to materials known for their strength.",
+      "content": {
+        "statement": "It takes a tremendous number of spiders to make a small amount of silk.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Simon Peers"
+          },
+          {
+            "label": "B",
+            "text": "Nicholas Godley"
+          },
+          {
+            "label": "C",
+            "text": "Todd Blackledge"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 21,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B or C.\nNB You may use any letter more than once.\n20 It takes a tremendous number of spiders to make a small amount of silk.\n21 Scientists want to use the qualities of spider silk for medical purposes.\n22 Scientists are making some progress in their efforts to manufacture spider silk.\n23 Spider silk compares favourably to materials known for their strength.",
+      "content": {
+        "statement": "Scientists want to use the qualities of spider silk for medical purposes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Simon Peers"
+          },
+          {
+            "label": "B",
+            "text": "Nicholas Godley"
+          },
+          {
+            "label": "C",
+            "text": "Todd Blackledge"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B or C.\nNB You may use any letter more than once.\n20 It takes a tremendous number of spiders to make a small amount of silk.\n21 Scientists want to use the qualities of spider silk for medical purposes.\n22 Scientists are making some progress in their efforts to manufacture spider silk.\n23 Spider silk compares favourably to materials known for their strength.",
+      "content": {
+        "statement": "Scientists are making some progress in their efforts to manufacture spider silk.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Simon Peers"
+          },
+          {
+            "label": "B",
+            "text": "Nicholas Godley"
+          },
+          {
+            "label": "C",
+            "text": "Todd Blackledge"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B or C.\nNB You may use any letter more than once.\n20 It takes a tremendous number of spiders to make a small amount of silk.\n21 Scientists want to use the qualities of spider silk for medical purposes.\n22 Scientists are making some progress in their efforts to manufacture spider silk.\n23 Spider silk compares favourably to materials known for their strength.",
+      "content": {
+        "statement": "Spider silk compares favourably to materials known for their strength.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Simon Peers"
+          },
+          {
+            "label": "B",
+            "text": "Nicholas Godley"
+          },
+          {
+            "label": "C",
+            "text": "Todd Blackledge"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 24,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nProducing spider silk in the lab Both scientists and manufacturers are interested in producing silk for many different purposes. Some researchers have tried to grow silk by introducing genetic material into 24 and some animals. But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a 25 inside the spider's body. When a spider spins silk, it applies 26 that turns this liquid into solid silk. Scientists cannot replicate this yet.",
+      "content": {
+        "sentence": "Both scientists and manufacturers are interested in producing silk for many different purposes. Some researchers have tried to grow silk by introducing genetic material into _____ and some animals. But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "bacteria"
+    },
+    {
+      "questionNumber": 25,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nProducing spider silk in the lab Both scientists and manufacturers are interested in producing silk for many different purposes. Some researchers have tried to grow silk by introducing genetic material into 24 and some animals. But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a 25 inside the spider's body. When a spider spins silk, it applies 26 that turns this liquid into solid silk. Scientists cannot replicate this yet.",
+      "content": {
+        "sentence": "But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a _____ inside the spider's body. When a spider spins silk, it applies",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "gland"
+    },
+    {
+      "questionNumber": 26,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nProducing spider silk in the lab Both scientists and manufacturers are interested in producing silk for many different purposes. Some researchers have tried to grow silk by introducing genetic material into 24 and some animals. But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a 25 inside the spider's body. When a spider spins silk, it applies 26 that turns this liquid into solid silk. Scientists cannot replicate this yet.",
+      "content": {
+        "sentence": "When a spider spins silk, it applies _____ that turns this liquid into solid silk. Scientists cannot replicate this yet.",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "force"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 7,
+    "questionTypes": [
+      "feature-matching",
+      "summary-completion"
+    ]
+  }
+}

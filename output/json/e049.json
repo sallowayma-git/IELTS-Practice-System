@@ -1,0 +1,163 @@
+{
+  "id": "e049",
+  "passage": {
+    "title": "Surviving city life",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 20,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "It is not clear why one small animal is moving from its natural environment.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 21,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Hot weather might positively affect the health of a species.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Sydney's residential gardens suit some species better than others.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Research into the natural world's responses to urban settings is vital.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 24,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as _____ . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "cockroaches"
+    },
+    {
+      "questionNumber": 25,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of _____ and its drainage network favour the growth of weeds. Water gathers",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "concrete"
+    },
+    {
+      "questionNumber": 26,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "Water gathers _____ as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "chemicals"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 7,
+    "questionTypes": [
+      "feature-matching",
+      "summary-completion"
+    ]
+  }
+}

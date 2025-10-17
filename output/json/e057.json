@@ -41,7 +41,7 @@
     {
       "questionNumber": 14,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 14–18\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nThe thylacine was a dog-like animal which had a 14 coat and was carnivorous. It was originally spread widely throughout the mainland of 15 . However, the number of thylacine decreased in that area around 16 ago because of climate change. In the end, thylacines were found only on the island of 17 , until the arrival of 18 with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
       "content": {
         "sentence": "The thylacine was a dog-like animal which had a _____ coat and was carnivorous. It was originally spread widely throughout the mainland of",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -51,7 +51,7 @@
     {
       "questionNumber": 15,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 14–18\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nThe thylacine was a dog-like animal which had a 14 coat and was carnivorous. It was originally spread widely throughout the mainland of 15 . However, the number of thylacine decreased in that area around 16 ago because of climate change. In the end, thylacines were found only on the island of 17 , until the arrival of 18 with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
       "content": {
         "sentence": "It was originally spread widely throughout the mainland of _____ . However, the number of thylacine decreased in that area around",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -61,7 +61,7 @@
     {
       "questionNumber": 16,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 14–18\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nThe thylacine was a dog-like animal which had a 14 coat and was carnivorous. It was originally spread widely throughout the mainland of 15 . However, the number of thylacine decreased in that area around 16 ago because of climate change. In the end, thylacines were found only on the island of 17 , until the arrival of 18 with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
       "content": {
         "sentence": "However, the number of thylacine decreased in that area around _____ ago because of climate change.",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -71,7 +71,7 @@
     {
       "questionNumber": 17,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 14–18\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nThe thylacine was a dog-like animal which had a 14 coat and was carnivorous. It was originally spread widely throughout the mainland of 15 . However, the number of thylacine decreased in that area around 16 ago because of climate change. In the end, thylacines were found only on the island of 17 , until the arrival of 18 with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
       "content": {
         "sentence": "In the end, thylacines were found only on the island of _____ , until the arrival of",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -81,19 +81,236 @@
     {
       "questionNumber": 18,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 14–18\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nThe thylacine was a dog-like animal which had a 14 coat and was carnivorous. It was originally spread widely throughout the mainland of 15 . However, the number of thylacine decreased in that area around 16 ago because of climate change. In the end, thylacines were found only on the island of 17 , until the arrival of 18 with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
       "content": {
         "sentence": ", until the arrival of _____ with their farming practices brought about a drastic reduction in thylacine numbers. The last one is thought to have died in Hobart Zoo in 1936.",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
       },
       "answer": "europeans"
+    },
+    {
+      "questionNumber": 19,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "There is no longer any hope of finding a surviving Tasmanian tiger.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 20,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "It would be preferable not to disturb any surviving Tasmanian tigers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 21,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "Many who claim to have seen Tasmanian tigers are not objective witnesses.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 22,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "Expert estimates of numbers needed to ensure species survival may be inaccurate.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 23,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "There is a great deal of international interest in Tasmanian tiger stories.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 24,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 19–24\nLook at the following statements (Questions 19–24) and the list of people below.\nMatch each statement with the correct person, A, B, C or D.\nNB You may use any letter more than once.\nList of People A Hans Naarding B Randolph Rose C David Pemberton D Nick Mooney\nList of People\nA Hans Naarding\nB Randolph Rose\nC David Pemberton\nD Nick Mooney\n19 There is no longer any hope of finding a surviving Tasmanian tiger. A B C D\n20 It would be preferable not to disturb any surviving Tasmanian tigers. A B C D\n21 Many who claim to have seen Tasmanian tigers are not objective witnesses. A B C D\n22 Expert estimates of numbers needed to ensure species survival may be inaccurate. A B C D\n23 There is a great deal of international interest in Tasmanian tiger stories. A B C D\n24 Some fresh evidence provided by a visitor to Tasmania seems credible. A B C D",
+      "content": {
+        "questionText": "Some fresh evidence provided by a visitor to Tasmania seems credible.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A"
+          },
+          {
+            "label": "B",
+            "text": "B"
+          },
+          {
+            "label": "C",
+            "text": "C"
+          },
+          {
+            "label": "D",
+            "text": "D"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 25,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 25 and 26\nChoose the correct letter, A, B, C or D.\n25 Has Naarding's sighting of a Tasmanian tiger resulted in A the capture of the tiger. B an extensive follow-up. C many other sightings. D the death of the tiger.\n26 The example of the coelacanth is used to show that A new animal species are still evolving. B animals can possess surprising physical characteristics. C species of sea animals can be saved from extinction. D opinions regarding the extinction of animal species can be mistaken.",
+      "content": {
+        "questionText": "Has Naarding's sighting of a Tasmanian tiger resulted in",
+        "options": [
+          {
+            "label": "A",
+            "text": "the capture of the tiger."
+          },
+          {
+            "label": "B",
+            "text": "an extensive follow-up."
+          },
+          {
+            "label": "C",
+            "text": "many other sightings."
+          },
+          {
+            "label": "D",
+            "text": "the death of the tiger."
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 26,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 25 and 26\nChoose the correct letter, A, B, C or D.\n25 Has Naarding's sighting of a Tasmanian tiger resulted in A the capture of the tiger. B an extensive follow-up. C many other sightings. D the death of the tiger.\n26 The example of the coelacanth is used to show that A new animal species are still evolving. B animals can possess surprising physical characteristics. C species of sea animals can be saved from extinction. D opinions regarding the extinction of animal species can be mistaken.",
+      "content": {
+        "questionText": "The example of the coelacanth is used to show that",
+        "options": [
+          {
+            "label": "A",
+            "text": "new animal species are still evolving."
+          },
+          {
+            "label": "B",
+            "text": "animals can possess surprising physical characteristics."
+          },
+          {
+            "label": "C",
+            "text": "species of sea animals can be saved from extinction."
+          },
+          {
+            "label": "D",
+            "text": "opinions regarding the extinction of animal species can be mistaken."
+          }
+        ]
+      },
+      "answer": "D"
     }
   ],
   "metadata": {
     "difficulty": 2,
-    "totalQuestions": 5,
+    "totalQuestions": 13,
     "questionTypes": [
-      "summary-completion"
+      "summary-completion",
+      "multiple-choice-single"
     ]
   }
 }

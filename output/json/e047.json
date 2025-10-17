@@ -1,0 +1,138 @@
+{
+  "id": "e047",
+  "passage": {
+    "title": "Skyscraper Farming",
+    "paragraphs": []
+  },
+  "questions": [
+    {
+      "questionNumber": 20,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 20–22\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "A UK Government study found that is a significant factor contributing to worldwide levels of soil degradation.",
+        "options": []
+      },
+      "answer": "erosion"
+    },
+    {
+      "questionNumber": 21,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 20–22\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "Disadvantages of vertical-farming projects include the expense of setting them up, as well as their high .",
+        "options": []
+      },
+      "answer": "operating costs"
+    },
+    {
+      "questionNumber": 22,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 20–22\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "content": {
+        "questionText": "could potentially be used to take vertical-farming facilities to areas where there is a critical food shortage.",
+        "options": []
+      },
+      "answer": "helicopters"
+    },
+    {
+      "questionNumber": 23,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following statements (Questions 23–26) and the list of people below.\nMatch each statement with the correct person, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Vertical farming can have financial benefits.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dickson Despommier"
+          },
+          {
+            "label": "B",
+            "text": "Ted Yamanoko"
+          },
+          {
+            "label": "C",
+            "text": "Natalie Jeremijenko"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 24,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following statements (Questions 23–26) and the list of people below.\nMatch each statement with the correct person, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Traditional farming has had a negative effect on the natural world.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dickson Despommier"
+          },
+          {
+            "label": "B",
+            "text": "Ted Yamanoko"
+          },
+          {
+            "label": "C",
+            "text": "Natalie Jeremijenko"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 25,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following statements (Questions 23–26) and the list of people below.\nMatch each statement with the correct person, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Vertical farming could dramatically increase world food production.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dickson Despommier"
+          },
+          {
+            "label": "B",
+            "text": "Ted Yamanoko"
+          },
+          {
+            "label": "C",
+            "text": "Natalie Jeremijenko"
+          }
+        ]
+      },
+      "answer": "A"
+    },
+    {
+      "questionNumber": 26,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 23–26\nLook at the following statements (Questions 23–26) and the list of people below.\nMatch each statement with the correct person, A, B or C.\nNB You may use any letter more than once.",
+      "content": {
+        "questionText": "Traditional farms may benefit from wider use of vertical farming.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dickson Despommier"
+          },
+          {
+            "label": "B",
+            "text": "Ted Yamanoko"
+          },
+          {
+            "label": "C",
+            "text": "Natalie Jeremijenko"
+          }
+        ]
+      },
+      "answer": "C"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 7,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

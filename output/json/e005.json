@@ -48,79 +48,181 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Artists in the German aesthetic tradition portrayed nature realistically.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Margaret attended a famous art college in Paris.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Margaret met her husband William while teaching a craft at a rehabilitation unit.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Margaret Preston and Thea Proctor explored similar themes in their art.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Margaret's 1925 artworks of Sydney Harbour were simpler than her previous ones.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The colours in Margaret's Berowra prints were very bright.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
         "questionText": "When living in Berowra, Margaret painted flowers in their natural location.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
+    },
+    {
+      "questionNumber": 8,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 8–13\nComplete the notes below.\nChoose ONE WORD AND/OR A NUMBER from the passage for each answer.\nMargaret Preston's later life Aboriginal influence: interest in Aboriginal art was inspired by seeing rock engravings close to her Berowra home incorporated 8 and colours from Aboriginal art in her own work often referred to Aboriginal sources in the 9 she gave her artworks 1953 exhibition: a very old method called 10 was used for some prints was inspired by 11 about Chinese art that she had started collecting in 1915 combination of Chinese and Aboriginal elements Old age: still interested in art and 12 worked for nearly six decades, making more than 13 artworks dedicated to Australian art, and the originality of her work is seen in Preston's long career",
+      "content": {
+        "questionText": "Margaret Preston's later life Aboriginal influence: interest in Aboriginal art was inspired by seeing rock engravings close to her Berowra home incorporated 8 and colours from Aboriginal art in her own work often referred to Aboriginal sources in the 9 she gave her artworks 1953 exhibition: a very old method called 10 was used for some prints was inspired by 11 about Chinese art that she had started collecting in 1915 combination of Chinese and Aboriginal elements Old age: still interested in art and 12 worked for nearly six decades, making more than 13 artworks dedicated to Australian art, and the originality of her work is seen in Preston's long career",
+        "options": []
+      },
+      "answer": "symbols"
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "totalQuestions": 7,
+    "totalQuestions": 8,
     "questionTypes": [
+      "true-false-ng",
       "multiple-choice-single"
     ]
   }

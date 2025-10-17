@@ -1,0 +1,105 @@
+{
+  "id": "e013",
+  "passage": {
+    "title": "Sweet Trouble",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The Australian town of Mossman in the state of Queensland sits in a tropical landscape between the rainforest and the Great Barrier Reef. Eco-tourism is important there; more than 80 per cent of Douglas Shire, of which Mossman is the administrative centre, is protected by World Heritage listing. But for most of the town's history, forest and reef have been largely irrelevant: since the sugar mill was built in 1894, the town has relied on sugarcane. Now Mossman is holding its breath. For two years the mill used by all the farms has been close to bankruptcy. It is at the centre of the economic shocks that have shaken Australia's sugar industry, and for lifetime farmers and a long list of cane-industry workers a way of life will disappear if the mill closes. Mossman has roughly 160 growers, who now produce less than one million tonnes of the nation's annual cane harvest of 30–40 million tonnes. But it is a microcosm of the industry. All across Australia, the cane-growing business is being squeezed between the pincers of economics and the environment."
+      },
+      {
+        "label": null,
+        "content": "The ten-year average return to sugar growers throughout the 1990s was about $350 a tonne. In early 2004, sugar prices plummeted, resulting in a 25-year-low average price for Australian sugar of about $232 a tonne. Although figures vary widely across farms and regions, that was about what it cost to grow a tonne of sugar in Australia. To forestall social and economic disaster, the Government offered more than $400 million to encourage growers to leave the industry. By the end of the year, 21 farmers had taken up the offer to leave, but another 1,000 are thought to be seriously considering it, allowing those remaining to buy the vacated land and improve their economies of scale."
+      },
+      {
+        "label": null,
+        "content": "Fourth-generation Mossman grower Bill Phillips-Turner is one who plans to fight on. 'The consequences of losing the mill would be catastrophic,' Bill says. 'Sugar has a big economic multiplier effect: for every dollar generated from sugar, an additional $7 is generated in the wider community. Because of limited options around here, most people now employed by the industry would have to leave the area to find work.' The farmer-shareholders have so far saved the mill by accepting substantial cuts to cane payments, but this has come at a big cost to everyone. As chairman of the board of the mill, Bill has presided over some tough and unpopular decisions; the hardest was slashing the mill workforce. Assets were sold and maintenance costs cut. The board has also worked hard to find new ways of doing business. Ethanol production, where sugar is used to produce fuel, has potential, and co-generation, using cane waste to generate electric power, is another possibility. However, the most radical—but preferred—alternative is to create a future for the mill as a food factory, turning out quality sugar-based foods."
+      },
+      {
+        "label": null,
+        "content": "In addition to the economic struggle, there is the environmental one. The sugar industry has the reputation of being environmentally damaging, but it has some surprising supporters. Douglas Shire mayor, Mike Berwick, is a well-known environmentalist and might be expected to be anti-cane. ‘There's no question of the past damage it's done to the reef through chemical and nutrient run-off*,' he says. 'But there's a formula for sustainable cane production and Mossman has nearly reached it.' Another surprise endorsement for cane comes from the Queensland Environmental Protection Agency's sugar liaison officer, Karen Benn. 'I'm less worried about the effect of cane on the environment than I am about other agriculture,' she says. 'There are good growers everywhere, but at Mossman they seem to have taken up the challenges faster.' For example, sediment run-off, previously one of the main environmental problems caused by cane growing, is now nothing like it once was, according to Dr Brian Roberts, co-ordinator of the Douglas Shire Water Quality Improvement Program. ‘North Queensland used to hold the record for soil loss,' he says. 'Now ... cane country is accumulating soil.'"
+      },
+      {
+        "label": null,
+        "content": "However, these improvements have been achieved at a great cost to growers. Now in his 60s, Tom Watters has spent a lifetime on the same farm. Fourteen years ago, he was alerted to the effect his cane could be having on Mackay Creek, the narrow waterway that receives all his run-off, and so Tom planted a 5,000-tree buffer along the edge of the creek, built up the edges of the creek with rocks to prevent erosion, and began exploring farming methods that cause minimal soil disturbance. However, none of these costly initiatives has helped him get better cane prices. Another cane grower, Doug Crees, comments that 'Economically, it [cane growing] doesn't make much sense. But there's more to life than money.' It's this addiction to the way of life that keeps many cane farmers growing an underperforming crop. 'It's a good lifestyle,' Doug says. 'I spend eight months working on the farm and four months looking after our kids while my wife works in town. I've been looking at alternative crops, like forestry and cocoa, and it turns out that working away from the farm is the best diversification we could do. However, I still don't want to do that.'"
+      },
+      {
+        "label": null,
+        "content": "It is difficult to see how anyone can deal satisfactorily with the passing of a way of life. Cane farmers have been part of eastern Queensland for more than a century, but despite the efforts they have put into fighting the good environmental fight, there is no guarantee that the new way of life evolving there will include cane."
+      },
+      {
+        "label": null,
+        "content": "*run-off: water that is used for agriculture and then passes into waterways, carrying soil and agricultural chemicals with it"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "feature-matching",
+      "instruction": "Questions 1–4\nLook at the following statements (Questions 1–4) and the list of people below.\nMatch each statement with the correct person, A–F.\nWrite the correct letter, A–F, in boxes 1–4 on your answer sheet.\nList of People A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees Statements ABCDEF 1 Mossman cane-farming practices are close to an environmentally friendly model. 2 Financial return is not the only important factor for cane growers. 3 Cane sugar may not harm the environment as much as other crops do. 4 The local population would decline if the sugar-processing plant closed.",
+      "content": {
+        "statement": "Mossman cane-farming practices are close to an environmentally friendly model.",
+        "options": [
+          {
+            "label": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees",
+            "text": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 2,
+      "type": "feature-matching",
+      "instruction": "Questions 1–4\nLook at the following statements (Questions 1–4) and the list of people below.\nMatch each statement with the correct person, A–F.\nWrite the correct letter, A–F, in boxes 1–4 on your answer sheet.\nList of People A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees Statements ABCDEF 1 Mossman cane-farming practices are close to an environmentally friendly model. 2 Financial return is not the only important factor for cane growers. 3 Cane sugar may not harm the environment as much as other crops do. 4 The local population would decline if the sugar-processing plant closed.",
+      "content": {
+        "statement": "Financial return is not the only important factor for cane growers.",
+        "options": [
+          {
+            "label": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees",
+            "text": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees"
+          }
+        ]
+      },
+      "answer": "F"
+    },
+    {
+      "questionNumber": 3,
+      "type": "feature-matching",
+      "instruction": "Questions 1–4\nLook at the following statements (Questions 1–4) and the list of people below.\nMatch each statement with the correct person, A–F.\nWrite the correct letter, A–F, in boxes 1–4 on your answer sheet.\nList of People A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees Statements ABCDEF 1 Mossman cane-farming practices are close to an environmentally friendly model. 2 Financial return is not the only important factor for cane growers. 3 Cane sugar may not harm the environment as much as other crops do. 4 The local population would decline if the sugar-processing plant closed.",
+      "content": {
+        "statement": "Cane sugar may not harm the environment as much as other crops do.",
+        "options": [
+          {
+            "label": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees",
+            "text": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 4,
+      "type": "feature-matching",
+      "instruction": "Questions 1–4\nLook at the following statements (Questions 1–4) and the list of people below.\nMatch each statement with the correct person, A–F.\nWrite the correct letter, A–F, in boxes 1–4 on your answer sheet.\nList of People A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees Statements ABCDEF 1 Mossman cane-farming practices are close to an environmentally friendly model. 2 Financial return is not the only important factor for cane growers. 3 Cane sugar may not harm the environment as much as other crops do. 4 The local population would decline if the sugar-processing plant closed.",
+      "content": {
+        "statement": "The local population would decline if the sugar-processing plant closed.",
+        "options": [
+          {
+            "label": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees",
+            "text": "A Bill Phillips-Turner B Mike Berwick C Karen Benn D Brian Roberts E Tom Watters F Doug Crees"
+          }
+        ]
+      },
+      "answer": "A"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 4,
+    "questionTypes": [
+      "feature-matching"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "e101",
+  "passage": {
+    "title": "Yawning",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "how and why we yawn still presents problems for researchers in an area which has only recently been opened up to study."
+      },
+      {
+        "label": null,
+        "content": "When Robert R. Provine began studying yawning in the 1960s, it was difficult for him to convince research students of the merits of 'yawning science'. Although it may appear quirky to some, Provine's decision to study yawning was a logical extension of his research in developmental neuroscience."
+      },
+      {
+        "label": null,
+        "content": "The verb to yawn is derived from the Old English ganien or ginian, meaning to gape or open wide. But in addition to gaping jaws, yawning has significant features that are easy to observe and analyse. Provine ‘collected' yawns to study by using a variation of the contagion response*. He asked people to “think about yawning” and, once they began to yawn, to depress a button that would record from the start of the yawn to the exhalation at its end."
+      },
+      {
+        "label": null,
+        "content": "Provine's early discoveries can be summarized as follows: the yawn is highly stereotyped but not invariant in its duration and form. It is an excellent example of the instinctive fixed-action pattern of classical animal-behaviour study, or ethology. It is not a reflex (short-duration, rapid, proportional response to a simple stimulus), but, once started, a yawn progresses with the inevitability of a sneeze. The standard yawn runs its course over about six seconds on average, but its duration can range from about three seconds to much longer than the average. There are no half-yawns: this is an example of the typical intensity of fixed-action patterns and a reason why you cannot stifle yawns. Just like a cough, yawns can come in bouts with a highly variable inter-yawn interval, which is generally about 68 seconds but rarely more than 70. There is no relation between yawn frequency and duration: producers of short or long yawns do not compensate by yawning more or less often. Furthermore, Provine's hypotheses about the form and function of yawning can be tested by three informative yawn variants which can be used to look at the roles of the nose, the mouth and the jaws."
+      },
+      {
+        "label": null,
+        "content": "Subjects are asked to pinch their nose closed when they feel themselves start to yawn. Most subjects report being able to perform perfectly normal closed-nose yawns. This indicates that the inhalation at the onset of a yawn, and the exhalation at its end, need not involve the nostrils — the mouth provides a sufficient airway."
+      },
+      {
+        "label": null,
+        "content": "Subjects are asked to clench their teeth when they feel themselves start to yawn but allow themselves to inhale normally through their open lips and clenched teeth. This variant gives one the sensation of being stuck mid-yawn. This shows that gaping of the jaws is an essential component of the fixed-action pattern of the yawn, and unless it is accomplished, the programme will not run to completion. The yawn is also shown to be more than a deep breath, because, unlike normal breathing, inhalation and exhalation cannot be performed so well through the clenched teeth as through the nose."
+      },
+      {
+        "label": null,
+        "content": "This variant tests the adequacy of the nasal airway to sustain a yawn. Unlike normal breathing, which can be performed equally well through mouth or nose, yawning is impossible via nasal inhalation alone. As with the clenched-teeth yawn, the nose yawn provides the unfulfilling sensation of being stuck in mid-yawn. Exhalation, on the other hand, can be accomplished equally well through nose or mouth. Through this methodology Provine demonstrated that inhalation through the oral airway and the gaping of jaws are necessary for normal yawns. The motor programme for yawning will not run to completion without feedback that these parts of the programme have been accomplished."
+      },
+      {
+        "label": null,
+        "content": "But yawning is a powerful, generalised movement that involves much more than airway manoeuvres and jaw-gaping. When yawning you also stretch your facial muscles, tilt your head back, narrow or close your eyes, produce tears, salivate, open the Eustachian tubes of your middle ear and perform many other, yet unspecified, cardiovascular and respiratory acts. Perhaps the yawn shares components with other behaviour. For example, is the yawn a kind of 'slow sneeze', or is the sneeze a 'fast yawn'? Both share common respiratory and other features including jaw gaping, eye closing and head tilting."
+      },
+      {
+        "label": null,
+        "content": "Yawning and stretching share properties and may be performed together as parts of a global motor complex. Studies by J. I. P. de Vries et al. in the early 1980s, charting movement in the developing foetus using ultrasound, observed a link between yawning and stretching. The most extraordinary demonstration of the yawn-stretch linkage occurs in many people paralysed on one side of their body because of brain damage caused by a stroke: the prominent British neurologist Sir Francis Walshe noted in 1923 that when these people yawn, they are startled and mystified to observe that their otherwise paralysed arm rises and flexes automatically in what neurologists term an 'associated response'. Yawning apparently activates undamaged, unconsciously controlled connections between the brain and the motor system, causing the paralysed limb to move. It is not known whether the associated response is a positive prognosis for recovery, nor whether yawning is therapeutic for prevention of muscular deterioration."
+      },
+      {
+        "label": null,
+        "content": "Provine speculated that, in general, yawning may have many functions, and selecting a single function from the available options may be an unrealistic goal. Yawning appears to be associated with a change of behavioural state, switching from one activity to another. Yawning is also a reminder that ancient and unconscious behaviour linking us to the animal world lurks beneath the veneer of culture, rationality and language."
+      },
+      {
+        "label": null,
+        "content": "*contagion response: the well-known tendency for yawns to trigger yawns in observers."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 33,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "What did Provine conclude from his closed-nose yawn experiment?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ending a yawn requires use of the nostrils"
+          },
+          {
+            "label": "B",
+            "text": "You can yawn without breathing through your nose"
+          },
+          {
+            "label": "C",
+            "text": "Breathing through the nose produces a silent yawn"
+          },
+          {
+            "label": "D",
+            "text": "The role of the nose in yawning needs further investigation"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 34,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "Provine's clenched-teeth yawn experiment shows that",
+        "options": [
+          {
+            "label": "A",
+            "text": "yawning is unconnected with fatigue"
+          },
+          {
+            "label": "B",
+            "text": "a yawn is the equivalent of a deep intake of breath"
+          },
+          {
+            "label": "C",
+            "text": "you have to be able to open your mouth wide to yawn"
+          },
+          {
+            "label": "D",
+            "text": "breathing with the teeth together is as efficient as through the nose"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 35,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "The nose-yawn experiment was used to test whether yawning",
+        "options": [
+          {
+            "label": "A",
+            "text": "can be stopped after it has started"
+          },
+          {
+            "label": "B",
+            "text": "is the result of motor programming"
+          },
+          {
+            "label": "C",
+            "text": "involves both inhalation and exhalation"
+          },
+          {
+            "label": "D",
+            "text": "can be accomplished only through the nose"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 36,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "In people paralysed on one side because of brain damage",
+        "options": [
+          {
+            "label": "A",
+            "text": "yawning may involve only one side of the face"
+          },
+          {
+            "label": "B",
+            "text": "the yawning response indicates that recovery is likely"
+          },
+          {
+            "label": "C",
+            "text": "movement in the paralysed arm is stimulated by yawning"
+          },
+          {
+            "label": "D",
+            "text": "yawning can be used as an exercise to prevent muscle wasting"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 37,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 33–37\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "In the last paragraph, the writer concludes that",
+        "options": [
+          {
+            "label": "A",
+            "text": "yawning is a sign of boredom"
+          },
+          {
+            "label": "B",
+            "text": "we yawn in spite of the development of our species"
+          },
+          {
+            "label": "C",
+            "text": "yawning is a more passive activity than we imagine"
+          },
+          {
+            "label": "D",
+            "text": "we are stimulated to yawn when our brain activity is low"
+          }
+        ]
+      },
+      "answer": "B"
+    },
+    {
+      "questionNumber": 38,
+      "type": "yes-no-ng",
+      "instruction": "Questions 38–40\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "content": {
+        "questionText": "Research students were initially reluctant to appreciate the value of Provine's studies.",
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "YES"
+    },
+    {
+      "questionNumber": 39,
+      "type": "yes-no-ng",
+      "instruction": "Questions 38–40\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "content": {
+        "questionText": "When fetuses yawn and stretch, they are learning how to control movement.",
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 40,
+      "type": "yes-no-ng",
+      "instruction": "Questions 38–40\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
+      "content": {
+        "questionText": "According to Provine, referring to only one function is probably inadequate to explain why people yawn.",
+        "options": [
+          {
+            "label": "YES",
+            "text": "YES"
+          },
+          {
+            "label": "NO",
+            "text": "NO"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "YES"
+    }
+  ],
+  "metadata": {
+    "difficulty": 3,
+    "totalQuestions": 8,
+    "questionTypes": [
+      "multiple-choice-single",
+      "yes-no-ng"
+    ]
+  }
+}

@@ -44,71 +44,162 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Early European settlers made detailed studies of the morepork.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The Polynesian rat had a negative effect on the number of laughing owls.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The laughing owl was larger than the morepork.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Rats pose a risk to young moreporks.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "The New Zealand Department of Conservation is hoping to limit the population of moreporks.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "Other bird species are frightened away when they hear the morepork's cry.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 7,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
         "questionText": "In Māori tradition, the low call of the morepork had negative associations.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     }
@@ -117,7 +208,7 @@
     "difficulty": 1,
     "totalQuestions": 7,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

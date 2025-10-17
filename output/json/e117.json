@@ -41,7 +41,7 @@
     {
       "questionNumber": 14,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.",
+      "instruction": "Questions 14–18\nLook at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.\n14 High-level workers tend to react positively to stress\n15 Stress levels are increased by trying to please customers\n16 Support from other workers may relieve stress\n17 Lack of independence at work is often responsible for stress\n18 Workers commonly expect their workloads to lessen over time",
       "content": {
         "statement": "High-level workers tend to react positively to stress",
         "options": [
@@ -70,7 +70,7 @@
     {
       "questionNumber": 15,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.",
+      "instruction": "Questions 14–18\nLook at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.\n14 High-level workers tend to react positively to stress\n15 Stress levels are increased by trying to please customers\n16 Support from other workers may relieve stress\n17 Lack of independence at work is often responsible for stress\n18 Workers commonly expect their workloads to lessen over time",
       "content": {
         "statement": "Stress levels are increased by trying to please customers",
         "options": [
@@ -99,7 +99,7 @@
     {
       "questionNumber": 16,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.",
+      "instruction": "Questions 14–18\nLook at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.\n14 High-level workers tend to react positively to stress\n15 Stress levels are increased by trying to please customers\n16 Support from other workers may relieve stress\n17 Lack of independence at work is often responsible for stress\n18 Workers commonly expect their workloads to lessen over time",
       "content": {
         "statement": "Support from other workers may relieve stress",
         "options": [
@@ -128,7 +128,7 @@
     {
       "questionNumber": 17,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.",
+      "instruction": "Questions 14–18\nLook at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.\n14 High-level workers tend to react positively to stress\n15 Stress levels are increased by trying to please customers\n16 Support from other workers may relieve stress\n17 Lack of independence at work is often responsible for stress\n18 Workers commonly expect their workloads to lessen over time",
       "content": {
         "statement": "Lack of independence at work is often responsible for stress",
         "options": [
@@ -157,7 +157,7 @@
     {
       "questionNumber": 18,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.",
+      "instruction": "Questions 14–18\nLook at the following statements (Questions 14–18) and the list of people below.\nMatch each statement with the correct person, A–D.\nNB You may use any letter more than once.\n14 High-level workers tend to react positively to stress\n15 Stress levels are increased by trying to please customers\n16 Support from other workers may relieve stress\n17 Lack of independence at work is often responsible for stress\n18 Workers commonly expect their workloads to lessen over time",
       "content": {
         "statement": "Workers commonly expect their workloads to lessen over time",
         "options": [
@@ -186,7 +186,7 @@
     {
       "questionNumber": 19,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 19–21\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Which of the following is NOT mentioned by Neil Plumridge as an indication that his workload is too heavy?",
         "options": [
@@ -213,7 +213,7 @@
     {
       "questionNumber": 20,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 19–21\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "Which method of lessening work stress is NOT suggested by Neil Plumridge?",
         "options": [
@@ -240,7 +240,7 @@
     {
       "questionNumber": 21,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Questions 19–21\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "According to Jan Elsner, meditation offers a method of",
         "options": [
@@ -267,7 +267,7 @@
     {
       "questionNumber": 22,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nStress: its effects and how to reduce it Statistics on workers' compensation show that people take more time off work due to stress than for any other 22 at work. On average, workers who take time off because of stress stay away for 23 . This absence comes at a high price — while the number of insurance claims due to stress amount to only 24 of the total, they account for a much higher proportion of the cost of claim payments. Experts believe that seeking to relieve stress through physical therapies such as sport or 25 may be less effective than simply reviewing your 26 .",
       "content": {
         "sentence": "Statistics on workers' compensation show that people take more time off work due to stress than for any other _____ at work. On average, workers who take time off because of stress stay away for",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -277,7 +277,7 @@
     {
       "questionNumber": 23,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nStress: its effects and how to reduce it Statistics on workers' compensation show that people take more time off work due to stress than for any other 22 at work. On average, workers who take time off because of stress stay away for 23 . This absence comes at a high price — while the number of insurance claims due to stress amount to only 24 of the total, they account for a much higher proportion of the cost of claim payments. Experts believe that seeking to relieve stress through physical therapies such as sport or 25 may be less effective than simply reviewing your 26 .",
       "content": {
         "sentence": "On average, workers who take time off because of stress stay away for _____ . This absence comes at a high price — while the number of insurance claims due to stress amount to only",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -287,7 +287,7 @@
     {
       "questionNumber": 24,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nStress: its effects and how to reduce it Statistics on workers' compensation show that people take more time off work due to stress than for any other 22 at work. On average, workers who take time off because of stress stay away for 23 . This absence comes at a high price — while the number of insurance claims due to stress amount to only 24 of the total, they account for a much higher proportion of the cost of claim payments. Experts believe that seeking to relieve stress through physical therapies such as sport or 25 may be less effective than simply reviewing your 26 .",
       "content": {
         "sentence": "This absence comes at a high price — while the number of insurance claims due to stress amount to only _____ of the total, they account for a much higher proportion of the cost of claim payments.",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -297,7 +297,7 @@
     {
       "questionNumber": 25,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nStress: its effects and how to reduce it Statistics on workers' compensation show that people take more time off work due to stress than for any other 22 at work. On average, workers who take time off because of stress stay away for 23 . This absence comes at a high price — while the number of insurance claims due to stress amount to only 24 of the total, they account for a much higher proportion of the cost of claim payments. Experts believe that seeking to relieve stress through physical therapies such as sport or 25 may be less effective than simply reviewing your 26 .",
       "content": {
         "sentence": "Experts believe that seeking to relieve stress through physical therapies such as sport or _____ may be less effective than simply reviewing your",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
@@ -307,7 +307,7 @@
     {
       "questionNumber": 26,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+      "instruction": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.\nStress: its effects and how to reduce it Statistics on workers' compensation show that people take more time off work due to stress than for any other 22 at work. On average, workers who take time off because of stress stay away for 23 . This absence comes at a high price — while the number of insurance claims due to stress amount to only 24 of the total, they account for a much higher proportion of the cost of claim payments. Experts believe that seeking to relieve stress through physical therapies such as sport or 25 may be less effective than simply reviewing your 26 .",
       "content": {
         "sentence": "may be less effective than simply reviewing your _____ .",
         "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"

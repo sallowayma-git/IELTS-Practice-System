@@ -44,61 +44,139 @@
   "questions": [
     {
       "questionNumber": 1,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "In the seventeenth and eighteenth centuries, the British East India Company faced a lot of competition.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 2,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Before 1800, cargo size was the most important consideration for the East India Company.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 3,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "At best, voyages of the East Indiamen to China and back took nearly two years to complete.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 4,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Before 1834, voyages to and from China were considered to be highly dangerous.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 5,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "After 1834, the ships which had served the East India Company stopped being used for commercial purposes.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 6,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "In the nineteenth century, British drinkers preferred tea made from mature leaves to that made from younger leaves.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     }
@@ -107,7 +185,7 @@
     "difficulty": 1,
     "totalQuestions": 6,
     "questionTypes": [
-      "multiple-choice-single"
+      "true-false-ng"
     ]
   }
 }

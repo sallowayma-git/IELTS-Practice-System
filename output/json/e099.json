@@ -48,48 +48,100 @@
   "questions": [
     {
       "questionNumber": 27,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "It is uncertain when the Voynich manuscript was written.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 28,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Wilfrid Voynich donated the manuscript to the Beinecke Library.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 29,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Interest in the Voynich manuscript extends beyond that of academics and professional code-breakers.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 30,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The text of the Voynich manuscript contains just under 70 symbols.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 31,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.",
+      "instruction": "Questions 31–34\nLook at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.\n31 The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language.\n32 Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript.\n33 The person who wrote the manuscript may not have been entirely sane.\n34 It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich.",
       "content": {
         "statement": "The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language.",
         "options": [
@@ -132,7 +184,7 @@
     {
       "questionNumber": 32,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.",
+      "instruction": "Questions 31–34\nLook at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.\n31 The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language.\n32 Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript.\n33 The person who wrote the manuscript may not have been entirely sane.\n34 It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich.",
       "content": {
         "statement": "Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript.",
         "options": [
@@ -175,7 +227,7 @@
     {
       "questionNumber": 33,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.",
+      "instruction": "Questions 31–34\nLook at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.\n31 The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language.\n32 Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript.\n33 The person who wrote the manuscript may not have been entirely sane.\n34 It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich.",
       "content": {
         "statement": "The person who wrote the manuscript may not have been entirely sane.",
         "options": [
@@ -218,7 +270,7 @@
     {
       "questionNumber": 34,
       "type": "feature-matching",
-      "instruction": "Look at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.",
+      "instruction": "Questions 31–34\nLook at the following statements (Questions 31-34) and the list of people below.\nMatch each statement with the correct person, A–H.\n31 The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language.\n32 Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript.\n33 The person who wrote the manuscript may not have been entirely sane.\n34 It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich.",
       "content": {
         "statement": "It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich.",
         "options": [
@@ -261,7 +313,7 @@
     {
       "questionNumber": 35,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 35–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nVoynich Researchers William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a 35 . Other researchers later demonstrated that there were flaws in his argument. William Friedman concluded that the manuscript was written in an artificial language that was based on 36 . He couldn't find out the meaning of this language but he believed that the 37 would continue to bring advances in code-breaking. Dr Gabriel Landini used a system known as 38 in his research, and claims to have demonstrated the presence of genuine words. Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a 39 . Rugg's conclusion was that the manuscript lacked genuine meaning.",
       "content": {
         "sentence": "William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a _____ . Other researchers later demonstrated that there were flaws in his argument.",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -271,7 +323,7 @@
     {
       "questionNumber": 36,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 35–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nVoynich Researchers William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a 35 . Other researchers later demonstrated that there were flaws in his argument. William Friedman concluded that the manuscript was written in an artificial language that was based on 36 . He couldn't find out the meaning of this language but he believed that the 37 would continue to bring advances in code-breaking. Dr Gabriel Landini used a system known as 38 in his research, and claims to have demonstrated the presence of genuine words. Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a 39 . Rugg's conclusion was that the manuscript lacked genuine meaning.",
       "content": {
         "sentence": "William Friedman concluded that the manuscript was written in an artificial language that was based on _____ . He couldn't find out the meaning of this language but he believed that the",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -281,7 +333,7 @@
     {
       "questionNumber": 37,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 35–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nVoynich Researchers William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a 35 . Other researchers later demonstrated that there were flaws in his argument. William Friedman concluded that the manuscript was written in an artificial language that was based on 36 . He couldn't find out the meaning of this language but he believed that the 37 would continue to bring advances in code-breaking. Dr Gabriel Landini used a system known as 38 in his research, and claims to have demonstrated the presence of genuine words. Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a 39 . Rugg's conclusion was that the manuscript lacked genuine meaning.",
       "content": {
         "sentence": "He couldn't find out the meaning of this language but he believed that the _____ would continue to bring advances in code-breaking.",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -291,7 +343,7 @@
     {
       "questionNumber": 38,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 35–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nVoynich Researchers William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a 35 . Other researchers later demonstrated that there were flaws in his argument. William Friedman concluded that the manuscript was written in an artificial language that was based on 36 . He couldn't find out the meaning of this language but he believed that the 37 would continue to bring advances in code-breaking. Dr Gabriel Landini used a system known as 38 in his research, and claims to have demonstrated the presence of genuine words. Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a 39 . Rugg's conclusion was that the manuscript lacked genuine meaning.",
       "content": {
         "sentence": "Dr Gabriel Landini used a system known as _____ in his research, and claims to have demonstrated the presence of genuine words.",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -301,7 +353,7 @@
     {
       "questionNumber": 39,
       "type": "summary-completion",
-      "instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "instruction": "Questions 35–39\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nVoynich Researchers William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a 35 . Other researchers later demonstrated that there were flaws in his argument. William Friedman concluded that the manuscript was written in an artificial language that was based on 36 . He couldn't find out the meaning of this language but he believed that the 37 would continue to bring advances in code-breaking. Dr Gabriel Landini used a system known as 38 in his research, and claims to have demonstrated the presence of genuine words. Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a 39 . Rugg's conclusion was that the manuscript lacked genuine meaning.",
       "content": {
         "sentence": "Dr Gordon Rugg's system involved a grille, that made it possible to quickly select symbols that appeared in a _____ . Rugg's conclusion was that the manuscript lacked genuine meaning.",
         "wordLimit": "NO MORE THAN TWO WORDS"
@@ -311,10 +363,27 @@
     {
       "questionNumber": 40,
       "type": "multiple-choice-single",
-      "instruction": "Choose the correct letter, A, B, C or D.",
+      "instruction": "Question 40\nChoose the correct letter, A, B, C or D.",
       "content": {
         "questionText": "The writer's main aim in this passage is to",
-        "options": []
+        "options": [
+          {
+            "label": "A",
+            "text": "explain the meaning of the manuscript."
+          },
+          {
+            "label": "B",
+            "text": "determine the true identity of the manuscript's author."
+          },
+          {
+            "label": "C",
+            "text": "describe the numerous attempts to decode the manuscript."
+          },
+          {
+            "label": "D",
+            "text": "identify which research into the manuscript has had the most media coverage."
+          }
+        ]
       },
       "answer": "C"
     }
@@ -323,9 +392,10 @@
     "difficulty": 3,
     "totalQuestions": 14,
     "questionTypes": [
-      "multiple-choice-single",
+      "true-false-ng",
       "feature-matching",
-      "summary-completion"
+      "summary-completion",
+      "multiple-choice-single"
     ]
   }
 }

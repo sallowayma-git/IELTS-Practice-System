@@ -1,0 +1,202 @@
+{
+  "id": "e106",
+  "passage": {
+    "title": "Early Approaches to Organisational Design",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Determining the 'best' type of organisational structure for a particular situation has long been an important task for managers in all types of organisations. All structures have advantages and disadvantages and managers face the challenge of developing the most appropriate design for changing circumstances."
+      },
+      {
+        "label": null,
+        "content": "Early management writers attempted to approach organisational design using a set of principles that would make an organisational structure perform efficiently in most situations, independent of external conditions and internal objectives. The sociologist Max Weber and management writers Frederick Taylor and Henri Fayol were major contributors to this so-called classical approach. They believed that the most efficient organisations had a legalised, formal and hierarchical structure called a ‘bureaucracy'. Members of the organisation were guided by a sense of duty to the organisation and by a set of rational rules and regulations. According to Weber, such organisations were characterised by the specialisation of tasks, appointment by merit, and an impersonal climate."
+      },
+      {
+        "label": null,
+        "content": "Today the word 'bureaucracy' sometimes has negative connotations. Early management writers, however, commended bureaucracy as an organisational design for its rationality, rules for decision-making, clear chain of command, and promotion of people based on ability and experience, rather than favouritism or whim. Weber also believed that clearly specified authority and responsibility made performance easier to evaluate and reward."
+      },
+      {
+        "label": null,
+        "content": "Weber, Taylor and Fayol developed their theories when organisations that resembled this bureaucratic model were modern and efficient. It became evident, however, that some of the major advantages of the bureaucratic structure could become disadvantages if the theory were applied dogmatically. For example, the safeguards against favouritism could be rigidly imposed by adhering excessively to rules, resulting in both managers and subordinates becoming depersonalised."
+      },
+      {
+        "label": null,
+        "content": "The classical approach has been criticised from two major perspectives. First, the theory may not have a basis in reality. Have organisations like those described by Weber and the others ever existed? Second, it claims that organisations designed and managed according to bureaucratic principles will enjoy the predicted benefits. But critics argue that the world no longer fits the assumptions in Weber's model (if it ever did), and so a bureaucracy might not yield beneficial results."
+      },
+      {
+        "label": null,
+        "content": "Early human relations researchers and behavioural scientists attempted to deal with the major inadequacy of the classical bureaucratic model: neglect of the human element. They argued that an industrial organisation has two objectives: economic effectiveness and employee satisfaction. They also wrote that the bureaucratic structure could be improved by permitting more subordinate participation in decision-making. Because these researchers tried to improve, and not reject, the classical model, they are sometimes called neoclassical theorists and include Douglas McGregor, Chris Argyris and Rensis Likert."
+      },
+      {
+        "label": null,
+        "content": "McGregor believed that the vertical division of labour that characterised bureaucratic organisations was derived from negative and false assumptions about workers which he called Theory X. Managers assume lower-level employees lack ambition and need orders to work effectively. The rigid formal hierarchy is designed to maintain managers' power over subordinates. Decision-making takes place at upper levels of management while the decisions are carried out by people at lower levels. McGregor argued that organisations based instead on Theory Y assumptions use their members' potential. Theory Y assumes that most people find work satisfying, commit themselves willingly to organisational goals and seek responsibility. Members have more independence than in bureaucratic organisations and lower-level participation in decision-making is encouraged."
+      },
+      {
+        "label": null,
+        "content": "Argyris was concerned that managers in bureaucratic organisations had near-total responsibility for controlling their subordinates' work. He argued that managerial domination makes subordinates passive and dependent, and decreases their sense of responsibility and self-control. Argyris argued for an alternative organisational design that acknowledged human needs and feelings, and increased workers' satisfaction. Like McGregor, he favoured giving subordinates more independence and decision-making power to create a more informal organisational culture."
+      },
+      {
+        "label": null,
+        "content": "Likert shared the perspectives of McGregor and Argyris. In his research, he found that managers who encouraged their subordinates could motivate them more than traditional authoritarian managers. Likert based his model of four possible systems on these findings. In System 1, power and authority are distributed strictly according to the classical management subordinate relationship: a manager gives orders to lower-level members. In System 4 organisations, by contrast, there is extensive participation in decision-making and problem-solving groups. Some individuals in each group also belong to other work groups to ensure communication between them. System 4 represents Likert's view of an ideal organisation."
+      },
+      {
+        "label": null,
+        "content": "The neoclassical approach to organisational design compensates for limitations in the traditional classical model, but it has also been criticised. First, the neoclassicists share the classical assumption that there is one best way to design an organisation. They overlook environmental, technological, and other variables that might affect an organisation's design, and overemphasise psychological and behavioural variables. Second, Theories X and Y oversimplify human motivation and neglect individual differences. Not everyone is motivated by the non-monetary aspects of work, nor is all work satisfying. Finally, the coordination of work groups to achieve organisational goals may be more difficult than the neoclassicists suggest, particularly when the objectives of lower-level employees are not consistent with those of upper-level managers."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 22–26\nLook at the following beliefs (Questions 22–26) and the list of people below. Match each belief with the correct person, A–D.\nNB You may use any letter more than once.\n22 The classical approach relied upon managers having incorrect views about workers.\n23 In the best organisational model, there is shared decision-making and interaction between teams at work.\n24 In an efficient organisation, workers develop expertise in particular areas.\n25 An organisation must take into account the emotional demands of people.\n26 The classical approach allowed workers' skills to be assessed in a straightforward way.",
+      "content": {
+        "statement": "The classical approach relied upon managers having incorrect views about workers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Max Weber"
+          },
+          {
+            "label": "B",
+            "text": "Douglas McGregor"
+          },
+          {
+            "label": "C",
+            "text": "Chris Argyris"
+          },
+          {
+            "label": "D",
+            "text": "Rensis Likert"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 22–26\nLook at the following beliefs (Questions 22–26) and the list of people below. Match each belief with the correct person, A–D.\nNB You may use any letter more than once.\n22 The classical approach relied upon managers having incorrect views about workers.\n23 In the best organisational model, there is shared decision-making and interaction between teams at work.\n24 In an efficient organisation, workers develop expertise in particular areas.\n25 An organisation must take into account the emotional demands of people.\n26 The classical approach allowed workers' skills to be assessed in a straightforward way.",
+      "content": {
+        "statement": "In the best organisational model, there is shared decision-making and interaction between teams at work.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Max Weber"
+          },
+          {
+            "label": "B",
+            "text": "Douglas McGregor"
+          },
+          {
+            "label": "C",
+            "text": "Chris Argyris"
+          },
+          {
+            "label": "D",
+            "text": "Rensis Likert"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 24,
+      "type": "feature-matching",
+      "instruction": "Questions 22–26\nLook at the following beliefs (Questions 22–26) and the list of people below. Match each belief with the correct person, A–D.\nNB You may use any letter more than once.\n22 The classical approach relied upon managers having incorrect views about workers.\n23 In the best organisational model, there is shared decision-making and interaction between teams at work.\n24 In an efficient organisation, workers develop expertise in particular areas.\n25 An organisation must take into account the emotional demands of people.\n26 The classical approach allowed workers' skills to be assessed in a straightforward way.",
+      "content": {
+        "statement": "In an efficient organisation, workers develop expertise in particular areas.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Max Weber"
+          },
+          {
+            "label": "B",
+            "text": "Douglas McGregor"
+          },
+          {
+            "label": "C",
+            "text": "Chris Argyris"
+          },
+          {
+            "label": "D",
+            "text": "Rensis Likert"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 25,
+      "type": "feature-matching",
+      "instruction": "Questions 22–26\nLook at the following beliefs (Questions 22–26) and the list of people below. Match each belief with the correct person, A–D.\nNB You may use any letter more than once.\n22 The classical approach relied upon managers having incorrect views about workers.\n23 In the best organisational model, there is shared decision-making and interaction between teams at work.\n24 In an efficient organisation, workers develop expertise in particular areas.\n25 An organisation must take into account the emotional demands of people.\n26 The classical approach allowed workers' skills to be assessed in a straightforward way.",
+      "content": {
+        "statement": "An organisation must take into account the emotional demands of people.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Max Weber"
+          },
+          {
+            "label": "B",
+            "text": "Douglas McGregor"
+          },
+          {
+            "label": "C",
+            "text": "Chris Argyris"
+          },
+          {
+            "label": "D",
+            "text": "Rensis Likert"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 26,
+      "type": "feature-matching",
+      "instruction": "Questions 22–26\nLook at the following beliefs (Questions 22–26) and the list of people below. Match each belief with the correct person, A–D.\nNB You may use any letter more than once.\n22 The classical approach relied upon managers having incorrect views about workers.\n23 In the best organisational model, there is shared decision-making and interaction between teams at work.\n24 In an efficient organisation, workers develop expertise in particular areas.\n25 An organisation must take into account the emotional demands of people.\n26 The classical approach allowed workers' skills to be assessed in a straightforward way.",
+      "content": {
+        "statement": "The classical approach allowed workers' skills to be assessed in a straightforward way.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Max Weber"
+          },
+          {
+            "label": "B",
+            "text": "Douglas McGregor"
+          },
+          {
+            "label": "C",
+            "text": "Chris Argyris"
+          },
+          {
+            "label": "D",
+            "text": "Rensis Likert"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "feature-matching"
+    ]
+  }
+}

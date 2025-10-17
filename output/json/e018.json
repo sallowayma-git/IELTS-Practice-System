@@ -53,7 +53,7 @@
     {
       "questionNumber": 1,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Researchers believe the tea containers detected in from the Han Dynasty were the first evidence of the use of tea.",
         "options": []
@@ -63,7 +63,7 @@
     {
       "questionNumber": 2,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Lu Yu wrote a about tea before anyone else in the eighth century.",
         "options": []
@@ -73,7 +73,7 @@
     {
       "questionNumber": 3,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "It was from Japan who brought tea to their native country from China.",
         "options": []
@@ -83,7 +83,7 @@
     {
       "questionNumber": 4,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Tea was carried from China to Europe by the .",
         "options": []
@@ -93,7 +93,7 @@
     {
       "questionNumber": 5,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "The British government had to cut the taxation on tea because of the serious crime of .",
         "options": []
@@ -103,7 +103,7 @@
     {
       "questionNumber": 6,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "Tea was planted in besides China in the 19th century.",
         "options": []
@@ -113,7 +113,7 @@
     {
       "questionNumber": 7,
       "type": "multiple-choice-single",
-      "instruction": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+      "instruction": "Questions 1–7\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
       "content": {
         "questionText": "In order to compete in shipping speed, traders used for the race.",
         "options": []
@@ -122,61 +122,139 @@
     },
     {
       "questionNumber": 8,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Tea was popular in Britain in the 16th century.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 9,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Tea was more fashionable than coffee in Europe in the late 16th century.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     },
     {
       "questionNumber": 10,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Tea was enjoyed by all classes in Britain in the 17th century.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "FALSE"
     },
     {
       "questionNumber": 11,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The adulteration of tea also prompted William Pitt the Younger to reduce the tax.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 12,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "Initial problems occurred when tea was planted outside China by the East India Company.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "TRUE"
     },
     {
       "questionNumber": 13,
-      "type": "multiple-choice-single",
-      "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "type": "true-false-ng",
+      "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
         "questionText": "The fastest vessels were owned by America during the 19th-century clipper races.",
-        "options": []
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
       },
       "answer": "NOT GIVEN"
     }
@@ -185,7 +263,8 @@
     "difficulty": 1,
     "totalQuestions": 13,
     "questionTypes": [
-      "multiple-choice-single"
+      "multiple-choice-single",
+      "true-false-ng"
     ]
   }
 }
