@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from typing import Any, Dict, Iterable, Iterator, List, Optional, Tuple, Union
+from typing import Any, Dict, Iterable, Iterator, List, Optional, Sequence, Tuple, Union
 
 from .datamodel import (
     ChoiceOption,
@@ -527,6 +527,10 @@ def _parse_choice_group(group: Node, answers: Dict[str, str]) -> List[Question]:
             continue
         question_text = _extract_question_prompt(item)
         options = _extract_choice_options(item)
+        if not options:
+            fallback = _fallback_boolean_options(instruction)
+            if fallback:
+                options = fallback
         question_type = _infer_choice_type(options, instruction)
 
         questions.append(
@@ -658,6 +662,19 @@ def _infer_choice_type(options: List[ChoiceOption], instruction: str) -> Questio
     if re.search(r"choose\s+(two|three|four)\s+letters", instruction, re.I):
         return QuestionType.MULTIPLE_CHOICE_MULTIPLE
     return QuestionType.MULTIPLE_CHOICE_SINGLE
+
+
+def _fallback_boolean_options(instruction: str) -> List[ChoiceOption]:
+    upper = instruction.upper()
+
+    def _build_options(labels: Sequence[str]) -> List[ChoiceOption]:
+        return [ChoiceOption(label=label, text=label) for label in labels]
+
+    if all(token in upper for token in ("TRUE", "FALSE", "NOT GIVEN")):
+        return _build_options(["True", "False", "Not Given"])
+    if all(token in upper for token in ("YES", "NO", "NOT GIVEN")):
+        return _build_options(["Yes", "No", "Not Given"])
+    return []
 
 
 def _render_paragraph_with_placeholders(paragraph: Node) -> Tuple[str, Dict[int, str]]:
