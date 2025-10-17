@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "totalExams": 134,
+  "offsets": [
+    {
+      "difficulty": "常规",
+      "chunkIndex": 1,
+      "file": "output/chunks/standard_01.json",
+      "startId": 3,
+      "endId": 16,
+      "count": 10
+    },
+    {
+      "difficulty": "常规",
+      "chunkIndex": 2,
+      "file": "output/chunks/standard_02.json",
+      "startId": 20,
+      "endId": 38,
+      "count": 10
+    },
+    {
+      "difficulty": "常规",
+      "chunkIndex": 3,
+      "file": "output/chunks/standard_03.json",
+      "startId": 44,
+      "endId": 68,
+      "count": 10
+    },
+    {
+      "difficulty": "常规",
+      "chunkIndex": 4,
+      "file": "output/chunks/standard_04.json",
+      "startId": 72,
+      "endId": 104,
+      "count": 10
+    },
+    {
+      "difficulty": "常规",
+      "chunkIndex": 5,
+      "file": "output/chunks/standard_05.json",
+      "startId": 105,
+      "endId": 129,
+      "count": 6
+    },
+    {
+      "difficulty": "常规",
+      "chunkIndex": 6,
+      "file": "output/chunks/standard_06.json",
+      "startId": 130,
+      "endId": 134,
+      "count": 5
+    },
+    {
+      "difficulty": "次",
+      "chunkIndex": 1,
+      "file": "output/chunks/medium_01.json",
+      "startId": 9,
+      "endId": 57,
+      "count": 10
+    },
+    {
+      "difficulty": "次",
+      "chunkIndex": 2,
+      "file": "output/chunks/medium_02.json",
+      "startId": 62,
+      "endId": 90,
+      "count": 10
+    },
+    {
+      "difficulty": "次",
+      "chunkIndex": 3,
+      "file": "output/chunks/medium_03.json",
+      "startId": 92,
+      "endId": 128,
+      "count": 9
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 1,
+      "file": "output/chunks/hard_01.json",
+      "startId": 1,
+      "endId": 33,
+      "count": 10
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 2,
+      "file": "output/chunks/hard_02.json",
+      "startId": 36,
+      "endId": 50,
+      "count": 10
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 3,
+      "file": "output/chunks/hard_03.json",
+      "startId": 52,
+      "endId": 79,
+      "count": 10
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 4,
+      "file": "output/chunks/hard_04.json",
+      "startId": 81,
+      "endId": 101,
+      "count": 10
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 5,
+      "file": "output/chunks/hard_05.json",
+      "startId": 102,
+      "endId": 119,
+      "count": 9
+    },
+    {
+      "difficulty": "高",
+      "chunkIndex": 6,
+      "file": "output/chunks/hard_06.json",
+      "startId": 120,
+      "endId": 127,
+      "count": 5
+    }
+  ]
+}

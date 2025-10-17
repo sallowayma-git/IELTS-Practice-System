@@ -1,0 +1,12 @@
+{
+  "paths": {
+    "input_root": "../../../睡着过项目组(9.4)[134篇]",
+    "output_root": "./output",
+    "json_subdir": "json",
+    "chunks_subdir": "chunks",
+    "manifest_filename": "manifest.json"
+  },
+  "concurrency": {
+    "max_workers": 4
+  }
+}

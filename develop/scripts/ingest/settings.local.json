@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "input_root": "/absolute/path/to/html",
+    "output_root": "./dev-output"
+  },
+  "concurrency": {
+    "max_workers": 2
+  }
+}

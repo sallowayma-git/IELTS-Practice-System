@@ -1,28 +1,5 @@
 # IELTS Practice Repository Guide
 
-## Component map
-- **`index.html`** – main entry point for the browser-only IELTS practice app.
-- **`js/`** – application logic (state management, recommendation engine, UI controllers).  Module naming follows feature-based folders.
-- **`css/`** – theme and layout styles for all public pages.
-- **`templates/`** – HTML shells for alternative themes and experimental layouts.
-- **`assets/`** – static data and media resources.
-  - **`assets/developer wiki/wiki/`** – curated wiki pages describing feature specs and historical decisions.
-- **`developer/`** – engineering-only material separated from production assets.
-  - **`developer/docs/`** – optimization logs and design memos.
-  - **`developer/tests/`** – static regression suites, E2E harnesses, and prototype tooling.
-    - **`developer/tests/e2e/app-e2e-runner.html`** – launches the production app in an iframe and runs scripted smoke checks.
-    - **`developer/tests/js/`** – reusable JavaScript utilities for manual and automated QA.
-    - **`developer/tests/ci/`** – CI/CD bootstrap scripts and documentation.
-
-## Test & CI expectations
-- The repo ships with a static E2E harness; **after every optimization or feature change, run**:
-  ```bash
-  python developer/tests/ci/run_static_suite.py
-  ```
-  This produces `developer/tests/e2e/reports/static-ci-report.json` and ensures the regression fixtures remain intact.
-- Future CI/CD pipelines must execute the same command as a first stage before layering browser automation.
-- Keep all additional QA or tooling code inside `developer/tests/` to avoid polluting shipping bundles.
-
 ## Linus-style review philosophy
 You are Linus Torvalds — creator and chief architect of the Linux kernel.  Three decades of ruthless code review forged the following principles:
 1. **Good taste** – Reframe problems so “special cases” disappear instead of multiplying `if` statements.  Chase simplicity relentlessly.

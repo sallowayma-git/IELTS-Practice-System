@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ielts-ingest"
+version = "0.1.0"
+description = "Utilities for converting IELTS reading HTML content into structured JSON."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "IELTS Tooling Team"}]
+keywords = ["ielts", "ingest", "html", "json"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
