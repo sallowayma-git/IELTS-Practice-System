@@ -181,17 +181,51 @@ def _parse_passage(root: Node) -> Passage:
         if item is title_node:
             collect = True
             continue
+        if not collect:
+            continue
         if isinstance(item, Node):
-            if not collect:
-                continue
-            if item.tag == "div" and "empty-space" in item.attrs.get("class", "").split():
+            if _is_empty_space_marker(item):
                 break
-            if item.tag == "p":
-                text = item.get_text()
-                if text:
-                    label = item.attrs.get("data-label") or None
-                    paragraphs.append(Paragraph(content=text, label=label))
+            paragraphs.extend(_collect_paragraphs(item))
+        else:
+            text = _normalize_inline_text(item)
+            if text:
+                paragraphs.append(Paragraph(content=text, label=None))
     return Passage(title=title, paragraphs=paragraphs)
+
+
+def _is_empty_space_marker(node: Node) -> bool:
+    return node.tag == "div" and "empty-space" in node.attrs.get("class", "").split()
+
+
+def _collect_paragraphs(node: Node) -> List[Paragraph]:
+    paragraphs: List[Paragraph] = []
+
+    def _walk(current: Node) -> None:
+        if current.tag == "p":
+            text = current.get_text()
+            if text:
+                label = current.attrs.get("data-label") or None
+                paragraphs.append(Paragraph(content=text, label=label))
+            return
+        for child in current.contents:
+            if isinstance(child, Node):
+                if _is_empty_space_marker(child):
+                    continue
+                _walk(child)
+            else:
+                text = _normalize_inline_text(child)
+                if text:
+                    paragraphs.append(Paragraph(content=text, label=None))
+
+    _walk(node)
+    return paragraphs
+
+
+def _normalize_inline_text(data: str) -> str:
+    text = unescape(data)
+    text = " ".join(text.split())
+    return text
 
 
 def _parse_questions(root: Node, raw_html: str) -> List[Question]:
