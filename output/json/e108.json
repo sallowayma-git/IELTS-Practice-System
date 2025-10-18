@@ -1,0 +1,276 @@
+{
+  "id": "e108",
+  "passage": {
+    "title": "Bovids",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The family of mammals called bovids belongs to the Artiodactyl class, which also includes giraffes. Bovids are a highly diverse group consisting of 137 species, some of which are man's most important domestic animals."
+      },
+      {
+        "label": null,
+        "content": "Bovids are well represented in most parts of Eurasia and Southeast Asian islands, but they are by far the most numerous and diverse in the latter. Some species of bovid are solitary, but others live in large groups with complex social structures. Although bovids have adapted to a wide range of habitats, from arctic tundra to deep tropical forest, the majority of species favour open grassland, scrub or desert. This diversity of habitat is also matched by great diversity in size and form: at one extreme is the royal antelope of West Africa, which stands a mere 25 cm at the shoulder; at the other, the massively built bison of North America and Europe, growing to a shoulder height of 2.2m."
+      },
+      {
+        "label": null,
+        "content": "Despite differences in size and appearance, bovids are united by the possession of certain common features. All species are ruminants, which means that they retain undigested food in their stomachs, and regurgitate it as necessary. Bovids are almost exclusively herbivorous. Typically, their teeth are highly modified for browsing and grazing: grass or foliage is cropped with the upper lip and lower incisors (the upper incisors are usually absent), and then ground down by the cheek teeth. As well as having cloven, or split hooves, the males of all bovid species and the females of most carry horns. Bovid horns have bony cores covered in a sheath of horny material that is constantly renewed from within; they are unbranched and never shed. They vary in shape and size: the relatively simple horns of a large Indian buffalo may measure around 4 m from tip to tip along the outer curve, while the various gazelles have horns with a variety of elegant curves."
+      },
+      {
+        "label": null,
+        "content": "Five groups, or sub-families, may be distinguished: Bovinae, Antelope, Caprinae, Cephalophinae and Antilocapridae. The sub-family Bovinae comprises most of the larger bovids, including the African bongo, nilgai, eland, bison and cattle. Unlike most other bovids, they are all non-territorial. The ancestors of the various species of domestic cattle (such as banteng, gaur, yak and water buffalo) are generally rare and endangered in the wild, while the auroch (the ancestor of the domestic cattle of Europe) is extinct."
+      },
+      {
+        "label": null,
+        "content": "The term 'antelope' is not a very precise zoological name – it is used to loosely describe a number of bovids that have followed different lines of development. Antelopes are typically long-legged, fast-running species, often with long horns that may be laid along the back when the animal is in full flight. There are two main sub-groups of antelope: Hippotraginae, which includes the oryx and the addax, and Antilopinae, which generally contains slighter and more graceful animals such as gazelle and the springbok. Antelopes are mainly grassland species, but many have adapted to flooded grasslands: pukus, waterbucks and lechwes are all good at swimming, usually feeding in deep water, while the sitatunga has long, splayed hooves that enable it to walk freely on swampy ground."
+      },
+      {
+        "label": null,
+        "content": "The sub-family Caprinae includes the sheep and the goat, together with various relatives such as the goral and the tahr. Most are woolly or have long hair. Several species, such as wild goats, chamois and ibex, are agile cliff and mountain-dwellers. Tolerance of extreme conditions is most marked in this group: barbary and bighorn sheep have adapted to arid deserts, while Rocky Mountain sheep survive high up in mountains and musk oxen in arctic tundra."
+      },
+      {
+        "label": null,
+        "content": "The duiker of Africa belongs to the Cephalophinae sub-family. It is generally small and solitary, often living in thick forest. Although mainly feeding on grass and leaves, some duikers - unlike most other bovids – are believed to eat insects and feed on dead animal carcasses, and even to kill small animals."
+      },
+      {
+        "label": null,
+        "content": "The pronghorn is the sole survivor of a New World sub-family of herbivorous ruminants, the Antilocapridae in North America. It is similar in appearance and habits to the Old World antelope. Although greatly reduced in numbers since the arrival of Europeans, and the subsequent enclosure of grasslands, the pronghorn is still found in considerable numbers throughout North America, from Washington State to Mexico. When alarmed by the approach of wolves or other predators, hairs on the pronghorn's rump stand erect, so showing and emphasising the white patch there. At this signal, the whole herd gallops off at speed of over 60 km per hour."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 1–3\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "In which region is the biggest range of bovids to be found?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Africa"
+          },
+          {
+            "label": "B",
+            "text": "Eurasia"
+          },
+          {
+            "label": "C",
+            "text": "North America"
+          },
+          {
+            "label": "D",
+            "text": "South-east Asia"
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 2,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 1–3\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "Most bovids have a preference for living in",
+        "options": [
+          {
+            "label": "A",
+            "text": "isolation."
+          },
+          {
+            "label": "B",
+            "text": "small groups."
+          },
+          {
+            "label": "C",
+            "text": "tropical forest."
+          },
+          {
+            "label": "D",
+            "text": "wide open spaces."
+          }
+        ]
+      },
+      "answer": "D"
+    },
+    {
+      "questionNumber": 3,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 1–3\nChoose the correct letter, A, B, C or D.",
+      "content": {
+        "questionText": "Which of the following features do all bovids have in common?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Their horns are shed"
+          },
+          {
+            "label": "B",
+            "text": "They have upper incisors"
+          },
+          {
+            "label": "C",
+            "text": "They store food in the body"
+          },
+          {
+            "label": "D",
+            "text": "Their hooves are undivided"
+          }
+        ]
+      },
+      "answer": "C"
+    },
+    {
+      "questionNumber": 4,
+      "type": "feature-matching",
+      "instruction": "Questions 4–8\nLook at the following characteristics and the list of sub-families below.\nMatch each characteristic with the correct sub-family, A, B, C or D.\nNB You may use any letter more than once.\n4 can endure very harsh environments\n5 includes the ox and the cow\n6 may supplement its diet with meat\n7 can usually move at speed\n8 does not defend a particular area of land",
+      "content": {
+        "statement": "can endure very harsh environments",
+        "options": [
+          {
+            "label": "A",
+            "text": "Antelope"
+          },
+          {
+            "label": "B",
+            "text": "Bovinae"
+          },
+          {
+            "label": "C",
+            "text": "Caprinae"
+          },
+          {
+            "label": "D",
+            "text": "Cephalophinae"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 5,
+      "type": "feature-matching",
+      "instruction": "Questions 4–8\nLook at the following characteristics and the list of sub-families below.\nMatch each characteristic with the correct sub-family, A, B, C or D.\nNB You may use any letter more than once.\n4 can endure very harsh environments\n5 includes the ox and the cow\n6 may supplement its diet with meat\n7 can usually move at speed\n8 does not defend a particular area of land",
+      "content": {
+        "statement": "includes the ox and the cow",
+        "options": [
+          {
+            "label": "A",
+            "text": "Antelope"
+          },
+          {
+            "label": "B",
+            "text": "Bovinae"
+          },
+          {
+            "label": "C",
+            "text": "Caprinae"
+          },
+          {
+            "label": "D",
+            "text": "Cephalophinae"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 6,
+      "type": "feature-matching",
+      "instruction": "Questions 4–8\nLook at the following characteristics and the list of sub-families below.\nMatch each characteristic with the correct sub-family, A, B, C or D.\nNB You may use any letter more than once.\n4 can endure very harsh environments\n5 includes the ox and the cow\n6 may supplement its diet with meat\n7 can usually move at speed\n8 does not defend a particular area of land",
+      "content": {
+        "statement": "may supplement its diet with meat",
+        "options": [
+          {
+            "label": "A",
+            "text": "Antelope"
+          },
+          {
+            "label": "B",
+            "text": "Bovinae"
+          },
+          {
+            "label": "C",
+            "text": "Caprinae"
+          },
+          {
+            "label": "D",
+            "text": "Cephalophinae"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 7,
+      "type": "feature-matching",
+      "instruction": "Questions 4–8\nLook at the following characteristics and the list of sub-families below.\nMatch each characteristic with the correct sub-family, A, B, C or D.\nNB You may use any letter more than once.\n4 can endure very harsh environments\n5 includes the ox and the cow\n6 may supplement its diet with meat\n7 can usually move at speed\n8 does not defend a particular area of land",
+      "content": {
+        "statement": "can usually move at speed",
+        "options": [
+          {
+            "label": "A",
+            "text": "Antelope"
+          },
+          {
+            "label": "B",
+            "text": "Bovinae"
+          },
+          {
+            "label": "C",
+            "text": "Caprinae"
+          },
+          {
+            "label": "D",
+            "text": "Cephalophinae"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 8,
+      "type": "feature-matching",
+      "instruction": "Questions 4–8\nLook at the following characteristics and the list of sub-families below.\nMatch each characteristic with the correct sub-family, A, B, C or D.\nNB You may use any letter more than once.\n4 can endure very harsh environments\n5 includes the ox and the cow\n6 may supplement its diet with meat\n7 can usually move at speed\n8 does not defend a particular area of land",
+      "content": {
+        "statement": "does not defend a particular area of land",
+        "options": [
+          {
+            "label": "A",
+            "text": "Antelope"
+          },
+          {
+            "label": "B",
+            "text": "Bovinae"
+          },
+          {
+            "label": "C",
+            "text": "Caprinae"
+          },
+          {
+            "label": "D",
+            "text": "Cephalophinae"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "B",
+      "canReuse": true
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 8,
+    "questionTypes": [
+      "multiple-choice-single",
+      "feature-matching"
+    ]
+  }
+}

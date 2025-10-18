@@ -1,0 +1,156 @@
+{
+  "id": "e139",
+  "passage": {
+    "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The sleep troubles common in modern life have long been blamed on our industrial society, from the city lights, long work hours and commutes, to caffeine and the Internet. Sleep researchers often look back on a time when humans were able to get more rest by sleeping and waking to the rhythms of the sun. It turns out that this may not be quite right. In fact, our ancestors may not have been getting the recommended eight hours of sleep, either."
+      },
+      {
+        "label": null,
+        "content": "In a recent study, researchers traveled all over the world to examine sleep in some of the world's last remaining hunter-gatherer societies – the Hadza of Tanzania, the San of Namibia, and the Tsimane of Bolivia. Cut off from media, electricity and other distractions, these pre-industrial societies are thought to sleep the way humans did more than 10,000 years ago. Traveling to where they lived, often in humid, remote locations, researchers used medical devices to record the sleeping habits of 94 of these tribespeople and ended up collecting data representing 1,165 days."
+      },
+      {
+        "label": null,
+        "content": "They found very similar sleep patterns despite their geographic isolation. On average, all three groups sleep a little less than 6.5 hours a night, do not take naps, and don't go to sleep when it gets dark. Like many of us, the Hadza, San, and Tsimane spend more time in bed - from 6.9 to 8.5 hours – than they do actually sleeping. This adds up to a sleep efficiency that is very similar to today's industrial populations."
+      },
+      {
+        "label": null,
+        "content": "According to Jerome Siegel, director of the University of California's Center for Sleep Research, evidence suggests sleep habits may not be environmental or cultural, but central to the physical makeup of humans. These findings question the millions of dollars that have been spent on research that tries to explain why some sleepers get only about six hours of sleep a night. Also, such findings question whether lack of sleep is a cause of obesity, mood disorders, and other physical and mental illnesses which have become so common in recent decades. Scientists have documented that people's energy often falls in the mid-afternoon. Some have suggested that it's because we've managed to suppress a natural desire for a nap."
+      },
+      {
+        "label": null,
+        "content": "However, the new study provides evidence that this is unlikely, and that napping was actually rare in hunter-gatherer societies. The researchers estimated that naps may have occurred on up to 7 percent of winter days and 22 percent of summer days. They noted that their devices were only good at detecting longer naps, so it is possible that some of the study subjects took naps that were short, perhaps 15 minutes or less."
+      },
+      {
+        "label": null,
+        "content": "Another fascinating finding from the study had to do with the circadian rhythms, our daily activity cycles related to sunlight. Instead of going to sleep right at dusk, tribespeople were staying awake an average of between 2.5 and 4.4 hours after sunset. All three tribes had fires going, but the light itself was much lower than you might get from a light bulb. They did, however, have a tendency to wake up anywhere between an hour before and an hour after sunrise."
+      },
+      {
+        "label": null,
+        "content": "Siegel and his co-authors investigated this further by looking into the significance of temperature. They found that it also played a big role, though it was somewhat less important than light in influencing sleep patterns. They wrote that “sleep in both the winter and summer usually occurred during the period of cooling and that waking times usually occurred near the height of the daily warming trend.\""
+      },
+      {
+        "label": null,
+        "content": "The tribespeople that were studied are different from people living in modern conditions in a number of respects. Importantly, almost none of them were troubled by sleeplessness. In interviews with the researchers conducted through interpreters, only 1.5 to 2.5 percent of the study subjects said they had severe difficulties sleeping more than once a year. This figure is far lower than the 10 to 30 percent recorded in many industrialized countries today. Siegel suggested that “mimicking aspects of the natural environment” may therefore help treat some sleep disorders."
+      },
+      {
+        "label": null,
+        "content": "The tribespeople are also much healthier. Not a single one is overweight, indicating their overall higher levels of physical fitness. They also tended to have healthier hearts. Thus comes a critical question. If we can't blame our health problems on our lack of sleep, could it be that the reason we feel so unrested is because of poor health?"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Scientists studied hunter-gatherer societies because their sleep patterns are assumed to be similar to those of humans more than 10,000 years ago.",
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 2,
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "The medical devices used in the research were specially designed for humid conditions.",
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 3,
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Researchers found that tribespeople stayed longer in bed than inhabitants of industrialised regions.",
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 4,
+      "type": "true-false-ng",
+      "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+      "content": {
+        "questionText": "Jerome Siegel believes that environment and culture have little effect on sleep patterns.",
+        "options": [
+          {
+            "label": "TRUE",
+            "text": "TRUE"
+          },
+          {
+            "label": "FALSE",
+            "text": "FALSE"
+          },
+          {
+            "label": "NOT GIVEN",
+            "text": "NOT GIVEN"
+          }
+        ]
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Questions 5–13\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nNew Evidence on Sleep Patterns New ideas about napping scientists have recorded an afternoon drop in 5 studies of hunter-gatherer societies show that napping was rare and occurred more often during the 6 the devices may not have detected 7 naps Daily activity cycles the tribespeople went to sleep several hours after sunset even with 8 there was little light tribespeople usually woke up around 9 scientists found that 10 had almost as much influence on sleep patterns as light Differences between tribespeople and people in industrialised regions 11 is something that very few of the tribespeople suffered from the environment of tribespeople may have been more suitable for sleep tribespeople had better fitness than industrialised populations and were not 12 tribespeople also had stronger 13",
+      "content": {
+        "questionText": "New Evidence on Sleep Patterns New ideas about napping scientists have recorded an afternoon drop in 5 studies of hunter-gatherer societies show that napping was rare and occurred more often during the 6 the devices may not have detected 7 naps Daily activity cycles the tribespeople went to sleep several hours after sunset even with 8 there was little light tribespeople usually woke up around 9 scientists found that 10 had almost as much influence on sleep patterns as light Differences between tribespeople and people in industrialised regions 11 is something that very few of the tribespeople suffered from the environment of tribespeople may have been more suitable for sleep tribespeople had better fitness than industrialised populations and were not 12 tribespeople also had stronger 13",
+        "options": []
+      },
+      "answer": "energy"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 5,
+    "questionTypes": [
+      "true-false-ng",
+      "multiple-choice-single"
+    ]
+  }
+}

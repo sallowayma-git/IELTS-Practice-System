@@ -1,0 +1,105 @@
+{
+  "id": "e008",
+  "passage": {
+    "title": "Fishbourne Roman Palace",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Fishbourne Roman Palace is in the village of Fishbourne in West Sussex, England. This large palace was built in the 1st century AD, around thirty years after the Roman conquest of Britain, on the site of Roman army grain stores that had been established after the invasion during the reign of the Roman Emperor Claudius in 43 AD. The rectangular palace was built around formal gardens, the northern half of which has been reconstructed. There were extensive alterations in the 2nd and 3rd centuries AD, with many of the original black-and-white mosaic floors being overlaid with more sophisticated coloured ones, including a perfectly preserved mosaic of a dolphin in the north wing. More alterations were in progress when the palace burnt down in around 270 AD, after which it was abandoned."
+      },
+      {
+        "label": null,
+        "content": "Local people had long believed that a Roman palace once existed in the area. However, it was not until 1960 that the archaeologist Barry Cunliffe of Oxford University first systematically excavated the site, after workmen had accidentally uncovered a wall while they were laying a water main. The Roman villa excavated by Cunliffe's team was so grand that it became known as Fishbourne Roman Palace, and a museum was erected to preserve some of the remains. This is administered by the Sussex Archaeological Society."
+      },
+      {
+        "label": null,
+        "content": "In its day, the completed palace would have comprised four large wings with colonnaded fronts. The north and east wings consisted of suites of private rooms built around courtyards, with a monumental entrance in the middle of the east wing. In the north-east corner there was an assembly hall. The west wing contained state rooms, a large ceremonial reception room and a gallery. The south wing contained the owner's private apartments. The palace included as many as fifty mosaic floors, under-floor central heating and a bathhouse. In size, Fishbourne Palace would have been approximately equivalent to some of the great Roman palaces of Italy, and was by far the largest known Roman residence north of the European Alps, at about 500 feet (150 m) square. A team of volunteers and professional archaeologists is involved in an ongoing archaeological excavation on the site of nearby, possibly military, buildings."
+      },
+      {
+        "label": null,
+        "content": "The first buildings to be erected on the site were constructed in the early part of the conquest in 43 AD. Later, two timber buildings were constructed, one with clay-and-mortar floors and plaster walls, which appears to have been a house of some comfort. These buildings were demolished in the 60s AD and replaced by a substantial stone house, which included colonnades and a bath suite. It has been suggested that the palace itself, incorporating the previous house in its south-east corner, was constructed around 73–75 AD. However, Dr Miles Russell of Bournemouth University re-interpreted the ground plan and the collection of objects found, and has suggested that, given the extremely close parallels with the imperial palace of Domitian in Rome, its construction may more plausibly date to after 92 AD."
+      },
+      {
+        "label": null,
+        "content": "With regard to who lived in Fishbourne Palace, there are a number of theories. For example, one proposed by Professor Cunliffe is that, in its early phase, the palace was the residence of Tiberius Claudius Cogidubnus, a local chieftain who supported the Romans and who may have been installed as king of a number of territories following the first stage of the conquest. Cogidubnus is known from a reference to his loyalty in Agricola, a work by the Roman writer Tacitus, and from an inscription commemorating a temple dedicated to the gods Neptune and Minerva found in the nearby city of Chichester. Another theory is that it was built for Sallustius Lucullus, a Roman governor of Britain in the late 1st century, who may have been the son of the British prince Adminius. Two inscriptions recording the presence of Lucullus have been found in Chichester, and the redating by Miles Russell suggests that, if the palace was designed for Lucullus, then it may have been in use for only a few years, as the Roman historian Suetonius records that Lucullus was executed by the Emperor Domitian in or shortly after 93 AD."
+      },
+      {
+        "label": null,
+        "content": "Additional theories suggest that either Verica, a British king of the Roman Empire in the years preceding the Claudian invasion, was the owner of the palace, or Tiberius Claudius Catuarus, following the recent discovery of a gold ring belonging to him. The palace outlasted the original owner, whoever he was, and was extensively re-planned early in the 2nd century AD and subdivided into a series of smaller apartments. Further redevelopment was begun in the late 3rd century AD, but these alterations were incomplete when the north wing was destroyed in a fire in around 270 AD. The damage was too great to repair, and the palace was abandoned and later dismantled."
+      },
+      {
+        "label": null,
+        "content": "A modern museum has been built by the Sussex Archaeological Society, incorporating most of the visible remains, including one wing of the palace. The gardens have been replanted using authentic plants from the Roman period."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Fishbourne Palace was the first structure to be built on its site.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 2,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Fishbourne Palace was renovated more than once.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 3,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Fishbourne Palace was large in comparison with Roman palaces in Italy.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 4,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Research is continuing in the area close to Fishbourne Palace.",
+        "options": []
+      },
+      "answer": "TRUE"
+    },
+    {
+      "questionNumber": 5,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Researchers agree on the identity of the person for whom Fishbourne Palace was constructed.",
+        "options": []
+      },
+      "answer": "FALSE"
+    },
+    {
+      "questionNumber": 6,
+      "type": "multiple-choice-single",
+      "instruction": "Do the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:",
+      "content": {
+        "questionText": ". Fishbourne Palace was burnt down by local people.",
+        "options": []
+      },
+      "answer": "NOT GIVEN"
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "totalQuestions": 6,
+    "questionTypes": [
+      "multiple-choice-single"
+    ]
+  }
+}

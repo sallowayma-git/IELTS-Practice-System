@@ -1,0 +1,192 @@
+{
+  "id": "e049",
+  "passage": {
+    "title": "Surviving city life",
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Although the colonisation of Australia profoundly affected the continent's natural environment, many plants and animals have actually flourished since European settlement. Some even thrive in the concrete jungle of Australia's biggest city, Sydney."
+      },
+      {
+        "label": "A",
+        "content": "Ecologists often prefer to study plants and animals in exotic locations, but a growing number have turned their attention to the complex interactions of the wildlife that inhabits concrete jungles. Inner-city Sydney is the laboratory of choice for a number of ecologists, and their research is timely. More than half the world's human population resides in cities, and urban development continues to increase all over the world. By 2030, the United Nations projects five billion people will live in cities. Associate Professor Dieter Hochuli, a biologist at the University of Sydney, believes that ‘we need to understand how cities are changing the ecology of the systems they are built on, and how plants and animals are adapting to them'."
+      },
+      {
+        "label": "B",
+        "content": "If any species has learnt to thrive in an urban environment, it's the native white ibis. A strange long-legged bird with a bow-shaped beak, it is known as the 'garbage turkey'. The bird's reputation for digging through inner-city bins and scavenging street garbage has not endeared it to the public. The white ibis began its move to the city in the 1970s, when large parts of its natural habitat of inland wetlands became degraded due to years of low rainfall. ‘The species is a wetland forager,' wildlife officer John Martin from Sydney's Royal Botanic Gardens says. 'Now it happily forages in city parks and landfill.' During the peak of its spring breeding season, there are more than 9 000 of these birds in Sydney."
+      },
+      {
+        "label": "C",
+        "content": "Specimens at Sydney's Australian Museum show that the city's overall bird life has changed dramatically over the two centuries since colonisation. Prior to urban development, Sydney's native bushland was populated by large numbers of small insect-eating birds, such as the superb fairy-wren and the eastern yellow robin. Today, homeowners prefer to landscape their backyards with tall trees and manicured lawns—an environment that provides little protection for small birds. But one bird's trash is another's treasure. Gardens filled with flowering plants and fruit trees favour omnivorous birds such as currawongs, bowerbirds and the city's most despised resident – the noisy miner. ‘They're a real winner in cities,' Australian Museum ornithologist Richard Major says. ‘The predominant driver in the decline of small birds is that we've made a suitable environment for native noisy miners.'"
+      },
+      {
+        "label": "D",
+        "content": "Many invertebrates, such as the golden orb-weaver spider and the blue triangle butterfly, also relish living in the city. The golden orb spiders in Sydney are fatter and fitter than species found elsewhere, and Professor Hochuli and his team are trying to understand why. ‘We're trying to determine whether it's more food or the urban heat as it's up to four degrees warmer in the city.' Hochuli has also found some varieties of ant more at home in the city. 'The green ant, known for its painful bite, will build a nest where there is space and food, regardless of whether it's a backyard or a sports oval.' ‘It's remarkable how many things persist in city environments,' he says. The decline in birds that eat small invertebrates means these populations grow unchecked, allowing them to chew their way through the foliage of the city's trees."
+      },
+      {
+        "label": "E",
+        "content": "While some species can survive in relatively small areas, mammals have been confined to patches of bushland scattered around Sydney and its nearby national parks. However, the rabbit-sized, long-nosed bandicoot has discovered the advantages of venturing out to grassy suburban backyards and gardens. ‘They forage for invertebrates in the grass and like the surrounding habitat to nest and escape from predators,' Catherine Price, a research associate at the University of Sydney, says. Dr Price is trying to understand what encourages the little mammal into urban environments. ‘We don't know if it's an overflow from the park, or if they've got particular survival traits that allow them to evade dogs and cats, and use the urban habitat that benefits them,' she says."
+      },
+      {
+        "label": "F",
+        "content": "It's not just native wildlife that has sought comfort in city living. Non-native species such as black rodents, cockroaches and foxes have developed survival strategies too. But weeds are the pest that has gained the most advantage. ‘In residential Sydney there would not be a single area of remnant bushland not infested by introduced plant life,' Michelle Leishman, a Macquarie University plant biologist, says. Over 20 years, Leishman and her colleagues have shown how Sydney's huge stretches of impermeable concrete, together with the storm-water system, have helped weeds infiltrate the few remaining pockets of bushland. As rain washes over backyards and roadways, it collects chemicals which enter the storm-water system, where they are piped to the edges of bushland. The nutrient-rich water seeps into the earth, favouring the many exotic species that 'live fast and die young,' Leishman says. Indigenous plants prefer low-fertility soil and struggle to cope with one that is more fertile."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "questionNumber": 20,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "It is not clear why one small animal is moving from its natural environment.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "D",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 21,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Hot weather might positively affect the health of a species.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 22,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Sydney's residential gardens suit some species better than others.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "C",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 23,
+      "type": "feature-matching",
+      "instruction": "Questions 20–23\nLook at the following statements (Questions 20–23) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nNB You may use any letter more than once.\n20 It is not clear why one small animal is moving from its natural environment.\n21 Hot weather might positively affect the health of a species.\n22 Sydney's residential gardens suit some species better than others.\n23 Research into the natural world's responses to urban settings is vital.",
+      "content": {
+        "statement": "Research into the natural world's responses to urban settings is vital.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dieter Hochuli"
+          },
+          {
+            "label": "B",
+            "text": "John Martin"
+          },
+          {
+            "label": "C",
+            "text": "Richard Major"
+          },
+          {
+            "label": "D",
+            "text": "Catherine Price"
+          }
+        ],
+        "canReuse": true
+      },
+      "answer": "A",
+      "canReuse": true
+    },
+    {
+      "questionNumber": 24,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as _____ . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "cockroaches"
+    },
+    {
+      "questionNumber": 25,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of _____ and its drainage network favour the growth of weeds. Water gathers",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "concrete"
+    },
+    {
+      "questionNumber": 26,
+      "type": "summary-completion",
+      "instruction": "Questions 24–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nSeeking comfort in city living It's not only native plants and animals that are adapting to city life; non-native plants and animals are also adapting. Examples of successful ‘city dwellers' include small, non-native rats and non-native insects such as 24 . However, what causes most problems in the city is weeds. Michelle Leishman, a scientist from Macquarie University, has proven that Sydney's large areas of 25 and its drainage network favour the growth of weeds. Water gathers 26 as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+      "content": {
+        "sentence": "Water gathers _____ as it passes from gardens and streets into the city drainage network. This, in turn, creates very good soil for several varieties of rapidly growing non-native plants.",
+        "wordLimit": "ONE WORD ONLY"
+      },
+      "answer": "chemicals"
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "totalQuestions": 7,
+    "questionTypes": [
+      "feature-matching",
+      "summary-completion"
+    ]
+  }
+}
