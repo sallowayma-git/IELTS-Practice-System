@@ -5,6 +5,10 @@
     "paragraphs": [
       {
         "label": null,
+        "content": "An overview of the origins of the modern guitar"
+      },
+      {
+        "label": null,
         "content": "The earliest stringed instruments currently known to archaeologists are bowl harps. For millennia, people made bowl harps using, for example, tortoise shells as resonators, with a bent stick for a neck and one or more gut or silk strings. The world's museums contain many such harps from the ancient Sumerian, Babylonian, and Egyptian civilisations. Around 2500-2000 BC, more advanced harps, such as the beautifully carved 11-stringed instrument found in the tomb of Queen Shub-Ad in ancient Mesopotamia, now modern-day Iraq, started to appear."
       },
       {
@@ -42,6 +46,14 @@
       {
         "label": null,
         "content": "At the end of the 19th century, guitar manufacturer Orville Gibson added steel strings to a body constructed like a cello, a combination which produced more volume. The electric guitar was born when pickups were fitted to Hawaiian and jazz guitars in the late 1920s, but met with little success until 1936, when Gibson introduced its famous ES150 model."
+      },
+      {
+        "label": null,
+        "content": "tanbur*: a long-necked stringed instrument with a small pear-shaped body"
+      },
+      {
+        "label": null,
+        "content": "fan-braced top**: a strengthening structure in the shape of a fan inserted into the soundbox"
       }
     ]
   },
