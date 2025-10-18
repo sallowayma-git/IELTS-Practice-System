@@ -198,14 +198,28 @@ def _is_empty_space_marker(node: Node) -> bool:
     return node.tag == "div" and "empty-space" in node.attrs.get("class", "").split()
 
 
+def _is_paragraph_label_container(node: Node) -> bool:
+    classes = set(node.attrs.get("class", "").split())
+    if not classes:
+        return False
+    if node.tag == "div" and "paragraph-dropzone" in classes:
+        return True
+    if node.tag in {"span", "div"} and "paragraph-label" in classes:
+        return True
+    if node.tag == "div" and "dropped-items" in classes:
+        return True
+    return False
+
+
 def _collect_paragraphs(node: Node) -> List[Paragraph]:
     paragraphs: List[Paragraph] = []
 
     def _walk(current: Node) -> None:
+        if _is_paragraph_label_container(current):
+            return
         if current.tag == "p":
-            text = current.get_text()
+            label, text = _resolve_paragraph_label(current)
             if text:
-                label = current.attrs.get("data-label") or None
                 paragraphs.append(Paragraph(content=text, label=label))
             return
         for child in current.contents:
@@ -220,6 +234,40 @@ def _collect_paragraphs(node: Node) -> List[Paragraph]:
 
     _walk(node)
     return paragraphs
+
+
+def _resolve_paragraph_label(node: Node) -> Tuple[Optional[str], str]:
+    label = node.attrs.get("data-label") or None
+    text = node.get_text()
+    if label:
+        cleaned = _strip_leading_label(text, label)
+        return label, cleaned or text
+
+    label = _extract_label_from_leading_child(node)
+    if label is not None:
+        cleaned = _strip_leading_label(text, label)
+        return label, cleaned or text
+
+    return None, text
+
+
+def _extract_label_from_leading_child(node: Node) -> Optional[str]:
+    if not node.contents:
+        return None
+    first = node.contents[0]
+    if isinstance(first, Node):
+        raw = first.get_text().strip()
+    else:
+        raw = str(first).strip()
+    if not raw:
+        return None
+    match = re.search(r"([A-Z]|[IVXLCDM]{1,6})$", raw)
+    if not match:
+        return None
+    candidate = match.group(1)
+    if re.fullmatch(r"[A-Z]", candidate) or re.fullmatch(r"[IVXLCDM]{1,6}", candidate):
+        return candidate
+    return None
 
 
 def _normalize_inline_text(data: str) -> str:
@@ -367,7 +415,7 @@ def _extract_question_range(group: Node) -> Optional[Tuple[int, int]]:
 def _strip_leading_label(text: str, label: str) -> str:
     if not label:
         return text
-    pattern = re.compile(rf"^{re.escape(label)}[\s\.\-\)]+", re.I)
+    pattern = re.compile(rf"^{re.escape(label)}[\s\.\-\):：]+", re.I)
     return pattern.sub("", text, count=1).strip()
 
 

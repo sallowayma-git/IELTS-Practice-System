@@ -5,6 +5,10 @@
     "paragraphs": [
       {
         "label": null,
+        "content": "Computer software that models human behaviour can make forecasts, outsmart rivals and transform negotiations"
+      },
+      {
+        "label": null,
         "content": "According to game theory, our chances of success in negotiations are based on the choices of others. Computer models have been developed to work out how events will unfold as people and organisations act in what they perceive to be their own best interests. Numerical values are placed on the goals, motivations and influence of players, and likely options are considered. Game-theory software then evaluates the ability of each of those players to influence others, and hence predicts the course of events."
       },
       {
