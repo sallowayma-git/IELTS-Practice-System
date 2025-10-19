@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from typing import Any, Dict, Iterable, Iterator, List, Optional, Sequence, Tuple, Union
+from typing import Any, Dict, Iterable, Iterator, List, Optional, Sequence, Tuple, Union, cast
 
 from .datamodel import (
     ChoiceOption,
@@ -21,6 +21,7 @@ from .datamodel import (
     Paragraph,
     Passage,
     Question,
+    QuestionContent,
     QuestionType,
     SummaryCompletionContent,
 )
@@ -615,12 +616,20 @@ def _parse_choice_group(group: Node, answers: Dict[str, str]) -> List[Question]:
                 options = fallback
         question_type = _infer_choice_type(options, instruction)
 
+        if question_type in (QuestionType.TRUE_FALSE_NG, QuestionType.YES_NO_NG):
+            content = cast(QuestionContent, {"statement": question_text})
+        else:
+            content = cast(
+                QuestionContent,
+                {"questionText": question_text, "options": options},
+            )
+
         questions.append(
             Question(
                 questionNumber=number,
                 type=question_type,
                 instruction=instruction,
-                content={"questionText": question_text, "options": options},
+                content=content,
                 answer=answers.get(f"q{number}") or "",
             )
         )
