@@ -47,21 +47,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Harvard and Yale were the first universities to benefit from philanthropy.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Harvard and Yale were the first universities to benefit from philanthropy."
       },
       "answer": "FALSE"
     },
@@ -70,21 +56,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Merchants liked to donate to the same universities they attended themselves.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Merchants liked to donate to the same universities they attended themselves."
       },
       "answer": "NOT GIVEN"
     },
@@ -93,21 +65,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The first gift to the University of Auckland came in 1884.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The first gift to the University of Auckland came in 1884."
       },
       "answer": "TRUE"
     },
@@ -116,21 +74,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The University of Otago often received larger gifts than Gillies' gift to Auckland.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The University of Otago often received larger gifts than Gillies' gift to Auckland."
       },
       "answer": "FALSE"
     },
@@ -139,21 +83,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "In the 1930s the government wanted to close Auckland's engineering school.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the 1930s the government wanted to close Auckland's engineering school."
       },
       "answer": "TRUE"
     },
@@ -162,21 +92,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "After raising $6,500, Crookes returned to academic life.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "After raising $6,500, Crookes returned to academic life."
       },
       "answer": "NOT GIVEN"
     },
@@ -185,21 +101,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "In the 1950s the best lecturers chose to work in Britain or Australia rather than Auckland.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the 1950s the best lecturers chose to work in Britain or Australia rather than Auckland."
       },
       "answer": "TRUE"
     },
@@ -208,21 +110,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "A single philanthropist was responsible for the new Medical School.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "A single philanthropist was responsible for the new Medical School."
       },
       "answer": "FALSE"
     }

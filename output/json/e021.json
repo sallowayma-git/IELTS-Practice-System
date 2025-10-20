@@ -43,21 +43,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The life of a typical married woman at that time appealed to Potter.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The life of a typical married woman at that time appealed to Potter."
       },
       "answer": "FALSE"
     },
@@ -66,21 +52,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Potter's publishers insisted on changing the title of her first book.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Potter's publishers insisted on changing the title of her first book."
       },
       "answer": "NOT GIVEN"
     },
@@ -89,21 +61,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The publishers doubted whether Potter's first book would be successful.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The publishers doubted whether Potter's first book would be successful."
       },
       "answer": "TRUE"
     },
@@ -112,21 +70,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Norman Warne suggested Potter include black-and-white illustrations in her first book.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Norman Warne suggested Potter include black-and-white illustrations in her first book."
       },
       "answer": "FALSE"
     },
@@ -135,21 +79,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "At first, Potter's parents disapproved of Norman Warne as a potential husband.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "At first, Potter's parents disapproved of Norman Warne as a potential husband."
       },
       "answer": "TRUE"
     },
@@ -158,21 +88,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Potter continued writing children's books until her death.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Potter continued writing children's books until her death."
       },
       "answer": "FALSE"
     },
@@ -181,21 +97,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 7–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 7–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Potter's gift to the National Trust was the largest in recent times.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Potter's gift to the National Trust was the largest in recent times."
       },
       "answer": "NOT GIVEN"
     }

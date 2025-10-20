@@ -43,21 +43,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 9–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Glaeser believes that congestion and poverty in some modern cities indicate serious problems.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Glaeser believes that congestion and poverty in some modern cities indicate serious problems."
       },
       "answer": "FALSE"
     },
@@ -66,21 +52,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 9–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The writer Henry David Thoreau discussed the ideas of the Romantic poets in his work.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The writer Henry David Thoreau discussed the ideas of the Romantic poets in his work."
       },
       "answer": "NOT GIVEN"
     },
@@ -89,21 +61,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 9–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Emperor Napoleon III was influenced by the complaints of poor people living in Paris.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Emperor Napoleon III was influenced by the complaints of poor people living in Paris."
       },
       "answer": "NOT GIVEN"
     },
@@ -112,21 +70,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 9–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Strict planning regulations may be beneficial for a city's development.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Strict planning regulations may be beneficial for a city's development."
       },
       "answer": "FALSE"
     },
@@ -135,21 +79,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 9–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Glaeser argues that the location of commercial development at La Défense was a bad idea.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Glaeser argues that the location of commercial development at La Défense was a bad idea."
       },
       "answer": "TRUE"
     }

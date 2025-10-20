@@ -87,21 +87,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The volunteers in Giovanni Battista Grassi's research came from all parts of Italy.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The volunteers in Giovanni Battista Grassi's research came from all parts of Italy."
       },
       "answer": "NOT GIVEN"
     },
@@ -110,21 +96,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Experiments in Italy proved that it was possible to remain healthy despite being in malarial zones.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Experiments in Italy proved that it was possible to remain healthy despite being in malarial zones."
       },
       "answer": "TRUE"
     },
@@ -133,21 +105,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 18–20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18–20 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "In the early twentieth century, quinine was successfully administered to all inhabitants of vulnerable regions.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the early twentieth century, quinine was successfully administered to all inhabitants of vulnerable regions."
       },
       "answer": "FALSE"
     },

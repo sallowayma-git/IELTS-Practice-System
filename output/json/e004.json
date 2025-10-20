@@ -231,21 +231,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 10–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 10–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "In the 20th century, most of the world's ambergris came from processing dead whales.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the 20th century, most of the world's ambergris came from processing dead whales."
       },
       "answer": "TRUE"
     },
@@ -254,21 +240,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 10–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 10–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The value of ambergris has increased recently.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The value of ambergris has increased recently."
       },
       "answer": "NOT GIVEN"
     },
@@ -277,21 +249,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 10–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 10–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Ambergris remains an important ingredient in perfume.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Ambergris remains an important ingredient in perfume."
       },
       "answer": "FALSE"
     },
@@ -300,21 +258,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 10–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 10–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "New uses have recently been found for ambergris.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "New uses have recently been found for ambergris."
       },
       "answer": "NOT GIVEN"
     }

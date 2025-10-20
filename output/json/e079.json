@@ -47,21 +47,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "The Pacific islands were uninhabited when migrants arrived by sea from Southeast Asia.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The Pacific islands were uninhabited when migrants arrived by sea from Southeast Asia."
       },
       "answer": "YES"
     },
@@ -70,21 +56,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Andrew Sharp was the first person to write about the migrants to the islands.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Andrew Sharp was the first person to write about the migrants to the islands."
       },
       "answer": "NO"
     },
@@ -93,21 +65,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Andrew Sharp believed migratory voyages were based more on luck than on skill.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Andrew Sharp believed migratory voyages were based more on luck than on skill."
       },
       "answer": "YES"
     },
@@ -116,21 +74,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Despite being controversial, Andrew Sharp's research had positive results.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Despite being controversial, Andrew Sharp's research had positive results."
       },
       "answer": "YES"
     },
@@ -139,21 +83,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–31 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Edwin Doran disagreed with the findings of Lewis's research.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Edwin Doran disagreed with the findings of Lewis's research."
       },
       "answer": "NOT GIVEN"
     },

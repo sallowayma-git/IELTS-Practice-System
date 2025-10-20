@@ -51,21 +51,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Artists in the German aesthetic tradition portrayed nature realistically.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Artists in the German aesthetic tradition portrayed nature realistically."
       },
       "answer": "TRUE"
     },
@@ -74,21 +60,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Margaret attended a famous art college in Paris.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Margaret attended a famous art college in Paris."
       },
       "answer": "NOT GIVEN"
     },
@@ -97,21 +69,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Margaret met her husband William while teaching a craft at a rehabilitation unit.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Margaret met her husband William while teaching a craft at a rehabilitation unit."
       },
       "answer": "FALSE"
     },
@@ -120,21 +78,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Margaret Preston and Thea Proctor explored similar themes in their art.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Margaret Preston and Thea Proctor explored similar themes in their art."
       },
       "answer": "NOT GIVEN"
     },
@@ -143,21 +87,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Margaret's 1925 artworks of Sydney Harbour were simpler than her previous ones.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Margaret's 1925 artworks of Sydney Harbour were simpler than her previous ones."
       },
       "answer": "FALSE"
     },
@@ -166,21 +96,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The colours in Margaret's Berowra prints were very bright.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The colours in Margaret's Berowra prints were very bright."
       },
       "answer": "FALSE"
     },
@@ -189,21 +105,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in the Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "When living in Berowra, Margaret painted flowers in their natural location.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "When living in Berowra, Margaret painted flowers in their natural location."
       },
       "answer": "TRUE"
     },

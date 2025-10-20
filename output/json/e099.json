@@ -51,21 +51,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "It is uncertain when the Voynich manuscript was written.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "It is uncertain when the Voynich manuscript was written."
       },
       "answer": "TRUE"
     },
@@ -74,21 +60,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Wilfrid Voynich donated the manuscript to the Beinecke Library.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Wilfrid Voynich donated the manuscript to the Beinecke Library."
       },
       "answer": "NOT GIVEN"
     },
@@ -97,21 +69,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Interest in the Voynich manuscript extends beyond that of academics and professional code-breakers.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Interest in the Voynich manuscript extends beyond that of academics and professional code-breakers."
       },
       "answer": "TRUE"
     },
@@ -120,21 +78,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-30 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The text of the Voynich manuscript contains just under 70 symbols.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The text of the Voynich manuscript contains just under 70 symbols."
       },
       "answer": "FALSE"
     },

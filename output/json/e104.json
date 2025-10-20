@@ -291,21 +291,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 36–40\nDo the following statements agree with the information in Reading Passage 3?",
       "content": {
-        "questionText": "Companies usually hire people on the basis of their character.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Companies usually hire people on the basis of their character."
       },
       "answer": "FALSE"
     },
@@ -314,21 +300,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 36–40\nDo the following statements agree with the information in Reading Passage 3?",
       "content": {
-        "questionText": "There are some areas of sport that have a greater proportion of talent than others.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "There are some areas of sport that have a greater proportion of talent than others."
       },
       "answer": "NOT GIVEN"
     },
@@ -337,21 +309,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 36–40\nDo the following statements agree with the information in Reading Passage 3?",
       "content": {
-        "questionText": "Measures of intelligence accurately predict performance at work.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Measures of intelligence accurately predict performance at work."
       },
       "answer": "FALSE"
     },
@@ -360,21 +318,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 36–40\nDo the following statements agree with the information in Reading Passage 3?",
       "content": {
-        "questionText": "There are cases in which talented sportspeople have been overlooked.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "There are cases in which talented sportspeople have been overlooked."
       },
       "answer": "TRUE"
     },
@@ -383,21 +327,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 36–40\nDo the following statements agree with the information in Reading Passage 3?",
       "content": {
-        "questionText": "Newly formed organisations have the most highly motivated staff.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Newly formed organisations have the most highly motivated staff."
       },
       "answer": "NOT GIVEN"
     }

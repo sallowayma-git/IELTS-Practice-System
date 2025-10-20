@@ -55,21 +55,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Early Spanish chroniclers called the potato by the Incan name ‘chuño’.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Early Spanish chroniclers called the potato by the Incan name ‘chuño’."
       },
       "answer": "FALSE"
     },
@@ -78,21 +64,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The purpose of the Spanish coming to Peru was to find potatoes.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The purpose of the Spanish coming to Peru was to find potatoes."
       },
       "answer": "FALSE"
     },
@@ -101,21 +73,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The Spanish believed that the potato had the same nutrients as other vegetables.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The Spanish believed that the potato had the same nutrients as other vegetables."
       },
       "answer": "NOT GIVEN"
     },
@@ -124,21 +82,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Peasants at that time did not like to eat potatoes because they were ugly.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Peasants at that time did not like to eat potatoes because they were ugly."
       },
       "answer": "TRUE"
     },
@@ -147,21 +91,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the views of the writer in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The popularity of potatoes in the UK was due to food shortages during the war.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The popularity of potatoes in the UK was due to food shortages during the war."
       },
       "answer": "TRUE"
     },

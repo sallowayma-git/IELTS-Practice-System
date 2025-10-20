@@ -7,28 +7,47 @@ import re
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
-ROOT = Path(__file__).resolve().parents[2] / "output" / "json"
+ROOT = Path(__file__).resolve().parents[4] / "output" / "json"
 
 
 def _iter_json_files(directory: Path) -> Iterable[Path]:
     yield from sorted(directory.glob("*.json"))
 
 
-def _detect_boolean_spec(instruction: str) -> Tuple[str, Sequence[str]] | None:
+def _detect_boolean_spec(instruction: str, content: Dict[str, object]) -> Tuple[str, Sequence[str]] | None:
     upper = instruction.upper()
     patterns: Dict[Tuple[str, ...], Tuple[str, Sequence[str]]] = {
         ("TRUE", "FALSE", "NOT GIVEN"): (
             "true-false-ng",
-            ("True", "False", "Not Given"),
+            ("TRUE", "FALSE", "NOT GIVEN"),
         ),
         ("YES", "NO", "NOT GIVEN"): (
             "yes-no-ng",
-            ("Yes", "No", "Not Given"),
+            ("YES", "NO", "NOT GIVEN"),
         ),
     }
     for tokens, spec in patterns.items():
         if all(re.search(token, upper) for token in tokens):
             return spec
+
+    options = content.get("options")
+    if isinstance(options, list):
+        for tokens, spec in patterns.items():
+            _, labels = spec
+            if _options_match(options, labels):
+                return spec
+    return None
+
+
+def _normalize_statement(content: Dict[str, object]) -> str | None:
+    statement = content.get("statement")
+    if isinstance(statement, str) and statement.strip():
+        return statement.strip()
+
+    question_text = content.get("questionText")
+    if isinstance(question_text, str) and question_text.strip():
+        return question_text.strip()
+
     return None
 
 
@@ -36,7 +55,9 @@ def _options_match(options: List[Dict[str, str]], labels: Sequence[str]) -> bool
     if len(options) != len(labels):
         return False
     for option, label in zip(options, labels):
-        if option.get("label") != label or option.get("text") != label:
+        if option.get("label", "").strip().upper() != label.upper():
+            return False
+        if option.get("text", "").strip().upper() != label.upper():
             return False
     return True
 
@@ -66,15 +87,21 @@ def repair_file(path: Path) -> bool:
         if not isinstance(instruction, str) or not isinstance(content, dict):
             continue
 
-        detection = _detect_boolean_spec(instruction)
+        detection = _detect_boolean_spec(instruction, content)
         if detection is None:
             continue
 
-        expected_type, labels = detection
-        options = content.get("options")
-        if not isinstance(options, list) or not _options_match(options, labels):
-            content["options"] = [{"label": label, "text": label} for label in labels]
+        expected_type, _labels = detection
+        statement = _normalize_statement(content)
+        if statement is None:
+            continue
+
+        desired_content = {"statement": statement}
+        if content != desired_content:
+            content.clear()
+            content.update(desired_content)
             changed = True
+
         if question.get("type") != expected_type:
             question["type"] = expected_type
             changed = True

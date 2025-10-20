@@ -182,21 +182,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer?\nIn boxes 32–35 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "The available research supports Holdaway's theory but it has not been proved.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The available research supports Holdaway's theory but it has not been proved."
       },
       "answer": "YES"
     },
@@ -205,21 +191,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer?\nIn boxes 32–35 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Nowadays, it is possible to totally destroy a population of rats on a small island.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Nowadays, it is possible to totally destroy a population of rats on a small island."
       },
       "answer": "YES"
     },
@@ -228,21 +200,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer?\nIn boxes 32–35 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Crook was the first person to recognise the potential of offshore islands as sanctuaries.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Crook was the first person to recognise the potential of offshore islands as sanctuaries."
       },
       "answer": "NOT GIVEN"
     },
@@ -251,21 +209,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer?\nIn boxes 32–35 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Tuatara numbers are continuing to fall.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Tuatara numbers are continuing to fall."
       },
       "answer": "NO"
     }

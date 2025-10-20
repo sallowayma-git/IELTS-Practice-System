@@ -125,21 +125,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Tea was popular in Britain in the 16th century.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Tea was popular in Britain in the 16th century."
       },
       "answer": "FALSE"
     },
@@ -148,21 +134,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Tea was more fashionable than coffee in Europe in the late 16th century.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Tea was more fashionable than coffee in Europe in the late 16th century."
       },
       "answer": "NOT GIVEN"
     },
@@ -171,21 +143,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Tea was enjoyed by all classes in Britain in the 17th century.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Tea was enjoyed by all classes in Britain in the 17th century."
       },
       "answer": "FALSE"
     },
@@ -194,21 +152,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The adulteration of tea also prompted William Pitt the Younger to reduce the tax.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The adulteration of tea also prompted William Pitt the Younger to reduce the tax."
       },
       "answer": "TRUE"
     },
@@ -217,21 +161,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Initial problems occurred when tea was planted outside China by the East India Company.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Initial problems occurred when tea was planted outside China by the East India Company."
       },
       "answer": "TRUE"
     },
@@ -240,21 +170,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The fastest vessels were owned by America during the 19th-century clipper races.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The fastest vessels were owned by America during the 19th-century clipper races."
       },
       "answer": "NOT GIVEN"
     }

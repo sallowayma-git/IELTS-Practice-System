@@ -182,21 +182,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "The conditions encountered by the first migrants to Patagonia were unique.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The conditions encountered by the first migrants to Patagonia were unique."
       },
       "answer": "NO"
     },
@@ -205,21 +191,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "In the high country the first migrants hunted wild animals for food.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the high country the first migrants hunted wild animals for food."
       },
       "answer": "NOT GIVEN"
     },
@@ -228,21 +200,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "Archaeologists have failed to draw conclusions from the evidence found at rock shelters in Argentina and Chile.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Archaeologists have failed to draw conclusions from the evidence found at rock shelters in Argentina and Chile."
       },
       "answer": "NO"
     },
@@ -251,21 +209,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "Archaeological evidence can be moved from place to place in a variety of ways.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Archaeological evidence can be moved from place to place in a variety of ways."
       },
       "answer": "YES"
     }

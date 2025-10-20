@@ -43,21 +43,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "Other people have been referred to as ‘the last man who knew everything'.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Other people have been referred to as ‘the last man who knew everything'."
       },
       "answer": "TRUE"
     },
@@ -66,21 +52,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "The fact that Young's childhood brilliance continued into adulthood was normal.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The fact that Young's childhood brilliance continued into adulthood was normal."
       },
       "answer": "FALSE"
     },
@@ -89,21 +61,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "Young's talents as a doctor are described as surpassing his other skills.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Young's talents as a doctor are described as surpassing his other skills."
       },
       "answer": "FALSE"
     },
@@ -112,21 +70,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "Young's advice was sought by several bodies responsible for local and national matters.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Young's advice was sought by several bodies responsible for local and national matters."
       },
       "answer": "TRUE"
     },
@@ -135,21 +79,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "All Young's written works were published in the Encyclopaedia Britannica.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "All Young's written works were published in the Encyclopaedia Britannica."
       },
       "answer": "FALSE"
     },
@@ -158,21 +88,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "Young was interested in a range of social pastimes.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Young was interested in a range of social pastimes."
       },
       "answer": "TRUE"
     },
@@ -181,21 +97,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?",
       "content": {
-        "questionText": "Young suffered from poor health in his later years.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Young suffered from poor health in his later years."
       },
       "answer": "NOT GIVEN"
     },

@@ -47,21 +47,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Children's business cards have been banned in some kindergartens.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Children's business cards have been banned in some kindergartens."
       },
       "answer": "TRUE"
     },
@@ -70,21 +56,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "It was the Chinese who first began the practice of using business cards.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "It was the Chinese who first began the practice of using business cards."
       },
       "answer": "FALSE"
     },
@@ -93,21 +65,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Designing business cards can be a controversial process for some companies.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Designing business cards can be a controversial process for some companies."
       },
       "answer": "TRUE"
     },
@@ -116,21 +74,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "A famous toy company has boosted its sales by using one type of unusual business card.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "A famous toy company has boosted its sales by using one type of unusual business card."
       },
       "answer": "NOT GIVEN"
     },
@@ -139,21 +83,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Some business commentators predict a decline in the use of paper business cards.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Some business commentators predict a decline in the use of paper business cards."
       },
       "answer": "TRUE"
     }

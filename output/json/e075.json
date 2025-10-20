@@ -43,21 +43,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Pictures of Mars suggest it might make a good place for people to settle.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Pictures of Mars suggest it might make a good place for people to settle."
       },
       "answer": "NO"
     },
@@ -66,21 +52,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Modern Mars and ancient Earth looked remarkably similar.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Modern Mars and ancient Earth looked remarkably similar."
       },
       "answer": "NOT GIVEN"
     },
@@ -89,21 +61,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "One method of terraforming could involve adapting technology that is already under development.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "One method of terraforming could involve adapting technology that is already under development."
       },
       "answer": "YES"
     },
@@ -112,21 +70,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Greenhouse-gas factories would provide enough oxygen for people to breathe without special equipment.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Greenhouse-gas factories would provide enough oxygen for people to breathe without special equipment."
       },
       "answer": "NO"
     },
@@ -135,21 +79,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–31\nDo the following statements agree with the views of the writer in the Reading passage 3?\nIn boxes 27-31 on your answer sheet, write:\nYES if the statement agrees with the writer's view NO if the statement contradicts the writer's view NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the writer's view\nNO if the statement contradicts the writer's view\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Terraforming Mars would be an extreme test of human skill and intelligence.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Terraforming Mars would be an extreme test of human skill and intelligence."
       },
       "answer": "YES"
     },

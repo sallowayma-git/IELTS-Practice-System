@@ -43,21 +43,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "In the past, it was easier for scientists to study the Moon than the oceans.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the past, it was easier for scientists to study the Moon than the oceans."
       },
       "answer": "TRUE"
     },
@@ -66,21 +52,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Techniques for investigating the Moon are the same as techniques for researching the ocean.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Techniques for investigating the Moon are the same as techniques for researching the ocean."
       },
       "answer": "FALSE"
     },
@@ -89,21 +61,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Measuring temperature changes in the ocean using sound is more time-consuming than other methods.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Measuring temperature changes in the ocean using sound is more time-consuming than other methods."
       },
       "answer": "NOT GIVEN"
     },
@@ -112,21 +70,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–4\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–4 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Hydrophones can distinguish different kinds of rain.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Hydrophones can distinguish different kinds of rain."
       },
       "answer": "TRUE"
     },

@@ -39,21 +39,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–30 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Many parents indicate that their children struggle to learn a musical instrument.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Many parents indicate that their children struggle to learn a musical instrument."
       },
       "answer": "NOT GIVEN"
     },
@@ -62,21 +48,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–30 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "The findings of the recent research into pre-school children's IQs are unreliable.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The findings of the recent research into pre-school children's IQs are unreliable."
       },
       "answer": "NO"
     },
@@ -85,21 +57,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–30 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "The main reasons people take up an instrument are that they enjoy playing music and being creative.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The main reasons people take up an instrument are that they enjoy playing music and being creative."
       },
       "answer": "NOT GIVEN"
     },
@@ -108,21 +66,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 27–30\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 27–30 on your answer sheet, write:\nYES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this",
       "content": {
-        "questionText": "Evidence about the long-term advantages of learning an instrument is increasing.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Evidence about the long-term advantages of learning an instrument is increasing."
       },
       "answer": "YES"
     },
