@@ -150,5 +150,51 @@ class BooleanAuditWorkflowTest(unittest.TestCase):
         audit_exam_pair(self.html_path, self.json_path)
 
 
+class BooleanDatasetAuditTest(unittest.TestCase):
+    def test_boolean_questions_in_json_assets(self) -> None:
+        json_root = Path(__file__).resolve().parents[4] / "output" / "json"
+        self.assertTrue(json_root.is_dir(), f"未找到JSON目录: {json_root}")
+
+        boolean_types = {
+            "true-false-ng": {"TRUE", "FALSE", "NOT GIVEN"},
+            "yes-no-ng": {"YES", "NO", "NOT GIVEN"},
+        }
+
+        for json_path in sorted(json_root.glob("*.json")):
+            with json_path.open("r", encoding="utf-8") as handle:
+                payload = json.load(handle)
+
+            questions = payload.get("questions", [])
+            self.assertIsInstance(questions, list, f"questions字段不是数组: {json_path}")
+
+            for question in questions:
+                if not isinstance(question, dict):
+                    continue
+
+                qtype = question.get("type")
+                if qtype not in boolean_types:
+                    continue
+
+                content = question.get("content")
+                self.assertIsInstance(content, dict, f"布尔题content不是对象: {json_path}")
+                self.assertEqual(
+                    {"statement"},
+                    set(content.keys()),
+                    f"布尔题content包含多余字段: {json_path}",
+                )
+
+                statement = content.get("statement")
+                self.assertIsInstance(statement, str, f"布尔题statement不是字符串: {json_path}")
+                self.assertTrue(statement.strip(), f"布尔题statement为空: {json_path}")
+
+                answer = question.get("answer")
+                self.assertIsInstance(answer, str, f"布尔题answer不是字符串: {json_path}")
+                normalized_answer = answer.strip().upper()
+                self.assertIn(
+                    normalized_answer,
+                    boolean_types[qtype],
+                    f"布尔题答案非法: {json_path} -> {answer}",
+                )
+
 if __name__ == "__main__":  # pragma: no cover
     unittest.main()
