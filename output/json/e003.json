@@ -43,21 +43,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Jane Raymond states that Chillz mineral water is packaged in a way that is unattractive to consumers.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Jane Raymond states that Chillz mineral water is packaged in a way that is unattractive to consumers."
       },
       "answer": "FALSE"
     },
@@ -66,21 +52,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Consumers are still exposed to more advertising through television commercials than through the medium of the Internet.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Consumers are still exposed to more advertising through television commercials than through the medium of the Internet."
       },
       "answer": "NOT GIVEN"
     },
@@ -89,21 +61,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Jamie Rayner says that people are no longer influenced by traditional advertisements.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Jamie Rayner says that people are no longer influenced by traditional advertisements."
       },
       "answer": "TRUE"
     },
@@ -112,21 +70,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "According to Jamie Rayner, the reason that most products are discontinued is that advertising fails to attract consumers.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "According to Jamie Rayner, the reason that most products are discontinued is that advertising fails to attract consumers."
       },
       "answer": "TRUE"
     },
@@ -135,21 +79,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Jane Raymond believes that commercials should be simpler in their content.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Jane Raymond believes that commercials should be simpler in their content."
       },
       "answer": "TRUE"
     },
@@ -158,21 +88,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Advertisements showing unfamiliar brands affect a person's concentration more than ones with familiar brands.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Advertisements showing unfamiliar brands affect a person's concentration more than ones with familiar brands."
       },
       "answer": "NOT GIVEN"
     },
@@ -181,21 +97,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–7 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Jane Raymond suggests that a product should be advertised in as many ways as possible.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Jane Raymond suggests that a product should be advertised in as many ways as possible."
       },
       "answer": "FALSE"
     },

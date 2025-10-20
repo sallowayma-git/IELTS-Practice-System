@@ -47,21 +47,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "C. Auguste Dupin and Émile Gaboriau were both writers of detective stories.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "C. Auguste Dupin and Émile Gaboriau were both writers of detective stories."
       },
       "answer": "FALSE"
     },
@@ -70,21 +56,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "It was Conan Doyle's creation of Sherlock Holmes that made the detective story a typically British genre.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "It was Conan Doyle's creation of Sherlock Holmes that made the detective story a typically British genre."
       },
       "answer": "TRUE"
     },
@@ -93,21 +65,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The positive qualities of the character of Sherlock Holmes outweigh the negative qualities.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The positive qualities of the character of Sherlock Holmes outweigh the negative qualities."
       },
       "answer": "NOT GIVEN"
     },
@@ -116,21 +74,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Officials at Scotland Yard were unhappy at the way they were portrayed in the Sherlock Holmes stories.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Officials at Scotland Yard were unhappy at the way they were portrayed in the Sherlock Holmes stories."
       },
       "answer": "NOT GIVEN"
     },
@@ -139,21 +83,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Sherlock Holmes is based on a real private detective who was consulted by Scotland Yard.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Sherlock Holmes is based on a real private detective who was consulted by Scotland Yard."
       },
       "answer": "FALSE"
     },
@@ -162,21 +92,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Conan Doyle's work fails to reflect the reality of crime in 19th-century Britain.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Conan Doyle's work fails to reflect the reality of crime in 19th-century Britain."
       },
       "answer": "TRUE"
     },
@@ -185,21 +101,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "In the 1920s and 1930s, most writers of detective stories started to include interesting female characters in their work.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In the 1920s and 1930s, most writers of detective stories started to include interesting female characters in their work."
       },
       "answer": "FALSE"
     },
@@ -208,21 +110,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Agatha Christie only earned a few hundred pounds for her books.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Agatha Christie only earned a few hundred pounds for her books."
       },
       "answer": "FALSE"
     }

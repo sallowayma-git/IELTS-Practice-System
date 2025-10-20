@@ -39,21 +39,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Caral was built at the same time as the construction of the Egyptian pyramids.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Caral was built at the same time as the construction of the Egyptian pyramids."
       },
       "answer": "FALSE"
     },
@@ -62,21 +48,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The absence of pottery at the archaeological dig gave Shady a significant clue to the age of the site.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The absence of pottery at the archaeological dig gave Shady a significant clue to the age of the site."
       },
       "answer": "TRUE"
     },
@@ -85,21 +57,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The stones used to build Piramide Mayor came from a location far away.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The stones used to build Piramide Mayor came from a location far away."
       },
       "answer": "FALSE"
     },
@@ -108,21 +66,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The huge and complicated structures of Piramide Mayor suggest that its construction required an organised team of builders.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The huge and complicated structures of Piramide Mayor suggest that its construction required an organised team of builders."
       },
       "answer": "TRUE"
     },
@@ -131,21 +75,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Archaeological evidence shows that the residents of Caral were highly skilled musicians.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Archaeological evidence shows that the residents of Caral were highly skilled musicians."
       },
       "answer": "NOT GIVEN"
     },
@@ -154,21 +84,7 @@
       "type": "true-false-ng",
       "instruction": "Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The remains of housing areas at Caral suggest that there were no class distinctions in residential areas.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The remains of housing areas at Caral suggest that there were no class distinctions in residential areas."
       },
       "answer": "FALSE"
     }

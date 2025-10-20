@@ -51,21 +51,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Donald Johanson was uncertain about the nature of the elbow bone he found in Afar.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Donald Johanson was uncertain about the nature of the elbow bone he found in Afar."
       },
       "answer": "FALSE"
     },
@@ -74,21 +60,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Several bones were found by Donald Johanson at the same site in Afar.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Several bones were found by Donald Johanson at the same site in Afar."
       },
       "answer": "TRUE"
     },
@@ -97,21 +69,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The experts realised the importance of the discovery at Afar.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The experts realised the importance of the discovery at Afar."
       },
       "answer": "TRUE"
     },
@@ -120,21 +78,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "It was the upper part of the skeleton that had suffered the least damage.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "It was the upper part of the skeleton that had suffered the least damage."
       },
       "answer": "NOT GIVEN"
     },
@@ -143,21 +87,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The skeleton's measurements helped Johanson's team to decide if it was male or female.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The skeleton's measurements helped Johanson's team to decide if it was male or female."
       },
       "answer": "TRUE"
     }

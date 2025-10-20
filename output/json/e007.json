@@ -55,21 +55,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Archaeological evidence from pots has helped determine when people first began to grow chilies for food.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Archaeological evidence from pots has helped determine when people first began to grow chilies for food."
       },
       "answer": "TRUE"
     },
@@ -78,21 +64,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Linda Perry thinks mankind began using chilies in cooking largely because they kept food from spoiling.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Linda Perry thinks mankind began using chilies in cooking largely because they kept food from spoiling."
       },
       "answer": "FALSE"
     },
@@ -101,21 +73,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Christopher Columbus is said to have enjoyed the new experience of eating food spiced with chilies.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Christopher Columbus is said to have enjoyed the new experience of eating food spiced with chilies."
       },
       "answer": "NOT GIVEN"
     },
@@ -124,21 +82,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Explorers from Portugal were introduced to chilies in Africa.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Explorers from Portugal were introduced to chilies in Africa."
       },
       "answer": "FALSE"
     },
@@ -147,21 +91,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The feeling of heat while eating chilies is a purely psychological effect rather than a physical one.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The feeling of heat while eating chilies is a purely psychological effect rather than a physical one."
       },
       "answer": "FALSE"
     },
@@ -170,21 +100,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "A chemist called Scoville created a heat scale based on the collective judgement of a group of individuals.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "A chemist called Scoville created a heat scale based on the collective judgement of a group of individuals."
       },
       "answer": "TRUE"
     },

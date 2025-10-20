@@ -396,21 +396,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–10\nDo the following statements agree with the information given in Reading Passage 1?",
       "content": {
-        "questionText": "Gilbert is less famous than he should be.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Gilbert is less famous than he should be."
       },
       "answer": "TRUE"
     },
@@ -419,21 +405,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–10\nDo the following statements agree with the information given in Reading Passage 1?",
       "content": {
-        "questionText": "Gilbert was famous as a doctor before he was employed by the Queen.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Gilbert was famous as a doctor before he was employed by the Queen."
       },
       "answer": "TRUE"
     },
@@ -442,21 +414,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–10\nDo the following statements agree with the information given in Reading Passage 1?",
       "content": {
-        "questionText": "Gilbert lost faith in the medical theories of his time.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Gilbert lost faith in the medical theories of his time."
       },
       "answer": "NOT GIVEN"
     }

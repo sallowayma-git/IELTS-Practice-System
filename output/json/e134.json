@@ -39,21 +39,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Ochre was used in paintings before it was used in fabric dyes.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Ochre was used in paintings before it was used in fabric dyes."
       },
       "answer": "TRUE"
     },
@@ -62,21 +48,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Natural dyes that need a mordant are rare.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Natural dyes that need a mordant are rare."
       },
       "answer": "FALSE"
     },
@@ -85,21 +57,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "In medieval times people sometimes wore fabric made of undyed wool.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In medieval times people sometimes wore fabric made of undyed wool."
       },
       "answer": "TRUE"
     },
@@ -108,21 +66,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Silk has always been more expensive than cotton and wool.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Silk has always been more expensive than cotton and wool."
       },
       "answer": "NOT GIVEN"
     },
@@ -131,21 +75,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Cotton imported from India was dyed upon arrival in Europe.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Cotton imported from India was dyed upon arrival in Europe."
       },
       "answer": "FALSE"
     },
@@ -154,21 +84,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Perkin became more famous than his teacher, von Hofmann.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Perkin became more famous than his teacher, von Hofmann."
       },
       "answer": "NOT GIVEN"
     },
@@ -177,21 +93,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Very few synthetic dyes were produced in Europe in the second half of the 19th century.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Very few synthetic dyes were produced in Europe in the second half of the 19th century."
       },
       "answer": "FALSE"
     },
@@ -200,21 +102,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–8\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–8 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Today the commercial production of natural dyes is limited to a small number of isolated communities.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Today the commercial production of natural dyes is limited to a small number of isolated communities."
       },
       "answer": "TRUE"
     }

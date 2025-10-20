@@ -51,21 +51,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The Burgess Shale became widely known to the public because of Gould's book.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The Burgess Shale became widely known to the public because of Gould's book."
       },
       "answer": "TRUE"
     },
@@ -74,21 +60,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Charles Walcott had to get permission from Canadian authorities to gain access to the fossil site.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Charles Walcott had to get permission from Canadian authorities to gain access to the fossil site."
       },
       "answer": "NOT GIVEN"
     },
@@ -97,21 +69,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The Burgess Shale includes impressions of soft and hard body parts.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The Burgess Shale includes impressions of soft and hard body parts."
       },
       "answer": "TRUE"
     },
@@ -120,21 +78,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "The Burgess Shale creatures were land animals.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The Burgess Shale creatures were land animals."
       },
       "answer": "FALSE"
     },
@@ -143,21 +87,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Researchers now believe that Hallucigenia is unrelated to any modern creature.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Researchers now believe that Hallucigenia is unrelated to any modern creature."
       },
       "answer": "FALSE"
     },

@@ -55,21 +55,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "The rise of social history led to the cultural revolution of the 1960s.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The rise of social history led to the cultural revolution of the 1960s."
       },
       "answer": "NO"
     },
@@ -78,21 +64,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "Social historians tend to study a later period of history than traditional historians did.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Social historians tend to study a later period of history than traditional historians did."
       },
       "answer": "YES"
     },
@@ -101,21 +73,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "British cinema in the 1960s lacked any working-class characters.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "British cinema in the 1960s lacked any working-class characters."
       },
       "answer": "NO"
     },
@@ -124,21 +82,7 @@
       "type": "yes-no-ng",
       "instruction": "Questions 32–35\nDo the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
       "content": {
-        "questionText": "The loss of respect for authority in the 1960s was a leading cause of social problems.",
-        "options": [
-          {
-            "label": "YES",
-            "text": "YES"
-          },
-          {
-            "label": "NO",
-            "text": "NO"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The loss of respect for authority in the 1960s was a leading cause of social problems."
       },
       "answer": "NOT GIVEN"
     },

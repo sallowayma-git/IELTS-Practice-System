@@ -59,21 +59,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "There is usually little difference in wealth between the various members of a band.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "There is usually little difference in wealth between the various members of a band."
       },
       "answer": "TRUE"
     },
@@ -82,21 +68,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "In tribes, farmers typically grow a wide range of food plants.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In tribes, farmers typically grow a wide range of food plants."
       },
       "answer": "NOT GIVEN"
     },
@@ -105,21 +77,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "A typical tribe has one settlement which is more important than others.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "A typical tribe has one settlement which is more important than others."
       },
       "answer": "FALSE"
     },
@@ -128,21 +86,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "In a chiefdom, social status usually depends on the amount of land a person owns.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "In a chiefdom, social status usually depends on the amount of land a person owns."
       },
       "answer": "FALSE"
     },
@@ -151,21 +95,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "A chiefdom typically contains some workers who are engaged in making goods.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "A chiefdom typically contains some workers who are engaged in making goods."
       },
       "answer": "TRUE"
     },
@@ -174,21 +104,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "An early state may depend on military power to maintain law and order.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "An early state may depend on military power to maintain law and order."
       },
       "answer": "TRUE"
     },
@@ -197,21 +113,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–7\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet write\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
       "content": {
-        "questionText": "Bureaucratic officials in early states receive higher salaries than any other workers.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Bureaucratic officials in early states receive higher salaries than any other workers."
       },
       "answer": "NOT GIVEN"
     },

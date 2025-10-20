@@ -35,21 +35,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The chemical structure of plastic is very different from that of rubber.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The chemical structure of plastic is very different from that of rubber."
       },
       "answer": "FALSE"
     },
@@ -58,21 +44,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "John Wesley was a famous chemist.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "John Wesley was a famous chemist."
       },
       "answer": "NOT GIVEN"
     },
@@ -81,21 +53,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Celluloid and Bakelite react to heat in the same way.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Celluloid and Bakelite react to heat in the same way."
       },
       "answer": "FALSE"
     },
@@ -104,21 +62,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "The mix of different varieties of plastic can make recycling more difficult.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "The mix of different varieties of plastic can make recycling more difficult."
       },
       "answer": "TRUE"
     },
@@ -127,21 +71,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Adding starch to plastic can make plastic more durable.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Adding starch to plastic can make plastic more durable."
       },
       "answer": "FALSE"
     },
@@ -150,21 +80,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 8–13\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Some plastic containers have to be preserved in special conditions.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Some plastic containers have to be preserved in special conditions."
       },
       "answer": "TRUE"
     }

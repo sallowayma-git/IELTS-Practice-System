@@ -47,21 +47,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Bocherens' findings on cave bears involve measuring the length of complete bones.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Bocherens' findings on cave bears involve measuring the length of complete bones."
       },
       "answer": "FALSE"
     },
@@ -70,21 +56,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Bocherens was the first person to conduct analytical research on cave bears in a laboratory.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Bocherens was the first person to conduct analytical research on cave bears in a laboratory."
       },
       "answer": "NOT GIVEN"
     },
@@ -93,21 +65,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Cave bears have been extinct for 25,000 years.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Cave bears have been extinct for 25,000 years."
       },
       "answer": "TRUE"
     },
@@ -116,21 +74,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "At one time, people thought the excavated remains of bears were those of dragons.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "At one time, people thought the excavated remains of bears were those of dragons."
       },
       "answer": "TRUE"
     },
@@ -139,21 +83,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Modern grizzly bears are similar in size to cave bears.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Modern grizzly bears are similar in size to cave bears."
       },
       "answer": "FALSE"
     },
@@ -162,21 +92,7 @@
       "type": "true-false-ng",
       "instruction": "Questions 1–6\nDo the following statements agree with the information in Reading Passage 1?\nIn boxes 1–6 on your answer sheet, write:\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about this\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
       "content": {
-        "questionText": "Neanderthals understood cave bear behaviour better than modern humans did.",
-        "options": [
-          {
-            "label": "TRUE",
-            "text": "TRUE"
-          },
-          {
-            "label": "FALSE",
-            "text": "FALSE"
-          },
-          {
-            "label": "NOT GIVEN",
-            "text": "NOT GIVEN"
-          }
-        ]
+        "statement": "Neanderthals understood cave bear behaviour better than modern humans did."
       },
       "answer": "NOT GIVEN"
     }
